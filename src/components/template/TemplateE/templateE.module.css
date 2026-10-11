@@ -1,0 +1,63 @@
+.container {
+  & .policyContainer {
+    padding: 60px 70px 140px 70px;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    color: var(--color-font-black);
+    & a {
+      text-decoration: underline;
+      color: var(--color-purple);
+    }
+    & > .sectionContainer {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+
+      & ul {
+        display: list-item;
+        padding: 0 0 0 40px;
+        & li {
+          list-style: disc;
+        }
+      }
+    }
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .container {
+    .policyContainer a:hover {
+      text-decoration: none;
+      color: var(--color-font-black);
+    }
+  }
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .container {
+    .policyContainer {
+      padding: 22px 20px 80px 20px;
+      gap: 40px;
+      & > .sectionContainer {
+        gap: 12px;
+
+        & ul {
+          display: list-item;
+          padding: 0 0 0 20px;
+          & li {
+            list-style: disc;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1660px) {
+  .container {
+    max-width: 1660px;
+    margin: 0 auto;
+  }
+}

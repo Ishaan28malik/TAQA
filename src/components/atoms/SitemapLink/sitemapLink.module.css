@@ -1,0 +1,31 @@
+.linkText {
+  color: var(--color);
+  & svg {
+    display: inline;
+    height: 18px;
+    width: 18px;
+    margin-left: 10px;
+    vertical-align: top;
+    /*rtl:raw:
+      transform: scaleX(-1);
+    */
+    & path {
+      fill: var(--color);
+    }
+  }
+  & .link {
+    & span {
+      text-decoration: underline;
+    }
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .linkText {
+    & .link:hover {
+      & span{
+        text-decoration: none;
+      }
+    }
+  }
+}

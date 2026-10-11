@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 100px 70px 180px;
+  color: #1a1a1d;
+  & .detailsContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    & h1 {
+      width: 80%;
+      margin-left: -4px;
+    }
+    & p {
+      width: 60%;
+    }
+  }
+  &.noBottomPadding {
+    padding: 100px 70px 16px;
+  }
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .container {
+    padding: 80px 20px;
+    gap: 20px;
+    & .detailsContainer {
+      gap: 20px;
+      & h1 {
+        width: 100%;
+        margin-left: -3px;
+      }
+      & p {
+        width: 100%;
+      }
+    }
+    &.noBottomPadding {
+      padding: 60px 20px 16px;
+    }
+  }
+}

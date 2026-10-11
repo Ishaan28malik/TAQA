@@ -1,0 +1,20 @@
+.applinks {
+  display: flex;
+  gap: 10px;
+}
+
+.borderBlack {
+  border: 1px solid #1a1a1d;
+}
+
+
+@media screen and (max-width: 768px),
+screen and (max-width: 1024px) and (orientation: landscape)
+{
+  .applinks {
+    margin-top: 0px;
+  }
+  .applink img {
+    /* height: auto; */
+  }
+}

@@ -1,0 +1,192 @@
+.btn {
+  text-decoration: none;
+  color: var(--theme-color);
+  border-radius: 80px;
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  text-transform: uppercase;
+  background-color: #fff;
+
+  &.btn-bordered {
+    border: 1px solid var(--theme-color);
+  }
+
+  &.btn-xl {
+    height: 100px;
+    gap: 40px;
+    padding: 15px 40px;
+    &.btn-icon:not(.btn-tertiary) {
+      padding: 15px 15px 15px 40px;
+    }
+  }
+
+  &.btn-lg {
+    height: 74px;
+    gap: 20px;
+    padding: 10px 30px;
+    &.btn-icon:not(.btn-tertiary) {
+      padding: 10px 10px 10px 30px;
+    }
+  }
+
+  &.btn-md {
+    height: 60px;
+    gap: 20px;
+    padding: 10px 40px;
+    &.btn-icon:not(.btn-tertiary) {
+      padding: 10px 10px 10px 40px;
+    }
+  }
+
+  &.btn-sm {
+    height: 43px;
+    gap: 10px;
+    padding: 15px 25px;
+    &.btn-icon:not(.btn-tertiary) {
+      padding: 15px 15px 15px 25px;
+    }
+  }
+
+  &.btn-primary {
+    background-color: var(--theme-color);
+    color: #fff;
+    border: 1px solid var(--theme-color);
+    &.disabled {
+      border-color: var(--color-grey-25);
+      background-color: var(--color-grey-25);
+    }
+  }
+
+  &.btn-secondary {
+    background-color: #fff;
+    &.disabled {
+      border-color: var(--color-grey-25);
+      color: var(--color-grey-25);
+    }
+  }
+
+  &.btn-tertiary {
+    gap: 10px;
+    background-color: transparent;
+    color: var(--theme-color);
+    padding: 0 0 0 0;
+    height: auto;
+    &.disabled {
+      color: var(--color-grey-25);
+    }
+    & span {
+      position: relative;
+      &::before {
+        content: "";
+        position: absolute;
+        bottom: -2px;
+        left: auto;
+        right: 0;
+        width: 0%;
+        border-bottom: 2px solid var(--theme-color);
+        transition: width 0.3s linear;
+      }
+    }
+  }
+  &.disabled {
+    pointer-events: none;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .btn {
+    transition: background-color 0.3s ease-in;
+    &:hover {
+      &.btn-primary {
+        background-color: #fff;
+        color: var(--theme-color);
+      }
+
+      &.btn-secondary {
+        &:not(.animated) {
+          background-color: var(--theme-color);
+          color: #fff;
+        }
+        & .animatedButton {
+          clip-path: inset(0 round 80px);
+        }
+        &.btn-bordered {
+          & .animatedButton {
+            clip-path: inset(-1px round 80px);
+          }
+        }
+      }
+
+      &.btn-tertiary {
+        color: #1a1a1d;
+        & div {
+          & svg {
+            & path {
+              fill: #1a1a1d;
+            }
+          }
+        }
+      }
+      &.btn-tertiary.animated {
+        & span {
+          &::before {
+            left: 0;
+            right: auto;
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .btn {
+    &.btn-xl {
+      height: 62px;
+      gap: 20px;
+      padding: 8px 25px;
+      &.btn-icon:not(.btn-tertiary) {
+        padding: 8px 8px 8px 25px;
+      }
+    }
+
+    &.btn-lg {
+      height: 52px;
+      gap: 14px;
+      padding: 8px 25px;
+      &.btn-icon:not(.btn-tertiary) {
+        padding: 8px 8px 8px 25px;
+      }
+    }
+
+    &.btn-md {
+      height: 47px;
+      gap: 20px;
+      padding: 15px 30px;
+      &.btn-icon:not(.btn-tertiary) {
+        padding: 15px 15px 15px 30px;
+      }
+    }
+
+    &.btn-sm {
+      height: 38px;
+      gap: 10px;
+      padding: 12px 20px;
+      border-radius: 70px;
+      &.btn-icon:not(.btn-tertiary) {
+        padding: 12px 12px 12px 20px;
+      }
+    }
+
+    &.btn-tertiary {
+      gap: 6px;
+      background-color: transparent;
+      color: var(--theme-color);
+      padding: 0 0 0 0;
+      height: auto;
+    }
+  }
+}

@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    align-items: baseline;
+    padding: 90px 0;
+    gap: 20px;
+    background-color: #00093F;
+    overflow-x: auto;
+    flex: 1;
+}

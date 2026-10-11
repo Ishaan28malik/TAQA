@@ -1,0 +1,364 @@
+{
+  "addc": {
+    "en-us": {
+      "caption": "partners",
+      "title": "PARTNERSHIP SERVICES AND INFORMATION",
+      "description": "Find out how to work with us as a third party, where to apply for connections as a contractor, and all other partner-related information.",
+      "content": {
+        "joinUsSection": {
+          "title": "Join us",
+          "networkPartners": [
+            {
+              "type": "partnersImageCard",
+              "title": "NETWORK PARTNERS",
+              "description": "All the information for those wishing to work with us as a partner on our water and electricity networks",
+              "image": "/assets/images/networkPartnersPlaceholderImg.jpg"
+            },
+            {
+              "type": "serviceCard",
+              "title": "NEW TO TAQA DISTRIBUTION",
+              "description": "Information and resources to help you connect to our electricity network",
+              "links": [
+                {
+                  "label": "Water services",
+                  "link": "https://www.addc.ae/en-us/distribution/Pages/Water-services.aspx",
+                  "externalWebsiteLink": true
+                },
+                {
+                  "label": "Energy services",
+                  "link": "https://www.addc.ae/en-us/distribution/Pages/Electrical-services.aspx",
+                  "externalWebsiteLink": true
+                }
+              ],
+              "buttons": [
+                {
+                  "label": "CLICK HERE TO REGISTER",
+                  "link": "https://maxservices.adwea.ae/maximo/webclient/login/login.jsp?welcome=true",
+                  "externalWebsiteLink": true
+                }
+              ]
+            },
+            {
+              "type": "serviceCard",
+              "title": "EXISTING NETWORK PARTNERS",
+              "description": "Find out all the information you need here as an existing network partner.",
+              "buttons": [
+                {
+                  "label": "LOGIN",
+                  "link": "https://eservices.addc.ae/En/Pages/Default.aspx",
+                  "externalWebsiteLink": true
+                }
+              ]
+            },
+            {
+              "type": "serviceCard",
+              "onlyLink": true,
+              "links": [
+                {
+                  "label": "DISCOVER MORE ABOUT CONNECTION FEES",
+                  "link": "https://www.addc.ae/en-us/distribution/Pages/ConnectionCharges.aspx",
+                  "externalWebsiteLink": true
+                }
+              ]
+            }
+          ],
+          "suppliers": [
+            {
+              "type": "partnersImageCard",
+              "title": "SUPPLIERS",
+              "description": "Become an approved vendor or register your company to bid on tenders",
+              "image": "/assets/images/suppliersPlaceholderImg.jpg"
+            },
+            {
+              "type": "serviceCard",
+              "title": "NEW TO TAQA DISTRIBUTION",
+              "description": "It is a simple process to register with us as a supplier",
+              "needPlaceholderLinkDesktop": true,
+              "buttons": [
+                {
+                  "label": "CLICK HERE TO REGISTER",
+                  "link": "https://eregistration.addc.ae/eRegistration/index.html",
+                  "externalWebsiteLink": true
+                }
+              ]
+            },
+            {
+              "type": "serviceCard",
+              "title": "EXISTING SUPPLIERS",
+              "description": "Access to all relevant information for current suppliers",
+              "buttons": [
+                {
+                  "label": "LOGIN",
+                  "link": "https://maxservices.adwea.ae/maximo/ui/login?event=loadapp&value=opentender&login=selfreg",
+                  "externalWebsiteLink": true
+                }
+              ]
+            }
+          ]
+        },
+        "auctionAndTendersSection": [
+          {
+            "type": "partnersImageCard",
+            "title": "AUCTIONS",
+            "description": "Find out when our auctions are, and how the bidding process works",
+            "image": "/assets/images/auctionsPlaceholderImg.jpg",
+            "links": [
+              {
+                "label": "LEARN MORE",
+                "link": "https://www.addc.ae/en-us/distribution/Pages/Auctions.aspx",
+                "externalWebsiteLink": true
+              }
+            ]
+          },
+          {
+            "type": "partnersImageCard",
+            "title": "TENDERS",
+            "description": "See current tenders that you have been invited to bid on",
+            "image": "/assets/images/tendersPlaceholderImg.jpg",
+            "links": [
+              {
+                "label": "LEARN MORE",
+                "link": "https://maxservices.adwea.ae/maximo/ui/login?event=loadapp&value=rfrselfreg&login=selfreg",
+                "externalWebsiteLink": true
+              }
+            ]
+          }
+        ],
+        "carousels": [
+          {
+            "title": "HEALTH AND SAFETY",
+            "backgroundColor": "#FAFAFA",
+            "component": "healthAndSafety",
+            "description": "Everything we do is designed to meet the highest international standards of health, safety, environment and quality (HSEQ), to ensure we look after our people and our places.",
+            "slides": [
+              {
+                "iconName": "secure",
+                "title": "Policies & Awards",
+                "description": "Find out more about how we maintain a safe working environment through our extensive safety policies.",
+                "link": {
+                  "link": "https://www.addc.ae/en-us/distribution/Pages/Safety-Policy-and-certifications.aspx",
+                  "label": "See our approach",
+                  "icon": "forwardArrow",
+                  "externalWebsiteLink": true
+                }
+              },
+              {
+                "iconName": "energyEfficient",
+                "title": "Join our competency programme",
+                "description": "Any person working on our networks must be listed on our HSEQ Competence Register.",
+                "link": {
+                  "link": "https://www.addc.ae/en-us/distribution/Pages/CompetenceRegister.aspx",
+                  "label": "SEE OUR GUIDE",
+                  "icon": "forwardArrow",
+                  "externalWebsiteLink": true
+                }
+              },
+              {
+                "iconName": "document",
+                "title": "HSEQ document",
+                "description": "You can view all our HSEQ rules, documents and requirements are here in one place.",
+                "link": {
+                  "link": "https://www.addc.ae/en-us/distribution/Pages/HSEQDocuments.aspx",
+                  "label": "DOWNLOAD HERE",
+                  "icon": "forwardArrow",
+                  "externalWebsiteLink": true
+                }
+              },
+              {
+                "iconName": "shield",
+                "title": "SAFETY MATTERS",
+                "description": "We have 15 HSEQ golden rules to help every person stay safe when working with us.",
+                "link": {
+                  "link": "https://www.addc.ae/en-us/distribution/Pages/Safety-Golden-Rules.aspx",
+                  "label": "SEE OUR RULES",
+                  "icon": "forwardArrow",
+                  "externalWebsiteLink": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "ar-ae": {
+      "caption": "الشركاء",
+      "title": "معلومات وخدمات الشراكة",
+      "description": "تعرف على كيفية العمل معنا والتقدم بطلب للحصول على اتصالات كمقاول، وجميع المعلومات الأخرى المتعلقة بالشريك.",
+      "content": {
+        "joinUsSection": {
+          "title": "انضم إلينا",
+          "networkPartners": [
+            {
+              "type": "partnersImageCard",
+              "title": "شركاؤنا",
+              "description": "كافة المعلومات للراغبين في العمل معنا كشريك",
+              "image": "/assets/images/networkPartnersPlaceholderImg.jpg"
+            },
+            {
+              "type": "serviceCard",
+              "title": "تسعى لشراكتنا؟",
+              "description": "ستجد هنا المعلومات والمصادر اللازمة لمساعدتك على التوصيل على شبكتنا بسلاسة",
+              "links": [
+                {
+                  "label": "خدمات المياه",
+                  "link": "https://www.addc.ae/ar-ae/distribution/Pages/Water-services.aspx",
+                  "externalWebsiteLink": true
+                },
+                {
+                  "label": "خدمات الطاقة",
+                  "link": "https://www.addc.ae/ar-ae/distribution/Pages/Electrical-services.aspx",
+                  "externalWebsiteLink": true
+                }
+              ],
+              "buttons": [
+                {
+                  "label": "اضغط هنا للتسجيل",
+                  "link": "https://maxservices.adwea.ae/maximo/webclient/login/login.jsp?welcome=true",
+                  "externalWebsiteLink": true
+                }
+              ]
+            },
+            {
+              "type": "serviceCard",
+              "title": "شركاؤنا الحاليين",
+              "description": "تعرف على جميع المعلومات التي تحتاجها هنا كشريك حالي",
+              "buttons": [
+                {
+                  "label": "تسجيل الدخول",
+                  "link": "https://eservices.addc.ae/Ar/Pages/Default.aspx",
+                  "externalWebsiteLink": true
+                }
+              ]
+            },
+            {
+              "type": "serviceCard",
+              "onlyLink": true,
+              "links": [
+                {
+                  "label": "اكتشف المزيد حول رسوم التوصيل",
+                  "link": "https://www.addc.ae/ar-ae/distribution/Pages/ConnectionCharges.aspx",
+                  "externalWebsiteLink": true
+                }
+              ]
+            }
+          ],
+          "suppliers": [
+            {
+              "type": "partnersImageCard",
+              "title": "الموردين",
+              "description": "كن موردًا معتمدًا أو قم بتسجيل شركتك لتقديم العطاءات",
+              "image": "/assets/images/suppliersPlaceholderImg.jpg"
+            },
+            {
+              "type": "serviceCard",
+              "title": "تسعى لشراكتنا؟",
+              "description": "يمكن التسجيل معنا كمورد في خطوات بسيطة",
+              "needPlaceholderLinkDesktop": true,
+              "buttons": [
+                {
+                  "label": "اضغط هنا للتسجيل",
+                  "link": "https://eregistration.addc.ae/eRegistration/index.html",
+                  "externalWebsiteLink": true
+                }
+              ]
+            },
+            {
+              "type": "serviceCard",
+              "title": "الموردين الحاليين",
+              "description": "الدخول إلى المعلومات المتعلقة بالموردين الحاليين",
+              "buttons": [
+                {
+                  "label": "تسجيل الدخول",
+                  "link": "https://maxservices.adwea.ae/maximo/ui/login?event=loadapp&value=opentender&login=selfreg",
+                  "externalWebsiteLink": true
+                }
+              ]
+            }
+          ]
+        },
+        "auctionAndTendersSection": [
+          {
+            "type": "partnersImageCard",
+            "title": "المزادات",
+            "description": "تعرف على مواعيد مزاداتنا، وكيف تتم عملية تقديم العطاءات",
+            "image": "/assets/images/auctionsPlaceholderImg.jpg",
+            "links": [
+              {
+                "label": "المزيد",
+                "link": "https://www.addc.ae/ar-ae/distribution/Pages/Auctions.aspx",
+                "externalWebsiteLink": true
+              }
+            ]
+          },
+          {
+            "type": "partnersImageCard",
+            "title": "المناقصات",
+            "description": "اطلع على المناقصات الحالية التي تم دعوتك إليها",
+            "image": "/assets/images/tendersPlaceholderImg.jpg",
+            "links": [
+              {
+                "label": "المزيد",
+                "link": "https://maxservices.adwea.ae/maximo/ui/login?event=loadapp&value=rfrselfreg&login=selfreg",
+                "externalWebsiteLink": true
+              }
+            ]
+          }
+        ],
+        "carousels": [
+          {
+            "title": "الصحة والسلامة",
+            "backgroundColor": "#FAFAFA",
+            "component": "healthAndSafety",
+            "description": "تم تصميم كل ما نقوم به بما يتناسب مع المعايير الدولية العالية للصحة والسلامة والبيئة والجودة (HSEQ)، لضمان رعاية موظفينا وأماكننا.",
+            "slides": [
+              {
+                "iconName": "secure",
+                "title": "السياسة والجوائز",
+                "description": "اكتشف المزيد حول كيفية الحفاظ على بيئة عمل آمنة من خلال اتباع سياسات السلامة الشاملة لدينا.",
+                "link": {
+                  "link": "https://www.addc.ae/ar-ae/distribution/pages/safety-policy-and-certifications.aspx",
+                  "label": "نهجنا",
+                  "icon": "forwardArrow",
+                  "externalWebsiteLink": true
+                }
+              },
+              {
+                "iconName": "energyEfficient",
+                "title": "انضم إلى برنامج الكفاءات الخاص بنا",
+                "description": "أي شخص يعمل على شبكاتنا يجب أن يكون مدرجًا في سجل الكفاءة في مجال الصحة والسلامة والبيئة والجودة (HSEQ).",
+                "link": {
+                  "link": "https://www.addc.ae/ar-ae/distribution/pages/competenceregister.aspx",
+                  "label": "دليلنا",
+                  "icon": "forwardArrow",
+                  "externalWebsiteLink": true
+                }
+              },
+              {
+                "iconName": "document",
+                "title": "وثيقة الصحة والسلامة والبيئة والجودة",
+                "description": "تعرف على على جميع قواعد ووثائق ومتطلبات الصحة والسلامة والبيئة والجودة لدينا هنا في مكان واحد.",
+                "link": {
+                  "link": "https://www.addc.ae/ar-ae/distribution/pages/hseqdocuments.aspx",
+                  "label": "التنزيل",
+                  "icon": "forwardArrow",
+                  "externalWebsiteLink": true
+                }
+              },
+              {
+                "iconName": "shield",
+                "title": "المسائل المتعلقة بالسلامة",
+                "description": "لدينا 15 قاعدة ذهبية في مجال الصحة والسلامة والبيئة والجودة لمساعدة كل شخص على البقاء آمنًا أثناء العمل معنا.",
+                "link": {
+                  "link": "https://www.addc.ae/ar-ae/distribution/pages/safety-golden-rules.aspx",
+                  "label": "اطلع على قواعدنا",
+                  "icon": "forwardArrow",
+                  "externalWebsiteLink": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

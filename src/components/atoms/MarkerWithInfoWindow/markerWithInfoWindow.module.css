@@ -1,0 +1,22 @@
+.marker {
+  & svg {
+    height: 50px;
+    width: 50px;
+    & circle{
+        fill: var(--theme-color);
+    }
+  }
+  &.selected{
+    & svg {
+        height: 50px;
+        width: 50px;
+        & circle{
+            fill: var(--theme-secondary-color);
+        }
+      }
+  }
+}
+
+.infoBox{
+  max-width: 300px;
+}

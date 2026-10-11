@@ -1,0 +1,17 @@
+.container {
+    padding: 26px 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px),
+screen and (max-width: 1024px) and (orientation: landscape) 
+{
+    .container{
+        padding: 20px;
+        flex-direction: column;
+        gap: 20px;
+        align-items: flex-start;
+    }
+}

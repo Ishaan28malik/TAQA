@@ -1,0 +1,310 @@
+{
+  "header": {
+    "links": {
+      "en-us": {
+        "residential": "/{{region}}/{{language}}/residential/overview",
+        "business": "/{{region}}/{{language}}/business/overview",
+        "partners": "/{{region}}/{{language}}/partners/overview",
+        "taqaGroup": "https://www.taqa.com/",
+        "language": "عربي"
+      },
+      "ar-ae": {
+        "سكني": "/{{region}}/{{language}}/residential/overview",
+        "الأعمال": "/{{region}}/{{language}}/business/overview",
+        "الشركاء": "/{{region}}/{{language}}/partners/overview",
+        "مجموعة طاقة": "https://www.taqa.com/ar",
+        "language": "English"
+      }
+    }
+  },
+  "residential": {
+    "overview": {
+      "navigation/links": {
+        "en-us": {
+          "overview": "/{{region}}/{{language}}/residential/overview",
+          "help-and-support": "#help-and-support",
+          "locations": "#locations"
+        },
+        "ar-ae": {
+          "نظرة عامة": "/{{region}}/{{language}}/residential/overview",
+          "الدعم والمساعدة": "#help-and-support",
+          "مواقعنا": "#locations"
+        }
+      }
+    }
+  },
+  "business": {
+    "overview": {
+      "navigation/links": {
+        "en-us": {
+          "overview": "/{{region}}/{{language}}/business/overview",
+          "help-and-support": "#help-and-support",
+          "locations": "#locations"
+        },
+        "ar-ae": {
+          "نظرة عامة": "/{{region}}/{{language}}/business/overview",
+          "الدعم والمساعدة": "#help-and-support",
+          "مواقعنا": "#locations"
+        }
+      }
+    }
+  },
+  "announcementSection": {
+    "en-us": {
+      "subtitle": "ANNOUNCEMENTS",
+      "description": "Find the latest company announcements and relevant customer news here",
+      "carousel": [
+        {
+          "header": "MOONLIT MOMENTS",
+          "subHeader": "This Ramadan, TAQA Distribution – Abu Dhabi invites you to join our Moonlit Moments campaign, where we encourage everyone to go from indoors to outdoors for a more...",
+          "date": "1st January 2024",
+          "icon": "moonLight"
+        },
+        {
+          "header": "WATER TANKERING CENTER",
+          "subHeader": "The new water tankering regulations will be implemented from the 1st of July 2024. Meanwhile, the supply & installation process for the devices required in each water tanker...",
+          "date": "1st January 2024",
+          "icon": "waterTanker"
+        },
+        {
+          "header": "Tariff Scheme launched for Recycled Water Service",
+          "subHeader": "The tariff scheme for our Recycled Water Service launched on 1 January 2023, based on Government Resolution No (185) of 2021. If you are a recycled water customer",
+          "date": "1st January 2024",
+          "icon": "moonLight"
+        }
+      ]
+    },
+    "ar-ae": {
+      "subtitle": "إعلانات",
+      "description": "كن على اطلاع دائم بأحدث الإعلانات والأخبار ذات الصلة بالعملاء من هنا",
+      "carousel": [
+        {
+          "header": "ليال مقمرة",
+          "subHeader": "في شهر رمضان المبارك، تدعوكم شركة طاقة للتوزيع - أبوظبي للانضمام إلى حملة ليال مقمرة، حيث نشجع الجميع على الانتقال من الداخل إلى الخارج للاستمتاع بمزيد من...",
+          "date": "1 يناير 2024",
+          "icon": "moonLight"
+        },
+        {
+          "header": "مركز صهاريج المياه",
+          "subHeader": "سيتم تطبيق لوائح صهاريج المياه الجديدة اعتبارًا من 1 يوليو 2024. وفي الوقت نفسه، ستتم عملية التوريد والتركيب للأجهزة المطلوبة في كل صهريج مياه...",
+          "date": "1 يناير 2024",
+          "icon": "waterTanker"
+        },
+        {
+          "header": "إطلاق نظام التعرفة لخدمة المياه المعاد تدويرها",
+          "subHeader": "تم إطلاق نظام تعرفة خدمة المياه المعاد تدويرها في 1 يناير 2023، بناءً على القرار الحكومي رقم (185) لسنة 2021. إذا كنت من عملاء المياه المعاد تدويرها",
+          "date": "1 يناير 2024",
+          "icon": "moonLight"
+        }
+      ]
+    }
+  },
+  "tipsData": {
+    "en-us": {
+      "residential": [
+        {
+          "alt": "Energy-friendly air conditioning",
+          "title": "Energy-friendly air conditioning",
+          "description": "Efficient AC systems for eco-conscious cooling solutions.",
+          "link": "https://www.addc.ae/en-us/residential/Pages/Energy-friendly-air-conditioning.aspx"
+        },
+        {
+          "alt": "Easy ways to save electricity",
+          "title": "Easy ways to save electricity",
+          "description": "Simple ways you can save electricity in the home",
+          "link": "https://www.addc.ae/en-us/residential/Pages/Easy-ways-to-save-electricity.aspx"
+        },
+        {
+          "alt": "Energy-efficient Lighting",
+          "title": "Energy-efficient Lighting",
+          "description": "Simple ways to use less lighting, including the use of energy-saving lightbulbs",
+          "link": "https://www.addc.ae/en-us/residential/Pages/Energy-efficient-lighting.aspx"
+        },
+        {
+          "alt": "Energy-wise appliances",
+          "title": "Energy-wise appliances",
+          "description": "The best ways to use appliances to save energy",
+          "link": "https://www.addc.ae/en-us/residential/Pages/Energy-wise-Appliances.aspx"
+        },
+        {
+          "alt": "Save water at home",
+          "title": "Save water at home",
+          "description": "Simple tips to save water at home",
+          "link": "https://www.addc.ae/en-us/residential/Pages/Save-water-at-home.aspx"
+        },
+        {
+          "alt": "Save water outside your home",
+          "title": "Save water outside your home",
+          "description": "Manage water use in the garden, pool and garage",
+          "link": "https://www.addc.ae/en-us/residential/Pages/Save-water-outside-home.aspx"
+        },
+        {
+          "alt": "Work out water usage",
+          "title": "Work out water usage",
+          "description": "How to work out your water consumption",
+          "link": "https://www.addc.ae/en-us/residential/Pages/Work-out-water-usage.aspx"
+        }
+      ],
+      "business": [
+        {
+          "alt": "Energy-friendly air conditioning",
+          "title": "Energy-friendly air conditioning",
+          "description": "Efficient AC systems for eco-conscious cooling solutions.",
+          "link": "https://www.addc.ae/en-us/business/Pages/Energy-friendly-air-conditioning.aspx"
+        },
+        {
+          "alt": "Easy ways to save electricity",
+          "title": "Easy ways to save electricity",
+          "description": "Simple ways you can save electricity in the home",
+          "link": "https://www.addc.ae/en-us/business/Pages/Easy-ways-to-save-electricity.aspx"
+        },
+        {
+          "alt": "Energy-efficient Lighting",
+          "title": "Energy-efficient Lighting",
+          "description": "Simple ways to use less lighting, including the use of energy-saving lightbulbs",
+          "link": "https://www.addc.ae/en-us/business/Pages/Energy-efficient-lighting.aspx"
+        },
+        {
+          "alt": "Energy-wise appliances",
+          "title": "Energy-wise appliances",
+          "description": "The best ways to use appliances to save energy",
+          "link": "https://www.addc.ae/en-us/business/Pages/Energy-wise-Appliances.aspx"
+        },
+        {
+          "alt": "Save water at home",
+          "title": "Save water at home",
+          "description": "Simple tips to save water at home",
+          "link": "https://www.addc.ae/en-us/business/Pages/Save-water-at-home.aspx"
+        },
+        {
+          "alt": "Save water outside your home",
+          "title": "Save water outside your home",
+          "description": "Manage water use in the garden, pool and garage",
+          "link": "https://www.addc.ae/en-us/business/Pages/Save-water-outside-home.aspx"
+        },
+        {
+          "alt": "Work out water usage",
+          "title": "Work out water usage",
+          "description": "How to work out your water consumption",
+          "link": "https://www.addc.ae/en-us/business/Pages/Work-out-water-usage.aspx"
+        }
+      ]
+    },
+    "ar-ae": {
+      "residential": [
+        {
+          "alt": "Energy-friendly air conditioning",
+          "title": "تكييف صديق للطاقة",
+          "description": "أنظمة تكييف فعالة لحلول تبريد صديقة للبيئة.",
+          "link": "https://www.addc.ae/ar-ae/residential/pages/energy-friendly-air-conditioning.aspx"
+        },
+        {
+          "alt": "Easy ways to save electricity",
+          "title": "طرق سهلة لتوفير الكهرباء",
+          "description": "أبسط الطرق لتوفير الكهرباء في المنزل",
+          "link": "https://www.addc.ae/ar-ae/residential/pages/easy-ways-to-save-electricity.aspx"
+        },
+        {
+          "alt": "Energy-efficient Lighting",
+          "title": "إضاءة فعالة في استهلاك الطاقة",
+          "description": "طرق بسيطة لاستخدام إضاءة أقل ومصابيح موفرة للطاقة",
+          "link": "https://www.addc.ae/ar-ae/residential/pages/energy-efficient-lighting.aspx"
+        },
+        {
+          "alt": "Energy-wise appliances",
+          "title": "الأجهزة الموفرة للطاقة",
+          "description": "أفضل الطرق لاستخدام الأجهزة الكهربائية لتوفير الطاقة",
+          "link": "https://www.addc.ae/ar-ae/residential/pages/energy-wise-appliances.aspx"
+        },
+        {
+          "alt": "Save water at home",
+          "title": "توفير المياه في المنزل",
+          "description": "نصائح لتوفير المياه في المنزل",
+          "link": "https://www.addc.ae/ar-ae/residential/pages/save-water-at-home.aspx"
+        },
+        {
+          "alt": "Save water outside your home",
+          "title": "توفير المياه خارج المنزل",
+          "description": "إدارة استخدام المياه في الحديقة والمسبح والمرآب",
+          "link": "https://www.addc.ae/ar-ae/residential/pages/save-water-outside-home.aspx"
+        },
+        {
+          "alt": "Work out water usage",
+          "title": "مراقبة استهلاك المياه",
+          "description": "كيف يمكنك التحكم في استهلاك المياه؟",
+          "link": "https://www.addc.ae/ar-ae/residential/pages/work-out-water-usage.aspx"
+        }
+      ],
+      "business": [
+        {
+          "alt": "Energy-friendly air conditioning",
+          "title": "تكييف صديق للطاقة",
+          "description": "أنظمة تكييف فعالة لحلول تبريد صديقة للبيئة.",
+          "link": "https://www.addc.ae/ar-ae/business/pages/energy-friendly-air-conditioning.aspx"
+        },
+        {
+          "alt": "Easy ways to save electricity",
+          "title": "طرق سهلة لتوفير الكهرباء",
+          "description": "أبسط الطرق لتوفير الكهرباء في المنزل",
+          "link": "https://www.addc.ae/ar-ae/business/pages/easy-ways-to-save-electricity.aspx"
+        },
+        {
+          "alt": "Energy-efficient Lighting",
+          "title": "إضاءة فعالة في استهلاك الطاقة",
+          "description": "طرق بسيطة لاستخدام إضاءة أقل ومصابيح موفرة للطاقة",
+          "link": "https://www.addc.ae/ar-ae/business/pages/energy-efficient-lighting.aspx"
+        },
+        {
+          "alt": "Energy-wise appliances",
+          "title": "الأجهزة الموفرة للطاقة",
+          "description": "أفضل الطرق لاستخدام الأجهزة الكهربائية لتوفير الطاقة",
+          "link": "https://www.addc.ae/ar-ae/business/pages/energy-wise-appliances.aspx"
+        },
+        {
+          "alt": "Save water at home",
+          "title": "توفير المياه في المنزل",
+          "description": "نصائح لتوفير المياه في المنزل",
+          "link": "https://www.addc.ae/ar-ae/business/pages/save-water-at-home.aspx"
+        },
+        {
+          "alt": "Save water outside your home",
+          "title": "توفير المياه خارج المنزل",
+          "description": "إدارة استخدام المياه في الحديقة والمسبح والمرآب",
+          "link": "https://www.addc.ae/ar-ae/business/pages/save-water-outside-home.aspx"
+        },
+        {
+          "alt": "Work out water usage",
+          "title": "مراقبة استهلاك المياه",
+          "description": "كيف يمكنك التحكم في استهلاك المياه؟",
+          "link": "https://www.addc.ae/ar-ae/business/pages/work-out-water-usage.aspx"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "text": {
+      "en-us": {
+        "downloadText": "Download our apps",
+        "followUs": "Follow us",
+        "sitemap": "Sitemap",
+        "privacyPolicy": "Privacy Policy",
+        "terms": "Terms and Conditions",
+        "copyright": "© TAQA Distribution - All rights reserved.",
+        "sitemapLink": "/sitemap",
+        "privacyPolicyLink": "/privacy-policy",
+        "termsConditionsLink": "/terms-of-use"
+      },
+      "ar-ae": {
+        "downloadText": "حمّل تطبيقاتنا",
+        "followUs": "تابعنا",
+        "sitemap": "خريطة الموقع",
+        "privacyPolicy": "سياسة الخصوصية",
+        "terms": "الشروط والأحكام",
+        "copyright": "مجموعة طاقة للتوزيع ® - جميع الحقوق محفوظة",
+        "sitemapLink": "/sitemap",
+        "privacyPolicyLink": "/privacy-policy",
+        "termsConditionsLink": "/terms-of-use"
+      }
+    }
+  }
+}

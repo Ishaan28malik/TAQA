@@ -1,0 +1,138 @@
+.sectionheaderunit {
+  text-align: start;
+  color:  var(--color-font-black);
+  padding: 100px 70px;
+}
+
+.carouseltrackcontainer {
+  display: flex;
+  height: -webkit-fill-available;
+  overflow: hidden;
+  height: auto;
+}
+
+.sectionheaderunit div {
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.sectionheaderunitText {
+  font-size: 18px;
+  margin-bottom: 32px;
+  margin-top: 18px;
+}
+
+.carousel {
+  margin-top: 20px;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  width: 100%;
+  height: auto;
+}
+
+.carouseltrack {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  gap: 16px;
+  padding: 20px 0px;
+  height: auto;
+  overflow-x: scroll;
+  scrollbar-width: none;
+  /*rtl:raw:
+         width: 100%;
+        */
+}
+
+.carouselslide {
+  flex: 0 0 auto;
+  width: calc(98% / 3); /* this will change based on the number of images */
+  transition: transform 0.5s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.carouselindicators {
+  display: none;
+}
+
+.dot {
+  height: 6px;
+  width: 6px;
+  margin: 0 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.dot.active {
+  background-color: #717171;
+}
+
+/* Media Query for Mobile Devices */
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .sectionheaderunit {
+    padding: 0px 20px 0px 20px !important;
+    /* height: 636px; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 0px;
+    margin-bottom: 60px;
+  }
+  .carouseltrackcontainer {
+    display: block;
+    justify-content: normal;
+  }
+  .featuresCarouselText {
+    margin-top: 60px !important;
+  }
+  .sectionheaderunit div {
+    font-size: 36px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 32.4px;
+  }
+  .sectionheaderunitText {
+    font-size: 13px;
+    margin-bottom: 30px;
+  }
+
+  .carouseltrack {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    display: flex;
+    gap: 16px;
+  }
+
+  .carouselslide {
+    width: 237px;
+    height: auto;
+    flex-shrink: 0;
+    box-sizing: border-box;
+  }
+
+  .carousel img {
+    width: 100%;
+  }
+
+  .carouselindicators {
+    display: flex;
+    justify-content: center;
+    bottom: 50px;
+    width: 100%;
+    position: relative;
+    bottom: 0px;
+    top: 2%;
+  }
+}
+
+/* Media Query for screen width less than 1440px */
+@media screen and (max-width: 1440px) {
+  .carouseltrackcontainer {
+    display: block;
+  }
+}

@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+  overscroll-behavior: none;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  overflow: auto;
+  --color-blue: #00093f;
+  --color-green: #0ab3a1;
+  --color-purple: #6b42d1;
+  --color-font-black: #1a1a1d;
+  --color-grey-75: #717288;
+  --color-grey-50: #9798a9;
+  --color-grey-25: #d3d3d3;
+  --color-grey-10: #fafafa;
+  --color-dBlue-25: #80849f;
+  --color-dBlue-50: #40476f;
+  overflow-x: hidden !important;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input::-moz-placeholder {
+  opacity: 1; /* 1 */
+  color: #9798a9; /* 2 */
+}
+
+input::placeholder {
+  opacity: 1; /* 1 */
+  color: #9798a9; /* 2 */
+}
+
+/*
+* Added to prevent background scroll on modal open
+* ref: https://reactcommunity.org/react-modal/styles/classes/
+*/
+.ReactModal__Body--open {
+  overflow: hidden;
+  & .ReactModal__Overlay {
+    &::-webkit-scrollbar {
+      display: none;
+    }
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none;
+  }
+}

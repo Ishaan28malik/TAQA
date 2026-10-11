@@ -1,0 +1,189 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.login {
+  background-color: #00796b;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.introsection {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: #00093f;
+  color: var(--color-font-black);
+  height: 816px;
+}
+
+.imageWrapper {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  &::before {
+    position: absolute;
+    content: "";
+    inset: 0;
+    background-color: #555768 !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: var(--background-image);
+    /*rtl:raw:
+        transform: scaleX(-1);
+    */
+  }
+}
+
+.imageCard {
+  height: 221px;
+  display: flex;
+  width: 100%;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 157.01%);
+  color: #ffff;
+  z-index: 2;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.imageCardText {
+  font-family: var(--grold-regular) !important;
+  font-size: 28px !important;
+  font-weight: 400 !important;
+  line-height: 28px !important;
+  letter-spacing: 0.01em !important;
+  text-align: left !important;
+  padding: 0px 40px 25px 20px !important;
+  width: 88%;
+}
+
+.imageCard img {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 30px;
+}
+
+.imageWrapper:hover::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--background-color);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.responsivecontainer {
+  position: relative;
+  /* width: calc(100vw * 0.365); */
+  /* height: calc(100vw * 0.5026); */
+  width: 420px;
+  height: auto;
+  max-width: 418px;
+  max-height: 573px;
+  margin: auto;
+}
+
+.textcontainer {
+  position: absolute;
+  /* bottom: calc(calc(49vw * 0.5026) * 0.08); */
+  bottom: 6%;
+  width: 100%;
+  color: white;
+  padding: 0px 40px;
+  /* font-size: clamp(16px, 2.5vw, 28px); */
+  margin: 0px !important;
+}
+
+.textChange {
+  font-family: var(--grold-regular)  !important;
+  font-size: 28px !important;
+  line-height: 100% !important;
+  letter-spacing: 0.28px !important; 
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .introsection {
+    height: auto;
+    min-height: 700px;
+    background-size: 285%;
+    background-position: 80% center;
+    width: 100%;
+  }
+}
+
+.navicon {
+  background-color: #00bfa5;
+  color: #fff;
+  text-decoration: none;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.left {
+  right: 80px;
+}
+
+.right {
+  right: 30px;
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .appsection {
+    flex-direction: column;
+  }
+
+  .textcontainer {
+    padding: 0px 20px;
+    /* bottom: calc(calc(100vw * 0.5026) * 0.08); */
+  }
+  .textChange {
+    font-size: 16px !important;
+  }
+
+  .responsivecontainer {
+    width: 240px;
+  }
+
+  .appimage {
+    margin-top: 30px;
+  }
+
+  .appcontent,
+  .appimage img {
+    max-width: 100%;
+  }
+
+  .imageWrapper {
+    height: 284px;
+  }
+
+  .imageCard img {
+    width: 48px !important;
+    height: 48px !important;
+    margin-bottom: 30px;
+  }
+
+  .imageCardText {
+    width: 85%;
+    height: 100px;
+    margin: 0px 25px 25px 0px !important;
+    padding: 0px 0px 0px 20px !important;
+  }
+}

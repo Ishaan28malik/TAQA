@@ -1,0 +1,202 @@
+{
+  "addc": {
+    "en-us": {
+      "residential": {
+        "links": [
+          {
+            "link": "/addc/en-us/residential/locations/branches",
+            "label": "Branches",
+            "iconName": "branches"
+          },
+          {
+            "link": "/addc/en-us/residential/locations/partners",
+            "label": "Partners",
+            "iconName": "partners"
+          },
+          {
+            "link": "https://www.addc.ae/en-us/residential/pages/ActivationResidential.aspx",
+            "label": "Activate my online account",
+            "iconName": "forwardArrow",
+            "type": "primary",
+            "description": "If your tenancy contract is registered with Tawtheeq, please click here"
+          },
+          {
+            "link": "https://www.addc.ae/en-us/residential/pages/residentialGetConnectedExt.aspx",
+            "label": "Get connected",
+            "iconName": "forwardArrow",
+            "type": "primary",
+            "description": "New connection if not registered with Tawtheeq, please click here"
+          }
+        ]
+      },
+      "business": {
+        "links": [
+          {
+            "link": "/addc/en-us/business/locations/branches",
+            "label": "Branches",
+            "iconName": "branches"
+          },
+          {
+            "link": "/addc/en-us/business/locations/partners",
+            "label": "Partners",
+            "iconName": "partners"
+          },
+          {
+            "link": "https://www.addc.ae/en-us/business/pages/AccountActivation.aspx",
+            "label": "Activate my online account",
+            "iconName": "forwardArrow",
+            "type": "primary",
+            "description": "If your tenancy contract is registered with Tawtheeq, please click here"
+          },
+          {
+            "link": "https://www.addc.ae/en-us/business/pages/businessGetConnectedExt.aspx",
+            "label": "Get connected",
+            "iconName": "forwardArrow",
+            "type": "primary",
+            "description": "New connection if not registered with Tawtheeq, please click here"
+          }
+        ]
+      }
+    },
+    "ar-ae": {
+      "residential": {
+        "links": [
+          {
+            "link": "/addc/ar-ae/residential/locations/branches",
+            "label": "الفروع",
+            "iconName": "branches"
+          },
+          {
+            "link": "/addc/ar-ae/residential/locations/partners",
+            "label": "الشركاء",
+            "iconName": "partners"
+          },
+          {
+            "link": "https://www.addc.ae/ar-ae/residential/pages/ActivationResidential.aspx",
+            "label": "تفعيل الحساب",
+            "iconName": "forwardArrow",
+            "type": "primary",
+            "description": "عقد الإيجار مسجل لدى توثيق، الرجاء الضغط هنا"
+          },
+          {
+            "link": "https://www.addc.ae/ar-ae/residential/pages/residentialGetConnectedExt.aspx",
+            "label": "تشغيل الخدمة",
+            "iconName": "forwardArrow",
+            "type": "primary",
+            "description": "توصيل جديد في حالة عدم التسجيل في خدمة توثيق"
+          }
+        ]
+      },
+      "business": {
+        "links": [
+          {
+            "link": "/addc/ar-ae/business/locations/branches",
+            "label": "الفروع",
+            "iconName": "branches"
+          },
+          {
+            "link": "/addc/ar-ae/business/locations/partners",
+            "label": "الشركاء",
+            "iconName": "partners"
+          },
+          {
+            "link": "https://www.addc.ae/ar-ae/business/pages/AccountActivation.aspx",
+            "label": "تفعيل الحساب",
+            "iconName": "forwardArrow",
+            "type": "primary",
+            "description": "عقد الإيجار مسجل لدى توثيق، الرجاء الضغط هنا"
+          },
+          {
+            "link": "https://www.addc.ae/ar-ae/business/pages/businessGetConnectedExt.aspx",
+            "label": "تشغيل الخدمة",
+            "iconName": "forwardArrow",
+            "type": "primary",
+            "description": "توصيل جديد في حالة عدم التسجيل في خدمة توثيق"
+          }
+        ]
+      }
+    }
+  },
+  "aadc": {
+    "en-us": {
+      "residential": {
+        "links": [
+          {
+            "link": "/aadc/en-us/residential/locations/branches",
+            "label": "Customer service centres",
+            "iconName": "branches"
+          },
+          {
+            "link": "/aadc/en-us/residential/locations/partners",
+            "label": "Partners",
+            "iconName": "partners"
+          },
+          {
+            "link": "/aadc/en-us/residential/locations/payment-kiosks",
+            "label": "Payment kiosks",
+            "iconName": "kiosk"
+          }
+        ]
+      },
+      "business": {
+        "links": [
+          {
+            "link": "/aadc/en-us/business/locations/branches",
+            "label": "Customer service centres",
+            "iconName": "branches"
+          },
+          {
+            "link": "/aadc/en-us/business/locations/partners",
+            "label": "Partners",
+            "iconName": "partners"
+          },
+          {
+            "link": "/aadc/en-us/residential/locations/payment-kiosks",
+            "label": "Payment kiosks",
+            "iconName": "kiosk"
+          }
+        ]
+      }
+    },
+    "ar-ae": {
+      "residential": {
+        "links": [
+          {
+            "link": "/aadc/ar-ae/residential/locations/branches",
+            "label": "الفروع",
+            "iconName": "branches"
+          },
+          {
+            "link": "/aadc/ar-ae/residential/locations/partners",
+            "label": "الشركاء",
+            "iconName": "partners"
+          },
+          {
+            "link": "/aadc/ar-ae/residential/locations/payment-kiosks",
+            "label": "أجهزة السداد الآلي",
+            "iconName": "kiosk"
+          }
+        ]
+      },
+      "business": {
+        "links": [
+          {
+            "link": "/aadc/ar-ae/business/locations/branches",
+            "label": "مراكز خدمة العملاء",
+            "iconName": "branches"
+          },
+          {
+            "link": "/aadc/ar-ae/business/locations/partners",
+            "label": "الشركاء",
+            "iconName": "partners"
+          },
+          {
+            "link": "/aadc/ar-ae/business/locations/payment-kiosks",
+            "label": "أجهزة السداد الآلي",
+            "iconName": "kiosk"
+          }
+        ]
+      }
+    }
+  }
+}

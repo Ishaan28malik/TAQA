@@ -1,0 +1,2285 @@
+{
+  "addc": {
+    "en-us": {
+      "overview": {
+        "navigation/links": {
+          "overview": "/{{region}}/{{language}}/residential/overview",
+          "help-and-support": "#help-and-support",
+          "locations": "#locations"
+        },
+        "heroSection": {
+          "line1": "ADDC & AADC",
+          "line2": "ARE NOW",
+          "line3": "TAQA DISTRIBUTION",
+          "subtitle1": "Powering communities",
+          "subtitle2Residential": "with the best residential solutions",
+          "subtitle2Business": "with the best business solutions",
+          "discoverMoreLink": "#discover-more",
+          "discoverMoreButton": "Discover more"
+        },
+        "brandingSection": {
+          "line1": "NEW BRAND-SAME",
+          "line2": "EXCEPTIONAL SERVICE",
+          "descriptionResidential": "Our new branding provides a platform for continued growth for a sustainable future. Together, let's power your home with reliable, efficient energy so you can focus on what matters most—making lasting memories.",
+          "descriptionBusiness": "Our new branding provides a platform for continued growth for a sustainable future. Together, we power your business with the energy it needs to thrive.",
+          "knowMoreLink": "#discover-more",
+          "knowMoreButton": "Know more"
+        },
+        "appSection": {
+          "headline1": "POWERING",
+          "headline2": "COMMUNITIES",
+          "headline3":"AN ENHANCED APP WITH IMPROVED FEATURES",
+          "subHeadline": ["TAKE CONTROL OF YOUR", "TAQA DISTRIBUTION ACCOUNT"],
+          "cta": "Upgrade to a new experience"
+        }
+      },
+      "helpAndSupportTopicsBusiness": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle_en": "EXTENSION AND CONNECTION OF ELECTRICITY SERVICES",
+          "subtitle_ar": "خدمات تمديد وتوصيل الكهرباء",
+          "description_en": "If you are moving within the Emirate we’ll provide a seamless experience when you connect at your new property. If you are building a property within the Emirate, we’ll provide you with a seamless experience to make sure it is connected to our electricity services.",
+          "description_ar": "إذا كنت تقوم ببناء عقار داخل الإمارة، فسنعمل على توفير تجربة سلسة للتأكد من توصيل الكهرباء إلى عقارك",
+          "items": [
+            {
+              "service": "Application for electricity load approval",
+              "service_ar": "طلب الموافقة على تحميل الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/load-demand-notification.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/load-demand-notification.aspx"
+            },
+            {
+              "service": "Application for internal electricity drawings approval",
+              "service_ar": "طلب الموافقة على الرسومات الكهربائية الداخلية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/approval-electric-drawings.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/approval-electric-drawings.aspx"
+            },
+            {
+              "service": "Application for permanent electricity cable execution",
+              "service_ar": "طلب تنفيذ كابل كهربائي دائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/permanent-cable-termination.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/permanent-cable-termination.aspx"
+            },
+            {
+              "service": "Application for inspection of electrical wiring of new connection (internal)",
+              "service_ar": "طلب فحص الأسلاك الكهربائية للاتصال الجديد (داخلي)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/inspection-internal-electric-wiring.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/inspection-internal-electric-wiring.aspx"
+            },
+            {
+              "service": "Application for electrical supply activation",
+              "service_ar": "طلب تفعيل توريد الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/activation-electric-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/activation-electric-services.aspx"
+            },
+            {
+              "service": "Application for inspection of additional electricity meter",
+              "service_ar": "طلب فحص عداد كهرباء إضافي",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Additional-Electric-Meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/additional-electric-meter.aspx"
+            },
+            {
+              "service": "Application for electricity load upgrade inspection",
+              "service_ar": "طلب فحص ترقية تحميل الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Electric-Load-Upgrade.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/electric-load-upgrade.aspx"
+            },
+            {
+              "service": "Application for temporary power connection",
+              "service_ar": "طلب اتصال كهربائي مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/connection-temporary-electric-line.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/connection-temporary-electric-line.aspx"
+            },
+            {
+              "service": "Application for temporary connection for condolence tent",
+              "service_ar": "طلب اتصال مؤقت لخيمة عزاء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/temporary-connection-condolence-test.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/temporary-connection-condolence-test.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an Emergency",
+              "link_ar": "ما الذي يمكن فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "About moving in",
+              "link_ar": "تعرف على كيفية الانتقال لعقار جديد",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/about-moving-in.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/about-moving-in.aspx"
+            },
+            {
+              "link": "More about Tawtheeq",
+              "link_ar": "المزيد عن توثيق",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/understanding-tawtheeq.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-tawtheeq.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "link_ar": "دليل الاستهلاك",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/consumptionfinder.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "Understanding Mawaqif",
+              "link_ar": "المزيد عن مواقف",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/understanding-mawaqif.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "link_ar": "ميثاق العملاء",
+              "englishLink": "https://www.addc.ae/en-us/residential/documents/customer%20charter.pdf",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/documents/customer%20charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "link_ar": "هدفنا خدمة كل أفراد المجتمع",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/critical-care-customers.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "link_ar": "تحقق من فواتيرك",
+              "englishLink": "https://www.addc.ae/en-us/residential/_layouts/15/addc/checkmybill.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/checkmybill.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle_en": "TRANSFER AND REMOVAL OF ELECTRICITY SERVICES",
+          "subtitle_ar": "خدمات نقل وإزالة الكهرباء",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide a seamless experience when you connect at your new property.",
+          "description_ar": "الجديد.الإمارة، فسنوفر لك تجربة سلسة للتواصل في عقارك اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل",
+          "items": [
+            {
+              "service": "Application for electricity meter shifting inspection",
+              "service_ar": "طلب تفتيش فحص لنقل عداد كهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/application-shifting-electricitymeter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/application-shifting-electricitymeter.aspx"
+            },
+            {
+              "service": "Application for shifting electricity services quotation",
+              "service_ar": "طلب عرض أسعار لنقل خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/quotation-relocation-external-lectricity-Services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/quotation-relocation-external-lectricity-services.aspx"
+            },
+            {
+              "service": "Application for shifting electricity services",
+              "service_ar": "طلب نقل خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/relocation-of-electricity-connections.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/relocation-of-electricity-connections.aspx"
+            },
+            {
+              "service": "Application for electricity connection removal",
+              "service_ar": "طلب إزالة خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-electricity-connections.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-electricity-connections.aspx"
+            },
+            {
+              "service": "Application for removal of permanent electricity meter",
+              "service_ar": "طلب إزالة عداد الكهرباء الدائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-permanent-electricity-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-permanent-electricity-meter.aspx"
+            },
+            {
+              "service": "Application for temporary electricity meter removal",
+              "service_ar": "طلب إزالة عداد كهرباء مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-temporary-electricity-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-temporary-electricity-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "link_ar": "ما الذي يمكن في لي فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "link_ar": "قواعد قطع إيقاف الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Supplydisconnectionrules.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "About moving out",
+              "link_ar": "حول قطع الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/About-Moving-out.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/about-moving-out.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "link_ar": "دليل الاستهلاك",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/ConsumptionFinder.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "link_ar": "معايير الخدمة المضمونة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/GuaranteedStandards.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle_en": "ACCOUNT MANAGEMENT AND BILLS",
+          "subtitle_ar": "إدارة الحسابات والفواتير",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for new customer account registration",
+              "service_ar": "طلب فتح حساب لمتعامل جديد",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/opening-account-new-customer.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/opening-account-new-customer.aspx"
+            },
+            {
+              "service": "Application for critical medical conditions registration",
+              "service_ar": "طلب تسجيل الحالات الطبية الحساسة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/critical-medical-conditions-registration.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/critical-medical-conditions-registration.aspx"
+            },
+            {
+              "service": "Application to change property ownership information",
+              "service_ar": "طلب تغيير بيانات ملكية العقار",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/change-property-ownership_123.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/change-property-ownership_123.aspx"
+            },
+            {
+              "service": "Application for instalment payment arrangement for customers in financial distress",
+              "service_ar": "طلب تقسيط أو ترتيب الدفع للمتعامل المتعسر مالياً",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/installment-postponemen-troubled-entitlements.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/installment-postponemen-troubled-entitlements.aspx"
+            },
+            {
+              "service": "Application for change of customer category",
+              "service_ar": "طلب تعديل فئة المتعامل",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/change-of-customer-category.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/change-of-customer-category.aspx"
+            },
+            {
+              "service": "Application for incident clearance",
+              "service_ar": "طلب براءة ذمة بسبب الحوادث",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/clearance-due-to-incident.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/clearance-due-to-incident.aspx"
+            },
+            {
+              "service": "Application for to whom it may concern certificate",
+              "service_ar": "طلب شهادة لمن يهمه الأمر",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/certificate-to-whom-it-may-concern.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/certificate-to-whom-it-may-concern.aspx"
+            },
+            {
+              "service": "Temporary disconnection of water service",
+              "service_ar": "طلب فصل مؤقت لخدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/water-services-temporary-disconnection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/water-services-temporary-disconnection.aspx"
+            },
+            {
+              "service": "Application for shutdown and restoration of electricity for maintenance",
+              "service_ar": "طلب عزل وإعادة الكهرباء لأغراض الصيانة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/electricity-service-temporary-disconnection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/electricity-service-temporary-disconnection.aspx"
+            },
+            {
+              "service": "Application for registering in social affairs exemptions",
+              "service_ar": "طلب تسجيل ضمن إعفاءات الشؤون الاجتماعية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/registration-social-affair-exemption.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/registration-social-affair-exemption.aspx"
+            },
+            {
+              "service": "Application for adding a new account to a payee",
+              "service_ar": "طلب إضافة حساب إلى جهة الدفع",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/adding-account-from-payee.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/adding-account-from-payee.aspx"
+            },
+            {
+              "service": "Application for cancelling an account from a payee",
+              "service_ar": "طلب إلغاء حساب من جهة الدفع",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/cancelling-account-from-payee.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/cancelling-account-from-payee.aspx"
+            },
+            {
+              "service": "Application for balance refund or transfer",
+              "service_ar": "طلب استرداد أو تحويل رصيد",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/application-balance-refund-transfer.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/application-balance-refund-transfer.aspx"
+            },
+            {
+              "service": "Application for closing an account",
+              "service_ar": "طلب إغلاق حساب",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/application-closing-account.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/application-closing-account.aspx"
+            },
+            {
+              "service": "Water and electricity bill payment",
+              "service_ar": "دفع فواتير المياه والكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/bill-payement-service-application.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/bill-payement-service-application.aspx"
+            },
+            {
+              "service": "Service for direct debit de-registration",
+              "service_ar": "إلغاء خدمة الخصم المباشر",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Service_for_Direct_Debit_De-Registration.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/service_for_direct_debit_de-registration.aspx"
+            },
+            {
+              "service": "Bill smoothing service",
+              "service_ar": "خدمة الفاتورة الثابتة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Bill_Smoothening_Service.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/bill_smoothening_service.aspx"
+            },
+            {
+              "service": "Direct debit registration service",
+              "service_ar": "خدمة تخويل الخصم المباشر",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Direct_Debit_Registration_Service.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/direct_debit_registration_service.aspx"
+            },
+            {
+              "service": "Direct debit payment service",
+              "service_ar": "خدمة سداد الخصم المباشر",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Direct_Debit_Payment_Service.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/direct_debit_payment_service.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "link_ar": "ما الذي يمكن فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Tariff calculator",
+              "link_ar": "حاسبة التعرفة",
+              "englishLink": "https://www.addc.ae/en-us/residential/_layouts/15/addc/Checkmybill.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/checkmybill.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2023",
+              "link_ar": "التعرفة والأسعار 2023",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2023.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2023.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2020",
+              "link_ar": "التعرفة والأسعار 2020",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2020.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2020.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2019",
+              "link_ar": "التعرفة والأسعار 2019",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2019.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2019.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2018",
+              "link_ar": "التعرفة والأسعار 2018",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2018.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2018.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2017",
+              "link_ar": "التعرفة والأسعار 2017",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2017.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2017.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2016",
+              "link_ar": "التعرفة والأسعار 2016",
+              "englishLink": "https://www.addc.ae/en-us/Residential/Pages/RatesAndTariffs2016.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2016.aspx"
+            },
+            {
+              "link": "Supply agreement",
+              "link_ar": "اتفاقية التوريد",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/supplyagreement.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/supplyagreement.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "link_ar": "تحقق من فواتيرك",
+              "englishLink": "https://www.addc.ae/en-us/residential/_layouts/15/addc/Checkmybill.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "Understand your bill",
+              "link_ar": "اتورة جديدة، مصممة خصيصاً لك",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/UnderstandYourBill.aspx ",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understandyourbill.aspx "
+            },
+            {
+              "link": "Payment options",
+              "link_ar": "خيارات الدفع",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/PaymentOptions.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/paymentoptions.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle_en": "CUSTOMER CARE",
+          "subtitle_ar": "خدمة العملاء",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسةعش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد ",
+          "items": [
+            {
+              "service": "Water emergency case submission",
+              "service_ar": "تقديم البلاغات الطارئة للمياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/emergency-water-cases-submission.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/emergency-water-cases-submission.aspx"
+            },
+            {
+              "service": "Electricity emergency case submission",
+              "service_ar": "تقديم البلاغات الطارئة للكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/electricity-emergency-cases-submission.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/electricity-emergency-cases-submission.aspx"
+            },
+            {
+              "service": "Information enquiry",
+              "service_ar": "الاستفسار عن معلومات",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/Information-Inquiry.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/information-inquiry.aspx"
+            },
+            {
+              "service": "Application for water and electricity services consultation",
+              "service_ar": "طلب الاستشارات حول خدمات المياه والكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/water-electricity-consultations-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/water-electricity-consultations-services.aspx"
+            },
+            {
+              "service": "Submit a complaint",
+              "service_ar": "تقديم الشكاوى",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/complaints-submission.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/complaints-submission.aspx"
+            },
+            {
+              "service": "Submit a suggestion",
+              "service_ar": "تقديم المقترحات",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/suggestions-submission.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/suggestions-submission.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "link_ar": "ما الذي يمكن فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "link_ar": "ميثاق العملاء",
+              "englishLink": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf",
+              "arabicLink": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "link_ar": "هدفنا خدمة كل أفراد المجتمع",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Critical-care-customers.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "link_ar": "معايير الخدمة المضمونة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/GuaranteedStandards.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/guaranteedstandards.aspx"
+            },
+            {
+              "link": "Understanding Mawaqif",
+              "link_ar": "حول خدمة مواقف",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Understanding-Mawaqif.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle_en": "CONNECTION OF WATER SERVICES",
+          "subtitle_ar": "توصيل خدمات المياه",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسةعش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد ",
+          "items": [
+            {
+              "service": "Application for water demand approval",
+              "service_ar": "طلب اعتماد الاستهلاك للمياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-demand-notification.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-demand-notification.aspx"
+            },
+            {
+              "service": "Application for water supply drawings approval",
+              "service_ar": "طلب اعتماد مخططات لتمديدات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-supply-drawings-approval.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-supply-drawings-approval.aspx"
+            },
+            {
+              "service": "Application for permanent water connection",
+              "service_ar": "طلب تمديد توصيل خط مياه دائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/Permanent-Water-Connection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/permanent-water-connection.aspx"
+            },
+            {
+              "service": "Application for water supply inspection (internal)",
+              "service_ar": "طلب تفتيش فحص للتمديدات الداخلية للمياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/internal-water-supply-inspection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/internal-water-supply-inspection.aspx"
+            },
+            {
+              "service": "Application for water supply activation",
+              "service_ar": "طلب تفعيل خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-supply-activation.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-supply-activation.aspx"
+            },
+            {
+              "service": "Application for inspection of additional water meter",
+              "service_ar": "طلب تفتيش فحص لإضافة عداد المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/additional-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/additional-water-meter.aspx"
+            },
+            {
+              "service": "Application for water load upgrade inspection",
+              "service_ar": "طلب تفتيش فحص لزيادة حجم خط المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/upgrading-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/upgrading-water-meter.aspx"
+            },
+            {
+              "service": "Application for temporary water connection",
+              "service_ar": "طلب توصيل خط مياه مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/temporary-water-connection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/temporary-water-connection.aspx"
+            }
+          ],
+          "quickLinks": [
+            [
+              {
+                "link": "What to do in an emergency",
+                "link_ar": "ما الذي يمكن في فعله في حالة الطوارئ",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+                "arabicLink": "https://www.addc.ae/ar-AE/residential/pages/whattodoinanemergency.aspx"
+              },
+              {
+                "link": "About moving in",
+                "link_ar": "حول الانتقال إلى عقار جديد",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/About-Moving-in.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/about-moving-in.aspx"
+              },
+              {
+                "link": "More about Tawtheeq",
+                "link_ar": "حول خدمة توثيق",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/Understanding-Tawtheeq.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-tawtheeq.aspx"
+              },
+              {
+                "link": "Consumption guide",
+                "link_ar": "دليل الاستهلاك",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/ConsumptionFinder.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+              },
+              {
+                "link": "Understanding Mawaqif",
+                "link_ar": "حول خدمة مواقف",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/Understanding-Mawaqif.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+              },
+              {
+                "link": "Customer charter",
+                "link_ar": "ميثاق خدمة المتعاملين",
+                "englishLink": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf",
+                "arabicLink": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf"
+              },
+              {
+                "link": "Critical care customers",
+                "link_ar": "العملاء ذوي احتياجات الرعاية الصحية الخاصة",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/Critical-care-customers.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+              },
+              {
+                "link": "Check your bill",
+                "link_ar": "الإطلاع على الفاتورة",
+                "englishLink": "https://www.addc.ae/en-us/residential/_layouts/15/addc/Checkmybill.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/checkmybill.aspx"
+              }
+            ]
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle_en": "CERTIFICATES",
+          "subtitle_ar": "الشهادات",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for Electricity Services Clearance Certificate",
+              "service_ar": "طلب شهادة خلو موقع من خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/electric-services-clearance-certificate.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/electric-services-clearance-certificate.aspx"
+            },
+            {
+              "service": "Application for Water Services Clearance Certificate",
+              "service_ar": "طلب شهادة خلو موقع من خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/water-service-clearance-certificate.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/water-service-clearance-certificate.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Water tankering centre",
+              "link_ar": "مركز صهاريج المياه",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Water-Tankering-Center.aspx",
+              "arabicLink": "https://www.addc.ae/ar-AE/residential/pages/water-tankering-center.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle_en": "SHIFTING AND REMOVAL OF WATER SERVICES",
+          "subtitle_ar": "خدمات نقل وإزالة المياه",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة للتواصل في عقارك الجديد.",
+          "items": [
+            {
+              "service": "Application for water meter shifting inspection",
+              "service_ar": "طلب تفتيش لنقل عداد المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-water-meter.aspx"
+            },
+            {
+              "service": "Application for shifting water pipeline quotation",
+              "service_ar": "طلب عرض سعر الإشراف الفني لنقل خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-quotation-water-pipeline.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-quotation-water-pipeline.aspx"
+            },
+            {
+              "service": "Application for shifting water pipeline",
+              "service_ar": "طلب نقل خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-of-external-water-pipeline.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-of-external-water-pipeline.aspx"
+            },
+            {
+              "service": "Application for water connection removal",
+              "service_ar": "طلب إزالة خدمات للمياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/demolishing-of-water-connection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/demolishing-of-water-connection.aspx"
+            },
+            {
+              "service": "Application for removal of permanent water meter",
+              "service_ar": "طلب إزالة عداد مياه دائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-permanent-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-permanent-water-meter.aspx"
+            },
+            {
+              "service": "Application for temporary water meter removal",
+              "service_ar": "طلب إزالة عداد مياه مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-temporary-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-temporary-water-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "link_ar": "ما الذي يمكن فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "link_ar": "قواعد قطع الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Supplydisconnectionrules.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "About moving out",
+              "link_ar": "حول قطع الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/About-Moving-out.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/about-moving-out.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "link_ar": "دليل الاستهلاك",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/ConsumptionFinder.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "link_ar": "معايير الخدمة المضمونة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/GuaranteedStandards.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle_en": "REGISTRATION OF WATER TANKERS",
+          "subtitle_ar": "تسجيل صهاريج المياه",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for registration of drinking water tanker (Ghadeer Card)",
+              "service_ar": "طلب تسجيل صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/registration-water-tanker.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/registration-water-tanker.aspx"
+            },
+            {
+              "service": "Application for renewal of drinking water tanker (Ghadeer Card)",
+              "service_ar": "طلب تجديد تصريح صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/renewal-water-tanker.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/renewal-water-tanker.aspx"
+            },
+            {
+              "service": "Application for cancellation of drinking water tanker (Ghadeer Card)",
+              "service_ar": "طلب إلغاء تسجيل صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/cancellation-water-tanker.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/cancellation-water-tanker.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle_en": "EV charging tariff",
+          "subtitle_ar": "تعرفة شحن السيارات الكهربائية في الإمارة",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect and register your EV charger at your new property.",
+          "description_ar": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة لتوصيل شاحن السيارة الكهربائية الخاص بك وتسجيله في عقارك الجديد.",
+          "items": [
+            {
+              "service": "Register your electric vehicle charger",
+              "service_ar": "تسجيل جهاز شحن المركبات الكهربائية",
+              "englishLink": "https://myapp.addc.ae/EVSERegistration/",
+              "arabicLink": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": []
+        }
+      ]
+    },
+    "ar-ae": {
+      "overview": {
+        "navigation/links": {
+          "نظرة عامة": "/{{region}}/{{language}}/residential/overview",
+          "الدعم والمساعدة": "#help-and-support",
+          "مواقعنا": "#locations"
+        },
+        "heroSection": {
+          "line1":"شركتا أبوظبي للتوزيع",
+          "line2":"والعين للتوزيع أصبحتا",
+          "line3":"'طاقة للتوزيع'",
+          "subtitle1": "",
+          "subtitle2Residential": "تمكين المجتمعات بأفضل الحلول السكنية",
+          "subtitle2Business":"تمكين المجتمعات بأفضل حلول الأعمال",
+          "discoverMoreLink": "#اكتشف-المزيد",
+          "discoverMoreButton": "اكتشف المزيد"
+        },
+        "brandingSection": {
+          "line1": "علامة تجارية جديد – نفس",
+          "line2": "الخدمات الاستثنائية",
+          "descriptionResidential": "تغيير علامتنا التجارية هو الوسيلة المثالية لمواصلة نمونا والتفاعل مع عملائنا وبناء مستقبل قوي ومستدام.",
+          "descriptionBusiness": "تغيير علامتنا التجارية هو الوسيلة المثالية لمواصلة نمونا وبناء مستقبل قوي ومستدام من الأعمال.",
+          "knowMoreLink": "#اكتشف-المزيد",
+          "knowMoreButton": "اكتشف المزيد"
+        },
+        "appSection": {
+          "headline1": "تمكين",
+          "headline2": "المجتمعات",
+          "headline3":"تطبيق محسّن يساعدك في إدارة",
+          "subHeadline": ["حساب شركة طاقة للتوزيع الخاص بك"],
+          "cta": "الترقية إلى تجربة جديدة"
+        }
+      },
+      "helpAndSupportTopics": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle_en": "EXTENSION AND CONNECTION OF ELECTRICITY SERVICES",
+          "subtitle_ar": "خدمات تمديد وتوصيل الكهرباء",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property. If you are building a property within the Emirate, we’ll provide you with a seamless experience to make sure it is connected to our electricity services.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة. إذا كنت تقوم ببناء عقار داخل الإمارة، فسنعمل على توفير تجربة سلسة للتأكد من توصيل الكهرباء إلى عقارك.",
+          "items": [
+            {
+              "service": "Application for electricity load approval",
+              "service_ar": "طلب الموافقة على تحميل الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/load-demand-notification.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/load-demand-notification.aspx"
+            },
+            {
+              "service": "Application for internal electricity drawings approval",
+              "service_ar": "طلب الموافقة على الرسومات الكهربائية الداخلية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/approval-electric-drawings.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/approval-electric-drawings.aspx"
+            },
+            {
+              "service": "Application for permanent electricity cable execution",
+              "service_ar": "طلب تنفيذ كابل كهربائي دائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/permanent-cable-termination.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/permanent-cable-termination.aspx"
+            },
+            {
+              "service": "Application for inspection of electrical wiring of new connection (internal)",
+              "service_ar": "طلب فحص الأسلاك الكهربائية للاتصال الجديد (داخلي)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/inspection-internal-electric-wiring.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/inspection-internal-electric-wiring.aspx"
+            },
+            {
+              "service": "Application for electrical supply activation",
+              "service_ar": "طلب تفعيل توريد الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/activation-electric-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/activation-electric-services.aspx"
+            },
+            {
+              "service": "Application for inspection of additional electricity meter",
+              "service_ar": "طلب فحص عداد كهرباء إضافي",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Additional-Electric-Meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/additional-electric-meter.aspx"
+            },
+            {
+              "service": "Application for electricity load upgrade inspection",
+              "service_ar": "طلب فحص ترقية تحميل الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Electric-Load-Upgrade.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/electric-load-upgrade.aspx"
+            },
+            {
+              "service": "Application for temporary power connection",
+              "service_ar": "طلب اتصال كهربائي مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/connection-temporary-electric-line.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/connection-temporary-electric-line.aspx"
+            },
+            {
+              "service": "Application for temporary connection for condolence tent",
+              "service_ar": "طلب اتصال مؤقت لخيمة عزاء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/temporary-connection-condolence-test.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/temporary-connection-condolence-test.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Extension and Connection",
+              "link_ar": "تمديد وتوصيل"
+            },
+            {
+              "link": "How to Apply",
+              "link_ar": "كيفية التقديم"
+            },
+            {
+              "link": "Necessary Documents",
+              "link_ar": "المستندات اللازمة"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle_en": "TRANSFER AND REMOVAL OF ELECTRICITY SERVICES",
+          "subtitle_ar": "خدمات نقل وإزالة الكهرباء",
+          "description_en": "Manage the transfer and removal of electricity services efficiently. We provide all the necessary tools and support to help you handle these processes seamlessly.",
+          "description_ar": "إدارة عملية نقل وإزالة خدمات الكهرباء بكفاءة. نحن نوفر لك جميع الأدوات والدعم اللازمين لمساعدتك في التعامل مع هذه العمليات بسلاسة.",
+          "items": [
+            {
+              "service": "Application for transfer of electricity services",
+              "service_ar": "طلب نقل خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/transfer-electric-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/transfer-electric-services.aspx"
+            },
+            {
+              "service": "Application for removal of electricity services",
+              "service_ar": "طلب إزالة خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-electric-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-electric-services.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Transfer and Removal",
+              "link_ar": "نقل وإزالة"
+            },
+            {
+              "link": "Process Overview",
+              "link_ar": "نظرة عامة على العملية"
+            },
+            {
+              "link": "Contact Support",
+              "link_ar": "اتصل بالدعم"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle_en": "ACCOUNT MANAGEMENT AND BILLS",
+          "subtitle_ar": "إدارة الحسابات والفواتير",
+          "description_en": "Manage your account and bills efficiently. We provide all the necessary tools and support to help you keep track of your utility usage and payments.",
+          "description_ar": "إدارة حساباتك وفواتيرك بكفاءة. نحن نوفر لك جميع الأدوات والدعم اللازمين لمساعدتك في متابعة استخدام المرافق الخاصة بك والمدفوعات.",
+          "items": [
+            {
+              "service": "Application for bill payment",
+              "service_ar": "طلب دفع الفواتير",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-management-bills/Pages/bill-payment.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-management-bills/pages/bill-payment.aspx"
+            },
+            {
+              "service": "Application for bill enquiry",
+              "service_ar": "طلب استفسار عن الفاتورة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-management-bills/Pages/bill-enquiry.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-management-bills/pages/bill-enquiry.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Bill Payment",
+              "link_ar": "دفع الفواتير"
+            },
+            {
+              "link": "Bill Enquiry",
+              "link_ar": "استفسار عن الفاتورة"
+            },
+            {
+              "link": "Account Settings",
+              "link_ar": "إعدادات الحساب"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle_en": "CUSTOMER CARE",
+          "subtitle_ar": "خدمة العملاء",
+          "description_en": "We are here to help you with all your utility needs. Our customer care team is ready to assist you with any inquiries or issues you may have.",
+          "description_ar": "نحن هنا لمساعدتك في جميع احتياجاتك المتعلقة بالمرافق. فريق خدمة العملاء لدينا جاهز لمساعدتك في أي استفسارات أو مشكلات قد تواجهها.",
+          "items": [
+            {
+              "service": "Application for customer support",
+              "service_ar": "طلب دعم العملاء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/customer-support.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/customer-support.aspx"
+            },
+            {
+              "service": "Application for service feedback",
+              "service_ar": "طلب تقديم ملاحظات الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/service-feedback.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/service-feedback.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Customer Support",
+              "link_ar": "دعم العملاء"
+            },
+            {
+              "link": "Feedback",
+              "link_ar": "ملاحظات"
+            },
+            {
+              "link": "Service Requests",
+              "link_ar": "طلبات الخدمة"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle_en": "CONNECTION OF WATER SERVICES",
+          "subtitle_ar": "توصيل خدمات المياه",
+          "description_en": "Get connected to our reliable water services. We ensure a smooth and hassle-free connection process for your property.",
+          "description_ar": "توصيل خدمات المياه لدينا الموثوقة. نحن نضمن لك عملية توصيل سلسة وخالية من المتاعب لعقارك.",
+          "items": [
+            {
+              "service": "Application for water connection",
+              "service_ar": "طلب توصيل المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-connection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-connection.aspx"
+            },
+            {
+              "service": "Application for water disconnection",
+              "service_ar": "طلب فصل المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-disconnection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-disconnection.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Water Connection",
+              "link_ar": "توصيل المياه"
+            },
+            {
+              "link": "Disconnection Process",
+              "link_ar": "عملية فصل"
+            },
+            {
+              "link": "Service Fees",
+              "link_ar": "رسوم الخدمة"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle_en": "CERTIFICATES",
+          "subtitle_ar": "الشهادات",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for utility certificate",
+              "service_ar": "طلب شهادة مرافق",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/utility-certificate.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/utility-certificate.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Utility Certificates",
+              "link_ar": "شهادات المرافق"
+            },
+            {
+              "link": "Application Process",
+              "link_ar": "عملية التقديم"
+            },
+            {
+              "link": "Required Documents",
+              "link_ar": "المستندات المطلوبة"
+            }
+          ]
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle_en": "SHIFTING AND REMOVAL OF WATER SERVICES",
+          "subtitle_ar": "خدمات نقل وإزالة المياه",
+          "description_en": "Efficiently manage the shifting and removal of water services. We provide comprehensive support to ensure a smooth process.",
+          "description_ar": "إدارة عملية نقل وإزالة خدمات المياه بكفاءة. نحن نوفر الدعم الشامل لضمان عملية سلسة.",
+          "items": [
+            {
+              "service": "Application for shifting of water services",
+              "service_ar": "طلب نقل خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-water-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-water-services.aspx"
+            },
+            {
+              "service": "Application for removal of water services",
+              "service_ar": "طلب إزالة خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-water-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-water-services.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Water Shifting",
+              "link_ar": "نقل المياه"
+            },
+            {
+              "link": "Service Removal",
+              "link_ar": "إزالة الخدمة"
+            },
+            {
+              "link": "Cost Estimation",
+              "link_ar": "تقدير التكلفة"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle_en": "REGISTRATION OF WATER TANKERS",
+          "subtitle_ar": "تسجيل صهاريج المياه",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for water tanker registration",
+              "service_ar": "طلب تسجيل صهريج مياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/water-tanker-registration.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/water-tanker-registration.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Tanker Registration",
+              "link_ar": "تسجيل الصهريج"
+            },
+            {
+              "link": "Service Guidelines",
+              "link_ar": "إرشادات الخدمة"
+            },
+            {
+              "link": "Legal Requirements",
+              "link_ar": "المتطلبات القانونية"
+            }
+          ]
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle_en": "EV charging tariff",
+          "subtitle_ar": "تعرفة شحن السيارات الكهربائية في الإمارة",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect and register your EV charger at your new property.",
+          "description_ar": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة لتوصيل شاحن السيارة الكهربائية الخاص بك وتسجيله في عقارك الجديد.",
+          "items": [
+            {
+              "service": "Application for EV charging station installation",
+              "service_ar": "طلب تركيب محطة شحن السيارات الكهربائية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/ev-charging-tariff-emirate/Pages/ev-charging-station-installation.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/ev-charging-tariff-emirate/pages/ev-charging-station-installation.aspx"
+            },
+            {
+              "service": "Application for EV charging tariff",
+              "service_ar": "طلب تعرفة شحن السيارات الكهربائية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/ev-charging-tariff-emirate/Pages/ev-charging-tariff.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/ev-charging-tariff-emirate/pages/ev-charging-tariff.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Charging Stations",
+              "link_ar": "محطات الشحن"
+            },
+            {
+              "link": "Tariff Details",
+              "link_ar": "تفاصيل التعرفة"
+            },
+            {
+              "link": "Installation Guide",
+              "link_ar": "دليل التثبيت"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "aadc": {
+    "en-us": {
+      "overview": {
+        "navigation/links": {
+          "overview": "/{{region}}/{{language}}/residential/overview",
+          "help-and-support": "#help-and-support",
+          "locations": "#locations"
+        },
+        "heroSection": {
+          "line1": "ADDC & AADC",
+          "line2": "ARE NOW",
+          "line3": "TAQA DISTRIBUTION",
+          "subtitle1": "Powering communities",
+          "subtitle2Residential": "with the best residential solutions",
+          "subtitle2Business": "with the best business solutions",
+          "discoverMoreLink": "#discover-more",
+          "discoverMoreButton": "Discover more"
+        },
+        "brandingSection": {
+          "line1": "NEW BRAND-SAME",
+          "line2": "EXCEPTIONAL SERVICE",
+          "descriptionResidential": "Our new branding provides a platform for continued growth for a sustainable future. Together, let's power your home with reliable, efficient energy so you can focus on what matters most—making lasting memories.",
+          "descriptionBusiness": "Our new branding provides a platform for continued growth for a sustainable future. Together, we power your business with the energy it needs to thrive.",
+          "knowMoreLink": "#discover-more",
+          "knowMoreButton": "Know more"
+        },
+        "appSection": {
+          "headline1": "POWERING",
+          "headline2": "COMMUNITIES",
+          "headline3":"AN ENHANCED APP WITH IMPROVED FEATURES",
+          "subHeadline": ["TAKE CONTROL OF YOUR", "TAQA DISTRIBUTION ACCOUNT"],
+          "cta": "Upgrade to a new experience"
+        }
+      },
+      "helpAndSupportTopicsBusiness": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle_en": "EXTENSION AND CONNECTION OF ELECTRICITY SERVICES",
+          "subtitle_ar": "خدمات تمديد وتوصيل الكهرباء",
+          "description_en": "If you are moving within the Emirate we’ll provide a seamless experience when you connect at your new property. If you are building a property within the Emirate, we’ll provide you with a seamless experience to make sure it is connected to our electricity services.",
+          "description_ar": "إذا كنت تقوم ببناء عقار داخل الإمارة، فسنعمل على توفير تجربة سلسة للتأكد من توصيل الكهرباء إلى عقارك",
+          "items": [
+            {
+              "service": "Application for electricity load approval",
+              "service_ar": "طلب الموافقة على تحميل الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/load-demand-notification.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/load-demand-notification.aspx"
+            },
+            {
+              "service": "Application for internal electricity drawings approval",
+              "service_ar": "طلب الموافقة على الرسومات الكهربائية الداخلية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/approval-electric-drawings.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/approval-electric-drawings.aspx"
+            },
+            {
+              "service": "Application for permanent electricity cable execution",
+              "service_ar": "طلب تنفيذ كابل كهربائي دائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/permanent-cable-termination.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/permanent-cable-termination.aspx"
+            },
+            {
+              "service": "Application for inspection of electrical wiring of new connection (internal)",
+              "service_ar": "طلب فحص الأسلاك الكهربائية للاتصال الجديد (داخلي)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/inspection-internal-electric-wiring.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/inspection-internal-electric-wiring.aspx"
+            },
+            {
+              "service": "Application for electrical supply activation",
+              "service_ar": "طلب تفعيل توريد الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/activation-electric-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/activation-electric-services.aspx"
+            },
+            {
+              "service": "Application for inspection of additional electricity meter",
+              "service_ar": "طلب فحص عداد كهرباء إضافي",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Additional-Electric-Meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/additional-electric-meter.aspx"
+            },
+            {
+              "service": "Application for electricity load upgrade inspection",
+              "service_ar": "طلب فحص ترقية تحميل الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Electric-Load-Upgrade.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/electric-load-upgrade.aspx"
+            },
+            {
+              "service": "Application for temporary power connection",
+              "service_ar": "طلب اتصال كهربائي مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/connection-temporary-electric-line.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/connection-temporary-electric-line.aspx"
+            },
+            {
+              "service": "Application for temporary connection for condolence tent",
+              "service_ar": "طلب اتصال مؤقت لخيمة عزاء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/temporary-connection-condolence-test.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/temporary-connection-condolence-test.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an Emergency",
+              "link_ar": "ما الذي يمكن فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "About moving in",
+              "link_ar": "تعرف على كيفية الانتقال لعقار جديد",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/about-moving-in.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/about-moving-in.aspx"
+            },
+            {
+              "link": "More about Tawtheeq",
+              "link_ar": "المزيد عن توثيق",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/understanding-tawtheeq.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-tawtheeq.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "link_ar": "دليل الاستهلاك",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/consumptionfinder.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "Understanding Mawaqif",
+              "link_ar": "المزيد عن مواقف",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/understanding-mawaqif.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "link_ar": "ميثاق العملاء",
+              "englishLink": "https://www.addc.ae/en-us/residential/documents/customer%20charter.pdf",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/documents/customer%20charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "link_ar": "هدفنا خدمة كل أفراد المجتمع",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/critical-care-customers.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "link_ar": "تحقق من فواتيرك",
+              "englishLink": "https://www.addc.ae/en-us/residential/_layouts/15/addc/checkmybill.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/checkmybill.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle_en": "TRANSFER AND REMOVAL OF ELECTRICITY SERVICES",
+          "subtitle_ar": "خدمات نقل وإزالة الكهرباء",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide a seamless experience when you connect at your new property.",
+          "description_ar": "الجديد.الإمارة، فسنوفر لك تجربة سلسة للتواصل في عقارك اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل",
+          "items": [
+            {
+              "service": "Application for electricity meter shifting inspection",
+              "service_ar": "طلب تفتيش فحص لنقل عداد كهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/application-shifting-electricitymeter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/application-shifting-electricitymeter.aspx"
+            },
+            {
+              "service": "Application for shifting electricity services quotation",
+              "service_ar": "طلب عرض أسعار لنقل خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/quotation-relocation-external-lectricity-Services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/quotation-relocation-external-lectricity-services.aspx"
+            },
+            {
+              "service": "Application for shifting electricity services",
+              "service_ar": "طلب نقل خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/relocation-of-electricity-connections.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/relocation-of-electricity-connections.aspx"
+            },
+            {
+              "service": "Application for electricity connection removal",
+              "service_ar": "طلب إزالة خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-electricity-connections.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-electricity-connections.aspx"
+            },
+            {
+              "service": "Application for removal of permanent electricity meter",
+              "service_ar": "طلب إزالة عداد الكهرباء الدائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-permanent-electricity-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-permanent-electricity-meter.aspx"
+            },
+            {
+              "service": "Application for temporary electricity meter removal",
+              "service_ar": "طلب إزالة عداد كهرباء مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-temporary-electricity-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-temporary-electricity-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "link_ar": "ما الذي يمكن في لي فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "link_ar": "قواعد قطع إيقاف الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Supplydisconnectionrules.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "About moving out",
+              "link_ar": "حول قطع الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/About-Moving-out.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/about-moving-out.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "link_ar": "دليل الاستهلاك",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/ConsumptionFinder.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "link_ar": "معايير الخدمة المضمونة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/GuaranteedStandards.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle_en": "ACCOUNT MANAGEMENT AND BILLS",
+          "subtitle_ar": "إدارة الحسابات والفواتير",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for new customer account registration",
+              "service_ar": "طلب فتح حساب لمتعامل جديد",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/opening-account-new-customer.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/opening-account-new-customer.aspx"
+            },
+            {
+              "service": "Application for critical medical conditions registration",
+              "service_ar": "طلب تسجيل الحالات الطبية الحساسة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/critical-medical-conditions-registration.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/critical-medical-conditions-registration.aspx"
+            },
+            {
+              "service": "Application to change property ownership information",
+              "service_ar": "طلب تغيير بيانات ملكية العقار",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/change-property-ownership_123.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/change-property-ownership_123.aspx"
+            },
+            {
+              "service": "Application for instalment payment arrangement for customers in financial distress",
+              "service_ar": "طلب تقسيط أو ترتيب الدفع للمتعامل المتعسر مالياً",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/installment-postponemen-troubled-entitlements.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/installment-postponemen-troubled-entitlements.aspx"
+            },
+            {
+              "service": "Application for change of customer category",
+              "service_ar": "طلب تعديل فئة المتعامل",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/change-of-customer-category.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/change-of-customer-category.aspx"
+            },
+            {
+              "service": "Application for incident clearance",
+              "service_ar": "طلب براءة ذمة بسبب الحوادث",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/clearance-due-to-incident.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/clearance-due-to-incident.aspx"
+            },
+            {
+              "service": "Application for to whom it may concern certificate",
+              "service_ar": "طلب شهادة لمن يهمه الأمر",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/certificate-to-whom-it-may-concern.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/certificate-to-whom-it-may-concern.aspx"
+            },
+            {
+              "service": "Temporary disconnection of water service",
+              "service_ar": "طلب فصل مؤقت لخدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/water-services-temporary-disconnection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/water-services-temporary-disconnection.aspx"
+            },
+            {
+              "service": "Application for shutdown and restoration of electricity for maintenance",
+              "service_ar": "طلب عزل وإعادة الكهرباء لأغراض الصيانة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/electricity-service-temporary-disconnection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/electricity-service-temporary-disconnection.aspx"
+            },
+            {
+              "service": "Application for registering in social affairs exemptions",
+              "service_ar": "طلب تسجيل ضمن إعفاءات الشؤون الاجتماعية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/registration-social-affair-exemption.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/registration-social-affair-exemption.aspx"
+            },
+            {
+              "service": "Application for adding a new account to a payee",
+              "service_ar": "طلب إضافة حساب إلى جهة الدفع",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/adding-account-from-payee.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/adding-account-from-payee.aspx"
+            },
+            {
+              "service": "Application for cancelling an account from a payee",
+              "service_ar": "طلب إلغاء حساب من جهة الدفع",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/cancelling-account-from-payee.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/cancelling-account-from-payee.aspx"
+            },
+            {
+              "service": "Application for balance refund or transfer",
+              "service_ar": "طلب استرداد أو تحويل رصيد",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/application-balance-refund-transfer.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/application-balance-refund-transfer.aspx"
+            },
+            {
+              "service": "Application for closing an account",
+              "service_ar": "طلب إغلاق حساب",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/application-closing-account.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/application-closing-account.aspx"
+            },
+            {
+              "service": "Water and electricity bill payment",
+              "service_ar": "دفع فواتير المياه والكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/bill-payement-service-application.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/bill-payement-service-application.aspx"
+            },
+            {
+              "service": "Service for direct debit de-registration",
+              "service_ar": "إلغاء خدمة الخصم المباشر",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Service_for_Direct_Debit_De-Registration.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/service_for_direct_debit_de-registration.aspx"
+            },
+            {
+              "service": "Bill smoothing service",
+              "service_ar": "خدمة الفاتورة الثابتة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Bill_Smoothening_Service.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/bill_smoothening_service.aspx"
+            },
+            {
+              "service": "Direct debit registration service",
+              "service_ar": "خدمة تخويل الخصم المباشر",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Direct_Debit_Registration_Service.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/direct_debit_registration_service.aspx"
+            },
+            {
+              "service": "Direct debit payment service",
+              "service_ar": "خدمة سداد الخصم المباشر",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Direct_Debit_Payment_Service.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/direct_debit_payment_service.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "link_ar": "ما الذي يمكن فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Tariff calculator",
+              "link_ar": "حاسبة التعرفة",
+              "englishLink": "https://www.addc.ae/en-us/residential/_layouts/15/addc/Checkmybill.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/checkmybill.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2023",
+              "link_ar": "التعرفة والأسعار 2023",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2023.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2023.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2020",
+              "link_ar": "التعرفة والأسعار 2020",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2020.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2020.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2019",
+              "link_ar": "التعرفة والأسعار 2019",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2019.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2019.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2018",
+              "link_ar": "التعرفة والأسعار 2018",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2018.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2018.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2017",
+              "link_ar": "التعرفة والأسعار 2017",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2017.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2017.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2016",
+              "link_ar": "التعرفة والأسعار 2016",
+              "englishLink": "https://www.addc.ae/en-us/Residential/Pages/RatesAndTariffs2016.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2016.aspx"
+            },
+            {
+              "link": "Supply agreement",
+              "link_ar": "اتفاقية التوريد",
+              "englishLink": "https://www.addc.ae/en-us/residential/pages/supplyagreement.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/supplyagreement.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "link_ar": "تحقق من فواتيرك",
+              "englishLink": "https://www.addc.ae/en-us/residential/_layouts/15/addc/Checkmybill.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "Understand your bill",
+              "link_ar": "اتورة جديدة، مصممة خصيصاً لك",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/UnderstandYourBill.aspx ",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understandyourbill.aspx "
+            },
+            {
+              "link": "Payment options",
+              "link_ar": "خيارات الدفع",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/PaymentOptions.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/paymentoptions.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle_en": "CUSTOMER CARE",
+          "subtitle_ar": "خدمة العملاء",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسةعش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد ",
+          "items": [
+            {
+              "service": "Water emergency case submission",
+              "service_ar": "تقديم البلاغات الطارئة للمياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/emergency-water-cases-submission.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/emergency-water-cases-submission.aspx"
+            },
+            {
+              "service": "Electricity emergency case submission",
+              "service_ar": "تقديم البلاغات الطارئة للكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/electricity-emergency-cases-submission.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/electricity-emergency-cases-submission.aspx"
+            },
+            {
+              "service": "Information enquiry",
+              "service_ar": "الاستفسار عن معلومات",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/Information-Inquiry.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/information-inquiry.aspx"
+            },
+            {
+              "service": "Application for water and electricity services consultation",
+              "service_ar": "طلب الاستشارات حول خدمات المياه والكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/water-electricity-consultations-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/water-electricity-consultations-services.aspx"
+            },
+            {
+              "service": "Submit a complaint",
+              "service_ar": "تقديم الشكاوى",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/complaints-submission.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/complaints-submission.aspx"
+            },
+            {
+              "service": "Submit a suggestion",
+              "service_ar": "تقديم المقترحات",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/suggestions-submission.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/suggestions-submission.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "link_ar": "ما الذي يمكن فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "link_ar": "ميثاق العملاء",
+              "englishLink": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf",
+              "arabicLink": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "link_ar": "هدفنا خدمة كل أفراد المجتمع",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Critical-care-customers.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "link_ar": "معايير الخدمة المضمونة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/GuaranteedStandards.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/guaranteedstandards.aspx"
+            },
+            {
+              "link": "Understanding Mawaqif",
+              "link_ar": "حول خدمة مواقف",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Understanding-Mawaqif.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle_en": "CONNECTION OF WATER SERVICES",
+          "subtitle_ar": "توصيل خدمات المياه",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسةعش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد ",
+          "items": [
+            {
+              "service": "Application for water demand approval",
+              "service_ar": "طلب اعتماد الاستهلاك للمياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-demand-notification.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-demand-notification.aspx"
+            },
+            {
+              "service": "Application for water supply drawings approval",
+              "service_ar": "طلب اعتماد مخططات لتمديدات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-supply-drawings-approval.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-supply-drawings-approval.aspx"
+            },
+            {
+              "service": "Application for permanent water connection",
+              "service_ar": "طلب تمديد توصيل خط مياه دائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/Permanent-Water-Connection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/permanent-water-connection.aspx"
+            },
+            {
+              "service": "Application for water supply inspection (internal)",
+              "service_ar": "طلب تفتيش فحص للتمديدات الداخلية للمياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/internal-water-supply-inspection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/internal-water-supply-inspection.aspx"
+            },
+            {
+              "service": "Application for water supply activation",
+              "service_ar": "طلب تفعيل خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-supply-activation.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-supply-activation.aspx"
+            },
+            {
+              "service": "Application for inspection of additional water meter",
+              "service_ar": "طلب تفتيش فحص لإضافة عداد المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/additional-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/additional-water-meter.aspx"
+            },
+            {
+              "service": "Application for water load upgrade inspection",
+              "service_ar": "طلب تفتيش فحص لزيادة حجم خط المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/upgrading-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/upgrading-water-meter.aspx"
+            },
+            {
+              "service": "Application for temporary water connection",
+              "service_ar": "طلب توصيل خط مياه مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/temporary-water-connection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/temporary-water-connection.aspx"
+            }
+          ],
+          "quickLinks": [
+            [
+              {
+                "link": "What to do in an emergency",
+                "link_ar": "ما الذي يمكن في فعله في حالة الطوارئ",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+                "arabicLink": "https://www.addc.ae/ar-AE/residential/pages/whattodoinanemergency.aspx"
+              },
+              {
+                "link": "About moving in",
+                "link_ar": "حول الانتقال إلى عقار جديد",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/About-Moving-in.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/about-moving-in.aspx"
+              },
+              {
+                "link": "More about Tawtheeq",
+                "link_ar": "حول خدمة توثيق",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/Understanding-Tawtheeq.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-tawtheeq.aspx"
+              },
+              {
+                "link": "Consumption guide",
+                "link_ar": "دليل الاستهلاك",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/ConsumptionFinder.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+              },
+              {
+                "link": "Understanding Mawaqif",
+                "link_ar": "حول خدمة مواقف",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/Understanding-Mawaqif.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+              },
+              {
+                "link": "Customer charter",
+                "link_ar": "ميثاق خدمة المتعاملين",
+                "englishLink": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf",
+                "arabicLink": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf"
+              },
+              {
+                "link": "Critical care customers",
+                "link_ar": "العملاء ذوي احتياجات الرعاية الصحية الخاصة",
+                "englishLink": "https://www.addc.ae/en-us/residential/Pages/Critical-care-customers.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+              },
+              {
+                "link": "Check your bill",
+                "link_ar": "الإطلاع على الفاتورة",
+                "englishLink": "https://www.addc.ae/en-us/residential/_layouts/15/addc/Checkmybill.aspx",
+                "arabicLink": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/checkmybill.aspx"
+              }
+            ]
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle_en": "CERTIFICATES",
+          "subtitle_ar": "الشهادات",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for Electricity Services Clearance Certificate",
+              "service_ar": "طلب شهادة خلو موقع من خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/electric-services-clearance-certificate.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/electric-services-clearance-certificate.aspx"
+            },
+            {
+              "service": "Application for Water Services Clearance Certificate",
+              "service_ar": "طلب شهادة خلو موقع من خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/water-service-clearance-certificate.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/water-service-clearance-certificate.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Water tankering centre",
+              "link_ar": "مركز صهاريج المياه",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Water-Tankering-Center.aspx",
+              "arabicLink": "https://www.addc.ae/ar-AE/residential/pages/water-tankering-center.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle_en": "SHIFTING AND REMOVAL OF WATER SERVICES",
+          "subtitle_ar": "خدمات نقل وإزالة المياه",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة للتواصل في عقارك الجديد.",
+          "items": [
+            {
+              "service": "Application for water meter shifting inspection",
+              "service_ar": "طلب تفتيش لنقل عداد المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-water-meter.aspx"
+            },
+            {
+              "service": "Application for shifting water pipeline quotation",
+              "service_ar": "طلب عرض سعر الإشراف الفني لنقل خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-quotation-water-pipeline.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-quotation-water-pipeline.aspx"
+            },
+            {
+              "service": "Application for shifting water pipeline",
+              "service_ar": "طلب نقل خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-of-external-water-pipeline.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-of-external-water-pipeline.aspx"
+            },
+            {
+              "service": "Application for water connection removal",
+              "service_ar": "طلب إزالة خدمات للمياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/demolishing-of-water-connection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/demolishing-of-water-connection.aspx"
+            },
+            {
+              "service": "Application for removal of permanent water meter",
+              "service_ar": "طلب إزالة عداد مياه دائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-permanent-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-permanent-water-meter.aspx"
+            },
+            {
+              "service": "Application for temporary water meter removal",
+              "service_ar": "طلب إزالة عداد مياه مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-temporary-water-meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-temporary-water-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "link_ar": "ما الذي يمكن فعله في حالة الطوارئ",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "link_ar": "قواعد قطع الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/Supplydisconnectionrules.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "About moving out",
+              "link_ar": "حول قطع الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/About-Moving-out.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/about-moving-out.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "link_ar": "دليل الاستهلاك",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/ConsumptionFinder.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "link_ar": "معايير الخدمة المضمونة",
+              "englishLink": "https://www.addc.ae/en-us/residential/Pages/GuaranteedStandards.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/residential/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle_en": "REGISTRATION OF WATER TANKERS",
+          "subtitle_ar": "تسجيل صهاريج المياه",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for registration of drinking water tanker (Ghadeer Card)",
+              "service_ar": "طلب تسجيل صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/registration-water-tanker.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/registration-water-tanker.aspx"
+            },
+            {
+              "service": "Application for renewal of drinking water tanker (Ghadeer Card)",
+              "service_ar": "طلب تجديد تصريح صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/renewal-water-tanker.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/renewal-water-tanker.aspx"
+            },
+            {
+              "service": "Application for cancellation of drinking water tanker (Ghadeer Card)",
+              "service_ar": "طلب إلغاء تسجيل صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/cancellation-water-tanker.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/cancellation-water-tanker.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle_en": "EV charging tariff",
+          "subtitle_ar": "تعرفة شحن السيارات الكهربائية في الإمارة",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect and register your EV charger at your new property.",
+          "description_ar": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة لتوصيل شاحن السيارة الكهربائية الخاص بك وتسجيله في عقارك الجديد.",
+          "items": [
+            {
+              "service": "Register your electric vehicle charger",
+              "service_ar": "تسجيل جهاز شحن المركبات الكهربائية",
+              "englishLink": "https://myapp.addc.ae/EVSERegistration/",
+              "arabicLink": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": []
+        }
+      ]
+    },
+    "ar-ae": {
+      "overview": {
+        "navigation/links": {
+          "overview": "/{{region}}/{{language}}/residential/overview",
+          "help-and-support": "#help-and-support",
+          "locations": "#locations"
+        },
+        "heroSection": {
+          "line1":"شركتا أبوظبي للتوزيع",
+          "line2":"والعين للتوزيع أصبحتا",
+          "line3":"'طاقة للتوزيع'",
+          "subtitle1": "",
+          "subtitle2Residential": "تمكين المجتمعات بأفضل حلول الأعمال",
+          "subtitle2Business":"تمكين المجتمعات بأفضل حلول الأعمال",
+          "discoverMoreLink": "#اكتشف-المزيد",
+          "discoverMoreButton": "اكتشف المزيد"
+        },
+        "brandingSection": {
+          "line1": "علامة تجارية جديد – نفس",
+          "line2": "الخدمات الاستثنائية",
+          "descriptionResidential": "تغيير علامتنا التجارية هو الوسيلة المثالية لمواصلة نمونا والتفاعل مع عملائنا وبناء مستقبل قوي ومستدام.",
+          "descriptionBusiness": "تغيير علامتنا التجارية هو الوسيلة المثالية لمواصلة نمونا وبناء مستقبل قوي ومستدام من الأعمال.",
+          "knowMoreLink": "#اكتشف-المزيد"
+        },
+        "appSection": {
+          "headline1": "تمكين",
+          "headline2": "المجتمعات",
+          "headline3":"تطبيق محسّن يساعدك في إدارة",
+          "subHeadline": ["حساب شركة طاقة للتوزيع الخاص بك"],
+          "cta": "الترقية إلى تجربة جديدة"
+        }
+      },
+      "helpAndSupportTopics": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle_en": "EXTENSION AND CONNECTION OF ELECTRICITY SERVICES",
+          "subtitle_ar": "خدمات تمديد وتوصيل الكهرباء",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property. If you are building a property within the Emirate, we’ll provide you with a seamless experience to make sure it is connected to our electricity services.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة. إذا كنت تقوم ببناء عقار داخل الإمارة، فسنعمل على توفير تجربة سلسة للتأكد من توصيل الكهرباء إلى عقارك.",
+          "items": [
+            {
+              "service": "Application for electricity load approval",
+              "service_ar": "طلب الموافقة على تحميل الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/load-demand-notification.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/load-demand-notification.aspx"
+            },
+            {
+              "service": "Application for internal electricity drawings approval",
+              "service_ar": "طلب الموافقة على الرسومات الكهربائية الداخلية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/approval-electric-drawings.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/approval-electric-drawings.aspx"
+            },
+            {
+              "service": "Application for permanent electricity cable execution",
+              "service_ar": "طلب تنفيذ كابل كهربائي دائم",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/permanent-cable-termination.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/permanent-cable-termination.aspx"
+            },
+            {
+              "service": "Application for inspection of electrical wiring of new connection (internal)",
+              "service_ar": "طلب فحص الأسلاك الكهربائية للاتصال الجديد (داخلي)",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/inspection-internal-electric-wiring.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/inspection-internal-electric-wiring.aspx"
+            },
+            {
+              "service": "Application for electrical supply activation",
+              "service_ar": "طلب تفعيل توريد الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/activation-electric-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/activation-electric-services.aspx"
+            },
+            {
+              "service": "Application for inspection of additional electricity meter",
+              "service_ar": "طلب فحص عداد كهرباء إضافي",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Additional-Electric-Meter.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/additional-electric-meter.aspx"
+            },
+            {
+              "service": "Application for electricity load upgrade inspection",
+              "service_ar": "طلب فحص ترقية تحميل الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Electric-Load-Upgrade.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/electric-load-upgrade.aspx"
+            },
+            {
+              "service": "Application for temporary power connection",
+              "service_ar": "طلب اتصال كهربائي مؤقت",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/connection-temporary-electric-line.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/connection-temporary-electric-line.aspx"
+            },
+            {
+              "service": "Application for temporary connection for condolence tent",
+              "service_ar": "طلب اتصال مؤقت لخيمة عزاء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/temporary-connection-condolence-test.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/temporary-connection-condolence-test.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Extension and Connection",
+              "link_ar": "تمديد وتوصيل"
+            },
+            {
+              "link": "How to Apply",
+              "link_ar": "كيفية التقديم"
+            },
+            {
+              "link": "Necessary Documents",
+              "link_ar": "المستندات اللازمة"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle_en": "TRANSFER AND REMOVAL OF ELECTRICITY SERVICES",
+          "subtitle_ar": "خدمات نقل وإزالة الكهرباء",
+          "description_en": "Manage the transfer and removal of electricity services efficiently. We provide all the necessary tools and support to help you handle these processes seamlessly.",
+          "description_ar": "إدارة عملية نقل وإزالة خدمات الكهرباء بكفاءة. نحن نوفر لك جميع الأدوات والدعم اللازمين لمساعدتك في التعامل مع هذه العمليات بسلاسة.",
+          "items": [
+            {
+              "service": "Application for transfer of electricity services",
+              "service_ar": "طلب نقل خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/transfer-electric-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/transfer-electric-services.aspx"
+            },
+            {
+              "service": "Application for removal of electricity services",
+              "service_ar": "طلب إزالة خدمات الكهرباء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-electric-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-electric-services.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Transfer and Removal",
+              "link_ar": "نقل وإزالة"
+            },
+            {
+              "link": "Process Overview",
+              "link_ar": "نظرة عامة على العملية"
+            },
+            {
+              "link": "Contact Support",
+              "link_ar": "اتصل بالدعم"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle_en": "ACCOUNT MANAGEMENT AND BILLS",
+          "subtitle_ar": "إدارة الحسابات والفواتير",
+          "description_en": "Manage your account and bills efficiently. We provide all the necessary tools and support to help you keep track of your utility usage and payments.",
+          "description_ar": "إدارة حساباتك وفواتيرك بكفاءة. نحن نوفر لك جميع الأدوات والدعم اللازمين لمساعدتك في متابعة استخدام المرافق الخاصة بك والمدفوعات.",
+          "items": [
+            {
+              "service": "Application for bill payment",
+              "service_ar": "طلب دفع الفواتير",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-management-bills/Pages/bill-payment.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-management-bills/pages/bill-payment.aspx"
+            },
+            {
+              "service": "Application for bill enquiry",
+              "service_ar": "طلب استفسار عن الفاتورة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/account-management-bills/Pages/bill-enquiry.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/account-management-bills/pages/bill-enquiry.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Bill Payment",
+              "link_ar": "دفع الفواتير"
+            },
+            {
+              "link": "Bill Enquiry",
+              "link_ar": "استفسار عن الفاتورة"
+            },
+            {
+              "link": "Account Settings",
+              "link_ar": "إعدادات الحساب"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle_en": "CUSTOMER CARE",
+          "subtitle_ar": "خدمة العملاء",
+          "description_en": "We are here to help you with all your utility needs. Our customer care team is ready to assist you with any inquiries or issues you may have.",
+          "description_ar": "نحن هنا لمساعدتك في جميع احتياجاتك المتعلقة بالمرافق. فريق خدمة العملاء لدينا جاهز لمساعدتك في أي استفسارات أو مشكلات قد تواجهها.",
+          "items": [
+            {
+              "service": "Application for customer support",
+              "service_ar": "طلب دعم العملاء",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/customer-support.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/customer-support.aspx"
+            },
+            {
+              "service": "Application for service feedback",
+              "service_ar": "طلب تقديم ملاحظات الخدمة",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/service-feedback.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/service-feedback.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Customer Support",
+              "link_ar": "دعم العملاء"
+            },
+            {
+              "link": "Feedback",
+              "link_ar": "ملاحظات"
+            },
+            {
+              "link": "Service Requests",
+              "link_ar": "طلبات الخدمة"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle_en": "CONNECTION OF WATER SERVICES",
+          "subtitle_ar": "توصيل خدمات المياه",
+          "description_en": "Get connected to our reliable water services. We ensure a smooth and hassle-free connection process for your property.",
+          "description_ar": "توصيل خدمات المياه لدينا الموثوقة. نحن نضمن لك عملية توصيل سلسة وخالية من المتاعب لعقارك.",
+          "items": [
+            {
+              "service": "Application for water connection",
+              "service_ar": "طلب توصيل المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-connection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-connection.aspx"
+            },
+            {
+              "service": "Application for water disconnection",
+              "service_ar": "طلب فصل المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-disconnection.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-disconnection.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Water Connection",
+              "link_ar": "توصيل المياه"
+            },
+            {
+              "link": "Disconnection Process",
+              "link_ar": "عملية فصل"
+            },
+            {
+              "link": "Service Fees",
+              "link_ar": "رسوم الخدمة"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle_en": "CERTIFICATES",
+          "subtitle_ar": "الشهادات",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for utility certificate",
+              "service_ar": "طلب شهادة مرافق",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/utility-certificate.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/utility-certificate.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Utility Certificates",
+              "link_ar": "شهادات المرافق"
+            },
+            {
+              "link": "Application Process",
+              "link_ar": "عملية التقديم"
+            },
+            {
+              "link": "Required Documents",
+              "link_ar": "المستندات المطلوبة"
+            }
+          ]
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle_en": "SHIFTING AND REMOVAL OF WATER SERVICES",
+          "subtitle_ar": "خدمات نقل وإزالة المياه",
+          "description_en": "Efficiently manage the shifting and removal of water services. We provide comprehensive support to ensure a smooth process.",
+          "description_ar": "إدارة عملية نقل وإزالة خدمات المياه بكفاءة. نحن نوفر الدعم الشامل لضمان عملية سلسة.",
+          "items": [
+            {
+              "service": "Application for shifting of water services",
+              "service_ar": "طلب نقل خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-water-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-water-services.aspx"
+            },
+            {
+              "service": "Application for removal of water services",
+              "service_ar": "طلب إزالة خدمات المياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-water-services.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-water-services.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Water Shifting",
+              "link_ar": "نقل المياه"
+            },
+            {
+              "link": "Service Removal",
+              "link_ar": "إزالة الخدمة"
+            },
+            {
+              "link": "Cost Estimation",
+              "link_ar": "تقدير التكلفة"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle_en": "REGISTRATION OF WATER TANKERS",
+          "subtitle_ar": "تسجيل صهاريج المياه",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "description_ar": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "items": [
+            {
+              "service": "Application for water tanker registration",
+              "service_ar": "طلب تسجيل صهريج مياه",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/water-tanker-registration.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/water-tanker-registration.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Tanker Registration",
+              "link_ar": "تسجيل الصهريج"
+            },
+            {
+              "link": "Service Guidelines",
+              "link_ar": "إرشادات الخدمة"
+            },
+            {
+              "link": "Legal Requirements",
+              "link_ar": "المتطلبات القانونية"
+            }
+          ]
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle_en": "EV charging tariff",
+          "subtitle_ar": "تعرفة شحن السيارات الكهربائية في الإمارة",
+          "description_en": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect and register your EV charger at your new property.",
+          "description_ar": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة لتوصيل شاحن السيارة الكهربائية الخاص بك وتسجيله في عقارك الجديد.",
+          "items": [
+            {
+              "service": "Application for EV charging station installation",
+              "service_ar": "طلب تركيب محطة شحن السيارات الكهربائية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/ev-charging-tariff-emirate/Pages/ev-charging-station-installation.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/ev-charging-tariff-emirate/pages/ev-charging-station-installation.aspx"
+            },
+            {
+              "service": "Application for EV charging tariff",
+              "service_ar": "طلب تعرفة شحن السيارات الكهربائية",
+              "englishLink": "https://www.addc.ae/en-us/home/service-categories/ev-charging-tariff-emirate/Pages/ev-charging-tariff.aspx",
+              "arabicLink": "https://www.addc.ae/ar-ae/home/service-categories/ev-charging-tariff-emirate/pages/ev-charging-tariff.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Charging Stations",
+              "link_ar": "محطات الشحن"
+            },
+            {
+              "link": "Tariff Details",
+              "link_ar": "تفاصيل التعرفة"
+            },
+            {
+              "link": "Installation Guide",
+              "link_ar": "دليل التثبيت"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

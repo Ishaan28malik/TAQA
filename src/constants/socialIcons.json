@@ -1,0 +1,7 @@
+[
+  { "name": "FacebookIcon", "key": "Facebook" },
+  { "name": "InstagramIcon", "key": "Instagram" },
+  { "name": "LinkedinIcon", "key": "Linkedin" },
+  { "name": "TwitterIcon", "key": "Twitter" },
+  { "name": "YoutubeIcon", "key": "Youtube" }
+]

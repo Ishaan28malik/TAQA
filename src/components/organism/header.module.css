@@ -1,0 +1,100 @@
+.header {
+  color: #ffff;
+}
+
+.navigationbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 70px;
+  height: 60px;
+}
+
+.navigationlist {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.regionSelectTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  gap: 8px;
+}
+
+.outages {
+  cursor: pointer;
+}
+
+.fontDiffArabic {
+  font-family: var(--bukra-regular);
+  font-size: 13px;
+  line-height: 170%;
+  letter-spacing: 0px;
+}
+
+.fontDiffEnglish {
+  font-family: var(--roboto-regular);
+  font-size: 13px;
+  line-height: 155%;
+  letter-spacing: 1.04px;
+}
+
+.navigationlist li a {
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.dropdownindicator {
+  width: 16px;
+  margin-left: 5px;
+}
+
+.navigationitem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 30px;
+  cursor: pointer;
+}
+
+.activeLink {
+  background-color: white;
+  color: var(--color-font-black);
+}
+
+.searchIcon {
+  cursor: pointer;
+  padding: 10px 20px 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/* Media Query to hide the header on mobile devices */
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .header {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1224px) and (min-width: 1020px) {
+  .regionSelectTitle {
+    margin-right: 25px;
+  }
+}
+
+@media screen and (max-width: 820px) {
+  .header {
+    display: none;
+  }
+}

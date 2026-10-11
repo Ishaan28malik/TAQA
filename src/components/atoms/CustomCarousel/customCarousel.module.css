@@ -1,0 +1,136 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 150px 0px;
+  gap: 48px;
+  align-self: stretch;
+  color: var(--color-font-black);
+  & .headerContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 70px;
+
+    & .leftHeaderContainer {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      flex: 0.9;
+      gap: 16px;
+    }
+
+    & .rightHeaderContainer {
+      display: inline-flex;
+      align-items: flex-end;
+      gap: 8px;
+
+      & .btnCustom {
+        height: auto;
+        padding: 0px 0px 0px 0px;
+        border-radius: 25px;
+        border: 1px solid var(--theme-color);
+        background-color: var(--theme-color);
+        cursor: pointer;
+        & svg {
+          height: 20px;
+          width: 20px;
+
+          & path {
+            fill: #fff;
+          }
+        }
+
+        &.disabledBtn {
+          background-color: #fff;
+          border: 1px solid var(--theme-color);
+          pointer-events: none;
+          cursor: none;
+          & svg {
+            & path {
+              fill: var(--theme-color);
+            }
+          }
+        }
+
+        &:hover {
+          background-color: #fff;
+          & svg {
+            & path {
+              fill: var(--theme-color);
+            }
+          }
+        }
+
+        & > *:not(span) {
+          margin-left: 0px;
+          height: 50px;
+          width: 50px;
+        }
+      }
+    }
+  }
+
+  & .carousel {
+    overflow: hidden;
+    & .slidesContainer {
+      display: flex;
+      gap: 20px;
+      & > :nth-child(1) {
+        margin-inline-start: var(--carousel-terminal-gap);
+      }
+      & > :last-child {
+        margin-inline-end: var(--carousel-terminal-gap);
+      }
+    }
+  }
+
+  & .dotNavigatorContainer {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    padding: 0 20px;
+  }
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 80px 0px;
+    gap: 48px;
+    align-self: stretch;
+
+    & .headerContainer {
+      padding: 0 20px;
+      & .leftHeaderContainer {
+        flex: 1;
+        gap: 10px;
+      }
+      .rightHeaderContainer {
+        display: none;
+      }
+    }
+    & .carousel {
+      overflow: hidden;
+
+      & .slidesContainer {
+        display: flex;
+        gap: 10px;
+        & > :nth-child(1) {
+          margin-inline-start: 20px;
+        }
+        & > :last-child {
+          margin-inline-end: 20px;
+        }
+      }
+    }
+
+    & .dotNavigatorContainer {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+}

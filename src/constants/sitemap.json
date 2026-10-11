@@ -1,0 +1,760 @@
+{
+  "addc": {
+    "en-us": {
+      "title": "sitemap",
+      "content": [
+        {
+          "caption": "Residential",
+          "loginLink": "https://www.addc.ae/en-us/residential/_Layouts/15/ADDC/login.aspx",
+          "loginLabel": "Login",
+          "linksGroup": [
+            {
+              "title": "overview",
+              "link": "/addc/en-us/residential/overview",
+              "type": "heading"
+            },
+            {
+              "title": "help & support",
+              "type": "heading",
+              "parentLink": "/addc/en-us/residential/help-and-support",
+              "sublinksGroup": [
+                {
+                  "title": "Extension and connection of electricity services",
+                  "link": "{{parentLink}}/Extension-and-connection-of-electricity-services"
+                },
+                {
+                  "title": "Transfer and removal of electricity services",
+                  "link": "{{parentLink}}/Transfer-and-removal-of-electricity-services"
+                },
+                {
+                  "title": "Account management and bills",
+                  "link": "{{parentLink}}/Account-management-and-bills"
+                },
+                {
+                  "title": "Customer care",
+                  "link": "{{parentLink}}/Customer-care"
+                },
+                {
+                  "title": "Connection of water services",
+                  "link": "{{parentLink}}/Connection-of-water-services"
+                },
+                {
+                  "title": "Certificates",
+                  "link": "{{parentLink}}/Certificates"
+                },
+                {
+                  "title": "Shifting and removal of water services",
+                  "link": "{{parentLink}}/Shifting-and-removal-of-water-services"
+                },
+                {
+                  "title": "Registration of water tankers",
+                  "link": "{{parentLink}}/Registration-of-water-tankers"
+                },
+                {
+                  "title": "EV charging tariff",
+                  "link": "{{parentLink}}/EV-charging-tariff"
+                }
+              ]
+            },
+            {
+              "title": "locations",
+              "type": "heading",
+              "parentLink": "/addc/en-us/residential/locations",
+              "sublinksGroup": [
+                {
+                  "title": "Partners",
+                  "link": "{{parentLink}}/Partners"
+                },
+                {
+                  "title": "Branches",
+                  "link": "{{parentLink}}/branches"
+                }
+              ]
+            }
+          ],
+          "miscLinksGroup": [
+            {
+              "title": "Activate my Online Account",
+              "link": "https://www.addc.ae/en-us/residential/pages/ActivationResidential.aspx",
+              "externalWebsiteLink": true
+            },
+            {
+              "title": "Get connected",
+              "link": "https://www.addc.ae/en-us/residential/pages/residentialGetConnectedExt.aspx",
+              "externalWebsiteLink": true
+            }
+          ]
+        },
+        {
+          "caption": "Business",
+          "loginLink": "https://www.addc.ae/_layouts/15/addc/login.aspx",
+          "loginLabel": "Login",
+          "linksGroup": [
+            {
+              "title": "overview",
+              "type": "heading",
+              "link": "/en-us/business/overview"
+            },
+            {
+              "title": "help & support",
+              "type": "heading",
+              "parentLink": "/addc/en-us/business/help-and-support",
+              "sublinksGroup": [
+                {
+                  "title": "Extension and connection of elecetricity services",
+                  "link": "{{parentLink}}/Extension-and-connection-of-electricity-services"
+                },
+                {
+                  "title": "Transfer and removal of electricity services",
+                  "link": "{{parentLink}}/Transfer-and-removal-of-electricity-services"
+                },
+                {
+                  "title": "Account management and bills",
+                  "link": "{{parentLink}}/Account-management-and-bills"
+                },
+                {
+                  "title": "Customer care",
+                  "link": "{{parentLink}}/Customer-care"
+                },
+                {
+                  "title": "Connection of water services",
+                  "link": "{{parentLink}}/Connection-of-water-services"
+                },
+                {
+                  "title": "Certificates",
+                  "link": "{{parentLink}}/Certificates"
+                },
+                {
+                  "title": "Shifting and removal of water services",
+                  "link": "{{parentLink}}/Shifting-and-removal-of-water-services"
+                },
+                {
+                  "title": "Registration of water tankers",
+                  "link": "{{parentLink}}/Registration-of-water-tankers"
+                },
+                {
+                  "title": "EV charging tariff",
+                  "link": "{{parentLink}}/EV-charging-tariff"
+                }
+              ]
+            },
+            {
+              "title": "locations",
+              "type": "heading",
+              "parentLink": "/addc/en-us/business/locations",
+              "sublinksGroup": [
+                {
+                  "title": "Partners",
+                  "link": "{{parentLink}}/Partners"
+                },
+                {
+                  "title": "Branches",
+                  "link": "{{parentLink}}/branches"
+                }
+              ]
+            }
+          ],
+          "miscLinksGroup": [
+            {
+              "title": "Activate my Online Account",
+              "link": "https://www.addc.ae/en-us/business/pages/AccountActivation.aspx",
+              "externalWebsiteLink": true
+            },
+            {
+              "title": "Get connected",
+              "link": "https://www.addc.ae/en-us/business/Pages/HowToConnect.aspx",
+              "externalWebsiteLink": true
+            }
+          ]
+        },
+        {
+          "caption": "Partners",
+          "linksGroup": [
+            {
+              "title": "overview",
+              "type": "heading",
+              "link": "/addc/en-us/partners/overview"
+            }
+          ]
+        },
+        {
+          "caption": "",
+          "linksGroup": [
+            {
+              "title": "kpi and statistics",
+              "type": "heading",
+              "link": "",
+              "externalWebsiteLink": true
+            },
+            {
+              "title": "our associates",
+              "type": "heading",
+              "link": "",
+              "externalWebsiteLink": true
+            }
+          ]
+        },
+        {
+          "caption": "TAQA Group",
+          "type": "caption",
+          "link": "https://www.taqa.com"
+        }
+      ]
+    },
+    "ar-ae": {
+      "title": "خريطة الموقع",
+      "content": [
+        {
+          "caption": "سكني",
+          "loginLink": "https://www.addc.ae/en-us/residential/_Layouts/15/ADDC/login.aspx",
+          "loginLabel": "تسجيل الدخول",
+          "linksGroup": [
+            {
+              "title": "نظرة عامة",
+              "link": "/addc/ar-ae/residential/overview",
+              "type": "heading"
+            },
+            {
+              "title": "الدعم والمساعدة",
+              "type": "heading",
+              "parentLink": "/addc/ar-ae/residential/help-and-support",
+              "sublinksGroup": [
+                {
+                  "title": "تمديد وتوصيل خدمات الكهرباء",
+                  "link": "{{parentLink}}/Extension-and-connection-of-electricity-services"
+                },
+                {
+                  "title": "نقل وإزالة خدمات الكهرباء",
+                  "link": "{{parentLink}}/Transfer-and-removal-of-electricity-services"
+                },
+                {
+                  "title": "إدارة الحساب والفواتير",
+                  "link": "{{parentLink}}/Account-management-and-bills"
+                },
+                {
+                  "title": "العناية بالمتعاملين",
+                  "link": "{{parentLink}}/Customer-care"
+                },
+                {
+                  "title": "تمديد وتوصيل خدمات المياه",
+                  "link": "{{parentLink}}/Connection-of-water-services"
+                },
+                {
+                  "title": "شهادات",
+                  "link": "{{parentLink}}/Certificates"
+                },
+                {
+                  "title": "نقل وإزالة خدمات المياه",
+                  "link": "{{parentLink}}/Shifting-and-removal-of-water-services"
+                },
+                {
+                  "title": "تسجيل صهاريج المياه",
+                  "link": "{{parentLink}}/Registration-of-water-tankers"
+                },
+                {
+                  "title": "تعرفة شحن المركبات الكهربائية",
+                  "link": "{{parentLink}}/EV-charging-tariff"
+                }
+              ]
+            },
+            {
+              "title": "مراكزنا",
+              "type": "heading",
+              "parentLink": "/addc/ar-ae/residential/locations",
+              "sublinksGroup": [
+                {
+                  "title": "الشركاء",
+                  "link": "{{parentLink}}/partners"
+                },
+                {
+                  "title": "الفروع",
+                  "link": "{{parentLink}}/branches"
+                }
+              ]
+            }
+          ],
+          "miscLinksGroup": [
+            {
+              "title": "تفعيل الحساب",
+              "link": "https://www.addc.ae/en-us/residential/pages/ActivationResidential.aspx",
+              "externalWebsiteLink": true
+            },
+            {
+              "title": "تشغيل الخدمة",
+              "link": "https://www.addc.ae/en-us/residential/pages/residentialGetConnectedExt.aspx",
+              "externalWebsiteLink": true
+            }
+          ]
+        },
+        {
+          "caption": "الأعمال",
+          "loginLink": "https://www.addc.ae/_layouts/15/addc/login.aspx",
+          "loginLabel": "تسجيل الدخول",
+          "linksGroup": [
+            {
+              "title": "نظرة عامة",
+              "type": "heading",
+              "link": "/ar-ae/business/overview"
+            },
+            {
+              "title": "الدعم والمساعدة",
+              "type": "heading",
+              "parentLink": "/addc/ar-ae/business/help-and-support",
+              "sublinksGroup": [
+                {
+                  "title": "تمديد وتوصيل خدمات الكهرباء",
+                  "link": "{{parentLink}}/Extension-and-connection-of-electricity-services"
+                },
+                {
+                  "title": "نقل وإزالة خدمات الكهرباء",
+                  "link": "{{parentLink}}/Transfer-and-removal-of-electricity-services"
+                },
+                {
+                  "title": "إدارة الحساب والفواتير",
+                  "link": "{{parentLink}}/Account-management-and-bills"
+                },
+                {
+                  "title": "العناية بالمتعاملين",
+                  "link": "{{parentLink}}/Customer-care"
+                },
+                {
+                  "title": "تمديد وتوصيل خدمات المياه",
+                  "link": "{{parentLink}}/Connection-of-water-services"
+                },
+                {
+                  "title": "شهادات",
+                  "link": "{{parentLink}}/Certificates"
+                },
+                {
+                  "title": "نقل وإزالة خدمات المياه",
+                  "link": "{{parentLink}}/Shifting-and-removal-of-water-services"
+                },
+                {
+                  "title": "تسجيل صهاريج المياه",
+                  "link": "{{parentLink}}/Registration-of-water-tankers"
+                },
+                {
+                  "title": "تعرفة شحن المركبات الكهربائية",
+                  "link": "{{parentLink}}/EV-charging-tariff"
+                }
+              ]
+            },
+            {
+              "title": "مراكزنا",
+              "type": "heading",
+              "parentLink": "/addc/ar-ae/business/locations",
+              "sublinksGroup": [
+                {
+                  "title": "الشركاء",
+                  "link": "{{parentLink}}/partners"
+                },
+                {
+                  "title": "الفروع",
+                  "link": "{{parentLink}}/branches"
+                }
+              ]
+            }
+          ],
+          "miscLinksGroup": [
+            {
+              "title": "تفعيل الحساب",
+              "link": "https://www.addc.ae/en-us/business/pages/AccountActivation.aspx",
+              "externalWebsiteLink": true
+            },
+            {
+              "title": "تشغيل الخدمة",
+              "link": "https://www.addc.ae/en-us/business/Pages/HowToConnect.aspx",
+              "externalWebsiteLink": true
+            }
+          ]
+        },
+        {
+          "caption": "الشركاء",
+          "linksGroup": [
+            {
+              "title": "نظرة عامة",
+              "type": "heading",
+              "link": "/addc/ar-ae/partners/overview"
+            }
+          ]
+        },
+        {
+          "caption": "",
+          "linksGroup": [
+            {
+              "title": "مؤشرات الأداء الرئيسية والإحصائيات",
+              "type": "heading",
+              "link": "",
+              "externalWebsiteLink": true
+            },
+            {
+              "title": "شركاؤنا",
+              "type": "heading",
+              "link": "",
+              "externalWebsiteLink": true
+            }
+          ]
+        },
+        {
+          "caption": "مجموعة طاقة",
+          "type": "caption",
+          "link": "https://www.taqa.comar",
+          "externalWebsiteLink": true
+        }
+      ]
+    }
+  },
+  "aadc": {
+    "en-us": {
+      "title": "sitemap",
+      "content": [
+        {
+          "caption": "Residential",
+          "loginLink": "https://eservices.aadc.ae/_layouts/15/Eservices-FBA/AADC/Login.aspx",
+          "loginLabel": "Login",
+          "linksGroup": [
+            {
+              "title": "overview",
+              "link": "/aadc/en-us/residential/overview",
+              "type": "heading"
+            },
+            {
+              "title": "help & support",
+              "type": "heading",
+              "parentLink": "/aadc/en-us/residential/help-and-support",
+              "sublinksGroup": [
+                {
+                  "title": "Extension and connection of electricity services",
+                  "link": "{{parentLink}}/Extension-and-connection-of-electricity-services"
+                },
+                {
+                  "title": "Transfer and removal of electricity services",
+                  "link": "{{parentLink}}/Transfer-and-removal-of-electricity-services"
+                },
+                {
+                  "title": "Account management and bills",
+                  "link": "{{parentLink}}/Account-management-and-bills"
+                },
+                {
+                  "title": "Customer care",
+                  "link": "{{parentLink}}/Customer-care"
+                },
+                {
+                  "title": "Connection of water services",
+                  "link": "{{parentLink}}/Connection-of-water-services"
+                },
+                {
+                  "title": "Certificates",
+                  "link": "{{parentLink}}/Certificates"
+                },
+                {
+                  "title": "Shifting and removal of water services",
+                  "link": "{{parentLink}}/Shifting-and-removal-of-water-services"
+                },
+                {
+                  "title": "Registration of water tankers",
+                  "link": "{{parentLink}}/Registration-of-water-tankers"
+                },
+                {
+                  "title": "EV charging tariff",
+                  "link": "{{parentLink}}/EV-charging-tariff"
+                }
+              ]
+            },
+            {
+              "title": "locations",
+              "type": "heading",
+              "parentLink": "/aadc/en-us/residential/locations",
+              "sublinksGroup": [
+                {
+                  "title": "Partners",
+                  "link": "{{parentLink}}/partners"
+                },
+                {
+                  "title": "Customer service centres",
+                  "link": "{{parentLink}}/branches"
+                },
+                {
+                  "title": "Payment kiosks",
+                  "link": "{{parentLink}}/payment-kiosks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "caption": "Business",
+          "loginLink": "https://eservices.aadc.ae/_layouts/15/Eservices-FBA/AADC/Login.aspx",
+          "loginLabel": "Login",
+          "linksGroup": [
+            {
+              "title": "overview",
+              "type": "heading",
+              "link": "/aadc/en-us/business/overview"
+            },
+            {
+              "title": "help & support",
+              "type": "heading",
+              "parentLink": "/aadc/en-us/business/help-and-support",
+              "sublinksGroup": [
+                {
+                  "title": "Extension and connection of elecetricity services",
+                  "link": "{{parentLink}}/Extension-and-connection-of-electricity-services"
+                },
+                {
+                  "title": "Transfer and removal of electricity services",
+                  "link": "{{parentLink}}/Transfer-and-removal-of-electricity-services"
+                },
+                {
+                  "title": "Account management and bills",
+                  "link": "{{parentLink}}/Account-management-and-bills"
+                },
+                {
+                  "title": "Customer care",
+                  "link": "{{parentLink}}/Customer-care"
+                },
+                {
+                  "title": "Connection of water services",
+                  "link": "{{parentLink}}/Connection-of-water-services"
+                },
+                {
+                  "title": "Certificates",
+                  "link": "{{parentLink}}/Certificates"
+                },
+                {
+                  "title": "Shifting and removal of water services",
+                  "link": "{{parentLink}}/Shifting-and-removal-of-water-services"
+                },
+                {
+                  "title": "Registration of water tankers",
+                  "link": "{{parentLink}}/Registration-of-water-tankers"
+                },
+                {
+                  "title": "EV charging tariff",
+                  "link": "{{parentLink}}/EV-charging-tariff"
+                }
+              ]
+            },
+            {
+              "title": "locations",
+              "type": "heading",
+              "parentLink": "/aadc/en-us/business/locations",
+              "sublinksGroup": [
+                {
+                  "title": "Partners",
+                  "link": "{{parentLink}}/partners"
+                },
+                {
+                  "title": "Customer service centres",
+                  "link": "{{parentLink}}/branches"
+                },
+                {
+                  "title": "Payment kiosks",
+                  "link": "{{parentLink}}/payment-kiosks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "caption": "",
+          "linksGroup": [
+            {
+              "title": "kpi and statistics",
+              "type": "heading",
+              "link": "",
+              "externalWebsiteLink": true
+            },
+            {
+              "title": "our associates",
+              "type": "heading",
+              "link": "",
+              "externalWebsiteLink": true
+            }
+          ]
+        },
+        {
+          "caption": "TAQA Group",
+          "type": "caption",
+          "link": "https://www.taqa.com"
+        }
+      ]
+    },
+    "ar-ae": {
+      "title": "خريطة الموقع",
+      "content": [
+        {
+          "caption": "سكني",
+          "loginLink": "https://eservices.aadc.ae/_layouts/15/Eservices-FBA/AADC/Login.aspx",
+          "loginLabel": "تسجيل الدخول",
+          "linksGroup": [
+            {
+              "title": "نظرة عامة",
+              "link": "/aadc/ar-ae/residential/overview",
+              "type": "heading"
+            },
+            {
+              "title": "الدعم والمساعدة",
+              "type": "heading",
+              "parentLink": "/aadc/ar-ae/residential/help-and-support",
+              "sublinksGroup": [
+                {
+                  "title": "تمديد وتوصيل خدمات الكهرباء",
+                  "link": "{{parentLink}}/Extension-and-connection-of-electricity-services"
+                },
+                {
+                  "title": "نقل وإزالة خدمات الكهرباء",
+                  "link": "{{parentLink}}/Transfer-and-removal-of-electricity-services"
+                },
+                {
+                  "title": "إدارة الحساب والفواتير",
+                  "link": "{{parentLink}}/Account-management-and-bills"
+                },
+                {
+                  "title": "العناية بالمتعاملين",
+                  "link": "{{parentLink}}/Customer-care"
+                },
+                {
+                  "title": "تمديد وتوصيل خدمات المياه",
+                  "link": "{{parentLink}}/Connection-of-water-services"
+                },
+                {
+                  "title": "شهادات",
+                  "link": "{{parentLink}}/Certificates"
+                },
+                {
+                  "title": "نقل وإزالة خدمات المياه",
+                  "link": "{{parentLink}}/Shifting-and-removal-of-water-services"
+                },
+                {
+                  "title": "تسجيل صهاريج المياه",
+                  "link": "{{parentLink}}/Registration-of-water-tankers"
+                },
+                {
+                  "title": "تعرفة شحن المركبات الكهربائية",
+                  "link": "{{parentLink}}/EV-charging-tariff"
+                }
+              ]
+            },
+            {
+              "title": "مراكزنا",
+              "type": "heading",
+              "parentLink": "/aadc/ar-ae/residential/locations",
+              "sublinksGroup": [
+                {
+                  "title": "الشركاء",
+                  "link": "{{parentLink}}/Partners"
+                },
+                {
+                  "title": "مراكز خدمة العملاء",
+                  "link": "{{parentLink}}/branches"
+                },
+                {
+                  "title": "أجهزة السداد الآلي",
+                  "link": "{{parentLink}}/payment-kiosks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "caption": "الأعمال",
+          "loginLink": "https://eservices.aadc.ae/_layouts/15/Eservices-FBA/AADC/Login.aspx",
+          "loginLabel": "تسجيل الدخول",
+          "linksGroup": [
+            {
+              "title": "نظرة عامة",
+              "type": "heading",
+              "link": "/ar-ae/business/overview"
+            },
+            {
+              "title": "الدعم والمساعدة",
+              "type": "heading",
+              "parentLink": "/aadc/ar-ae/business/help-and-support",
+              "sublinksGroup": [
+                {
+                  "title": "تمديد وتوصيل خدمات الكهرباء",
+                  "link": "{{parentLink}}/Extension-and-connection-of-electricity-services"
+                },
+                {
+                  "title": "نقل وإزالة خدمات الكهرباء",
+                  "link": "{{parentLink}}/Transfer-and-removal-of-electricity-services"
+                },
+                {
+                  "title": "إدارة الحساب والفواتير",
+                  "link": "{{parentLink}}/Account-management-and-bills"
+                },
+                {
+                  "title": "العناية بالمتعاملين",
+                  "link": "{{parentLink}}/Customer-care"
+                },
+                {
+                  "title": "تمديد وتوصيل خدمات المياه",
+                  "link": "{{parentLink}}/Connection-of-water-services"
+                },
+                {
+                  "title": "شهادات",
+                  "link": "{{parentLink}}/Certificates"
+                },
+                {
+                  "title": "نقل وإزالة خدمات المياه",
+                  "link": "{{parentLink}}/Shifting-and-removal-of-water-services"
+                },
+                {
+                  "title": "تسجيل صهاريج المياه",
+                  "link": "{{parentLink}}/Registration-of-water-tankers"
+                },
+                {
+                  "title": "تعرفة شحن المركبات الكهربائية",
+                  "link": "{{parentLink}}/EV-charging-tariff"
+                }
+              ]
+            },
+            {
+              "title": "مراكزنا",
+              "type": "heading",
+              "parentLink": "/aadc/ar-ae/business/locations",
+              "sublinksGroup": [
+                {
+                  "title": "الشركاء",
+                  "link": "{{parentLink}}/Partners"
+                },
+                {
+                  "title": "مراكز خدمة العملاء",
+                  "link": "{{parentLink}}/branches"
+                },
+                {
+                  "title": "أجهزة السداد الآلي",
+                  "link": "{{parentLink}}/payment-kiosks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "caption": "",
+          "linksGroup": [
+            {
+              "title": "مؤشرات الأداء الرئيسية والإحصائيات",
+              "type": "heading",
+              "link": "",
+              "externalWebsiteLink": true
+            },
+            {
+              "title": "شركاؤنا",
+              "type": "heading",
+              "link": "",
+              "externalWebsiteLink": true
+            }
+          ]
+        },
+        {
+          "caption": "مجموعة طاقة",
+          "type": "caption",
+          "link": "https://www.taqa.comar",
+          "externalWebsiteLink": true
+        }
+      ]
+    }
+  }
+}

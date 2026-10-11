@@ -1,0 +1,88 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding: 0px 70px 0px 70px;
+  width: 100%;
+}
+
+.faqSection {
+  height: 1340px;
+  width: 860px;
+}
+
+.tipCarousel {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.tipCarouselMobile {
+  display: none;
+}
+
+.weAreHereToHelp{
+  display: block;
+}
+
+.weAreHereToHelpMobile{
+  display: none;
+}
+
+.layout{
+  display: flex;
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape),
+  screen and (max-width: 820px) {
+  .container {
+    flex-direction: column;
+    height: auto;
+    padding: 0px;
+    width: auto;
+  }
+  .layout{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .faqSection {
+    height: auto;
+    width: auto;
+  }
+  .quickLinkPanel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .tipCarousel {
+    display: none;
+  }
+  .tipCarouselMobile {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 64px;
+  }
+  .weAreHereToHelp{
+    display: none;
+  }
+  .weAreHereToHelpMobile{
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 1024px) and (orientation: landscape) {
+  .layout{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 64px;
+  }
+  .quickLinkPanel {
+    justify-content: initial;
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "addc": {
+    "en-us": {
+      "header": {
+        "title": "Search",
+        "inputPlaceholder": "Enter your keyword...",
+        "searchButtonLabel": "search"
+      },
+      "page": {
+        "searchStatsString": "Showing {{start}} - {{end}} of {{total}} results for '{{searchTerm}}'",
+        "loadMoreLabel": "Load more",
+        "errorMessage": "Something went wrong, please try again"
+      }
+    },
+    "ar-ae": {
+      "header": {
+        "title": "البحث",
+        "inputPlaceholder": "اكتب ما تريد البحث عنه...",
+        "searchButtonLabel": "ابحث",
+        "errorMessage": "حدث خطأ ما, يرجى إعادة المحاولة"
+      },
+      "page": {
+        "searchStatsString": "إظهار {{start}} - {{end}} من {{total}} نتيجة للبحث عن {{searchTerm}}",
+        "loadMoreLabel": "تحميل المزيد"
+      }
+    }
+  },
+  "aadc": {
+    "en-us": {
+      "header": {
+        "title": "Search",
+        "inputPlaceholder": "Enter your keyword...",
+        "searchButtonLabel": "search",
+        "errorMessage": "Something went wrong, please try again"
+      },
+      "page": {
+        "searchStatsString": "Showing {{start}} - {{end}} of {{total}} results for '{{searchTerm}}'",
+        "loadMoreLabel": "Load more"
+      }
+    },
+    "ar-ae": {
+      "header": {
+        "title": "البحث",
+        "inputPlaceholder": "اكتب ما تريد البحث عنه...",
+        "searchButtonLabel": "ابحث"
+      },
+      "page": {
+        "searchStatsString": "إظهار {{start}} - {{end}} من {{total}} نتيجة للبحث عن {{searchTerm}}",
+        "loadMoreLabel": "تحميل المزيد",
+        "errorMessage": "حدث خطأ ما, يرجى إعادة المحاولة"
+      }
+    }
+  }
+}

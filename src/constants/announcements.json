@@ -1,0 +1,334 @@
+{
+  "addc": {
+    "en-us": {
+      "residential": {
+        "title": "Announcements",
+        "component": "announcements",
+        "backgroundColor": "#FFFFFF",
+        "description": "Find the latest company announcements and relevant customer news here",
+        "slides": [
+          {
+            "title": "Moonlight moments",
+            "description": "This Ramadan, TAQA Distribution invites you to join our Moonlit Moments campaign, where we encourage everyone to go from indoors to outdoors for a more...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "Water Tankering Center",
+            "description": "The new water tankering regulations will be implemented from the 1st of July 2024. Meanwhile, the supply & installation process for the devices required in each water tanker...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "Tariff Scheme launched for Recycled Water Service",
+            "description": "The tariff scheme for our Recycled Water Service launched on 1 January 2023, based on Government Resolution No (185) of 2021. If you are a recycled water customer",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      },
+      "business": {
+        "title": "Announcements",
+        "component": "announcements",
+        "backgroundColor": "#FFFFFF",
+        "description": "Find the latest company announcements and relevant customer news here",
+        "slides": [
+          {
+            "title": "Moonlight moments",
+            "description": "This Ramadan, TAQA Distribution invites you to join our Moonlit Moments campaign, where we encourage everyone to go from indoors to outdoors for a more...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "Water tankering center",
+            "description": "The new water tankering regulations will be implemented from the 1st of July 2024. Meanwhile, the supply & installation process for the devices required in each water tanker...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "Tariff Scheme launched for Recycled Water Service",
+            "description": "The tariff scheme for our Recycled Water Service launched on 1 January 2023, based on Government Resolution No (185) of 2021. If you are a recycled water customer",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      },
+      "partners": {
+        "title": "Announcements",
+        "component": "announcements",
+        "backgroundColor": "#FFFFFF",
+        "description": "Find the latest company announcements and relevant customer news here",
+        "slides": [
+          {
+            "title": "Moonlight moments",
+            "description": "This Ramadan, TAQA Distribution invites you to join our Moonlit Moments campaign, where we encourage everyone to go from indoors to outdoors for a more...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "Water Tankering Center",
+            "description": "The new water tankering regulations will be implemented from the 1st of July 2024. Meanwhile, the supply & installation process for the devices required in each water tanker...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "Tariff Scheme launched for Recycled Water Service",
+            "description": "The tariff scheme for our Recycled Water Service launched on 1 January 2023, based on Government Resolution No (185) of 2021. If you are a recycled water customer",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      }
+    },
+    "ar-ae": {
+      "residential": {
+        "title": "إعلانات",
+        "backgroundColor": "#FFFFFF",
+        "component": "announcements",
+        "description": "كن على اطلاع دائم بأحدث الإعلانات والأخبار ذات الصلة بالعملاء من هنا",
+        "slides": [
+          {
+            "title": "ليال مقمرة",
+            "description": "في شهر رمضان المبارك، تدعوكم شركة طاقة للتوزيع - أبوظبي للانضمام إلى حملة ليال مقمرة، حيث نشجع الجميع على الانتقال من الداخل إلى الخارج للاستمتاع بمزيد من...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "مركز صهاريج المياه",
+            "description": "سيتم تطبيق لوائح صهاريج المياه الجديدة اعتبارًا من 1 يوليو 2024. وفي الوقت نفسه، ستتم عملية التوريد والتركيب للأجهزة المطلوبة في كل صهريج مياه...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "إطلاق نظام التعرفة لخدمة المياه المعاد تدويرها",
+            "description": "تم إطلاق نظام تعرفة خدمة المياه المعاد تدويرها في 1 يناير 2023، بناءً على القرار الحكومي رقم (185) لسنة 2021. إذا كنت من عملاء المياه المعاد تدويرها",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      },
+      "business": {
+        "title": "إعلانات",
+        "backgroundColor": "#FFFFFF",
+        "component": "announcements",
+        "description": "كن على اطلاع دائم بأحدث الإعلانات والأخبار ذات الصلة بالعملاء من هنا",
+        "slides": [
+          {
+            "title": "ليال مقمرة",
+            "description": "في شهر رمضان المبارك، تدعوكم شركة طاقة للتوزيع - أبوظبي للانضمام إلى حملة ليال مقمرة، حيث نشجع الجميع على الانتقال من الداخل إلى الخارج للاستمتاع بمزيد من...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "مركز صهاريج المياه",
+            "description": "سيتم تطبيق لوائح صهاريج المياه الجديدة اعتبارًا من 1 يوليو 2024. وفي الوقت نفسه، ستتم عملية التوريد والتركيب للأجهزة المطلوبة في كل صهريج مياه...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "إطلاق نظام التعرفة لخدمة المياه المعاد تدويرها",
+            "description": "تم إطلاق نظام تعرفة خدمة المياه المعاد تدويرها في 1 يناير 2023، بناءً على القرار الحكومي رقم (185) لسنة 2021. إذا كنت من عملاء المياه المعاد تدويرها",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      },
+      "partners": {
+        "title": "إعلانات",
+        "backgroundColor": "#FFFFFF",
+        "component": "announcements",
+        "description": "كن على اطلاع دائم بأحدث الإعلانات والأخبار ذات الصلة بالعملاء من هنا",
+        "slides": [
+          {
+            "title": "ليال مقمرة",
+            "description": "في شهر رمضان المبارك، تدعوكم شركة طاقة للتوزيع - أبوظبي للانضمام إلى حملة ليال مقمرة، حيث نشجع الجميع على الانتقال من الداخل إلى الخارج للاستمتاع بمزيد من...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "مركز صهاريج المياه",
+            "description": "سيتم تطبيق لوائح صهاريج المياه الجديدة اعتبارًا من 1 يوليو 2024. وفي الوقت نفسه، ستتم عملية التوريد والتركيب للأجهزة المطلوبة في كل صهريج مياه...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "إطلاق نظام التعرفة لخدمة المياه المعاد تدويرها",
+            "description": "تم إطلاق نظام تعرفة خدمة المياه المعاد تدويرها في 1 يناير 2023، بناءً على القرار الحكومي رقم (185) لسنة 2021. إذا كنت من عملاء المياه المعاد تدويرها",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      }
+    }
+  },
+  "aadc": {
+    "en-us": {
+      "residential": {
+        "title": "Announcements",
+        "component": "announcements",
+        "backgroundColor": "#FFFFFF",
+        "description": "Find the latest company announcements and relevant customer news here",
+        "slides": [
+          {
+            "title": "Moonlight moments",
+            "description": "This Ramadan, TAQA Distribution invites you to join our Moonlit Moments campaign, where we encourage everyone to go from indoors to outdoors for a more...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "Water Tankering Center",
+            "description": "The new water tankering regulations will be implemented from the 1st of July 2024. Meanwhile, the supply & installation process for the devices required in each water tanker...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "Tariff Scheme launched for Recycled Water Service",
+            "description": "The tariff scheme for our Recycled Water Service launched on 1 January 2023, based on Government Resolution No (185) of 2021. If you are a recycled water customer",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      },
+      "business": {
+        "title": "Announcements",
+        "component": "announcements",
+        "backgroundColor": "#FFFFFF",
+        "description": "Find the latest company announcements and relevant customer news here",
+        "slides": [
+          {
+            "title": "Moonlight moments",
+            "description": "This Ramadan, TAQA Distribution invites you to join our Moonlit Moments campaign, where we encourage everyone to go from indoors to outdoors for a more...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "Water Tankering Center",
+            "description": "The new water tankering regulations will be implemented from the 1st of July 2024. Meanwhile, the supply & installation process for the devices required in each water tanker...",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "Tariff Scheme launched for Recycled Water Service",
+            "description": "The tariff scheme for our Recycled Water Service launched on 1 January 2023, based on Government Resolution No (185) of 2021. If you are a recycled water customer",
+            "link": "",
+            "date": "3 June 2024",
+            "linkLabel": "register now",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      }
+    },
+    "ar-ae": {
+      "residential": {
+        "title": "إعلانات",
+        "backgroundColor": "#FFFFFF",
+        "component": "announcements",
+        "description": "كن على اطلاع دائم بأحدث الإعلانات والأخبار ذات الصلة بالعملاء من هنا",
+        "slides": [
+          {
+            "title": "ليال مقمرة",
+            "description": "في شهر رمضان المبارك، تدعوكم شركة طاقة للتوزيع - أبوظبي للانضمام إلى حملة ليال مقمرة، حيث نشجع الجميع على الانتقال من الداخل إلى الخارج للاستمتاع بمزيد من...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "مركز صهاريج المياه",
+            "description": "سيتم تطبيق لوائح صهاريج المياه الجديدة اعتبارًا من 1 يوليو 2024. وفي الوقت نفسه، ستتم عملية التوريد والتركيب للأجهزة المطلوبة في كل صهريج مياه...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "إطلاق نظام التعرفة لخدمة المياه المعاد تدويرها",
+            "description": "تم إطلاق نظام تعرفة خدمة المياه المعاد تدويرها في 1 يناير 2023، بناءً على القرار الحكومي رقم (185) لسنة 2021. إذا كنت من عملاء المياه المعاد تدويرها",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      },
+      "business": {
+        "title": "إعلانات",
+        "backgroundColor": "#FFFFFF",
+        "component": "announcements",
+        "description": "كن على اطلاع دائم بأحدث الإعلانات والأخبار ذات الصلة بالعملاء من هنا",
+        "slides": [
+          {
+            "title": "ليال مقمرة",
+            "description": "في شهر رمضان المبارك، تدعوكم شركة طاقة للتوزيع - أبوظبي للانضمام إلى حملة ليال مقمرة، حيث نشجع الجميع على الانتقال من الداخل إلى الخارج للاستمتاع بمزيد من...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementMoonlightImage.jpg"
+          },
+          {
+            "title": "مركز صهاريج المياه",
+            "description": "سيتم تطبيق لوائح صهاريج المياه الجديدة اعتبارًا من 1 يوليو 2024. وفي الوقت نفسه، ستتم عملية التوريد والتركيب للأجهزة المطلوبة في كل صهريج مياه...",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTankerImage.jpg"
+          },
+          {
+            "title": "إطلاق نظام التعرفة لخدمة المياه المعاد تدويرها",
+            "description": "تم إطلاق نظام تعرفة خدمة المياه المعاد تدويرها في 1 يناير 2023، بناءً على القرار الحكومي رقم (185) لسنة 2021. إذا كنت من عملاء المياه المعاد تدويرها",
+            "link": "",
+            "date": "3 يونيو 2024",
+            "linkLabel": "سجل الان",
+            "imageSrc": "/assets/images/announcementTariffImage.jpg"
+          }
+        ]
+      }
+    }
+  }
+}

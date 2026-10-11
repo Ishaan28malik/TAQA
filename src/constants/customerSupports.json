@@ -1,0 +1,54 @@
+{
+  "en-us": [
+    {
+      "iconName": "chatSupport",
+      "title": "CHAT WITH US",
+      "description": "Instant online chat for quick assistance",
+      "link": ""
+    },
+    {
+      "iconName": "videoSupport",
+      "title": "CONNECT VIA VIDEO",
+      "description": "Instant, personalised video support for exceptional assistance",
+      "link": ""
+    },
+    {
+      "iconName": "callSupport",
+      "title": "CALL US: 8002332",
+      "description": "Accessible call centre for efficient customer service",
+      "link": "tel:8002332"
+    },
+    {
+      "iconName": "globalSupport",
+      "title": "FIND A LOCATION",
+      "description": "Locate the nearest branch for in-person assistance",
+      "link": "/locations/branches"
+    }
+  ],
+  "ar-ae": [
+    {
+      "iconName": "chatSupport",
+      "title": "تحدث معنا",
+      "description": "دردشة فورية عبر الإنترنت للحصول على مساعدة سريعة",
+      "link": ""
+    },
+    {
+      "iconName": "videoSupport",
+      "title": "التواصل عبر الفيديو",
+      "description": "دعم فوري وشخصي عن طريق الفيديو للحصول على مساعدة استثنائية",
+      "link": ""
+    },
+    {
+      "iconName": "callSupport",
+      "title": "اتصل بنا على: 8002332",
+      "description": "لضمان سهولة التواصل وخدمة عملائنا بكفاءة",
+      "link": "tel:8002332"
+    },
+    {
+      "iconName": "globalSupport",
+      "title": "ابحث عن مركز خدمة العملاء",
+      "description": "ابحث عن أقرب مراكز خدمة العملاء إلى موقعك للحصول على المساعدة اللازمة",
+      "link": "/locations/branches"
+    }
+  ]
+}

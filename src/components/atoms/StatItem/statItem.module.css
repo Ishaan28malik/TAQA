@@ -1,0 +1,49 @@
+.stat {
+  margin-bottom: 10px;
+  color: #0ab3a1;
+  font-size: 160px;
+  margin: 0 20px;
+}
+
+.stat.large {
+  width: 420px;
+  height: 284px;
+}
+
+.stat.small {
+  width: 237px;
+  height: 191px;
+}
+
+.stat p {
+  font-size: 16px;
+}
+
+.statcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.statcontainer img {
+  width: 50px;
+}
+
+.statcontainer p {
+  color: #0ab3a1;
+}
+
+@media screen and (max-width: 768px),
+screen and (max-width: 1024px) and (orientation: landscape) 
+{
+  .stat {
+    margin-bottom: 10px;
+    color: #0ab3a1;
+    font-size: 89px;
+    margin: 0 20px;
+  }
+  .stat.large {
+    width: 237px;
+    height: 284px;
+  }
+}

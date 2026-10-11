@@ -1,0 +1,128 @@
+{
+  "residential/help-and-support": {
+    "title": "Hello Residential"
+  },
+  "residential/help_and_support": {
+    "links": [
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/help-and-support",
+        "label": "Extension and connection of electricity services",
+        "label_ar":"تمديد وتوصيل خدمات الكهرباء",
+        "iconName": "water"
+      },
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/help-and-support",
+        "label": "Transfer and removal of electricity services",
+        "label_ar":"نقل وإزالة خدمات الكهرباء",
+        "iconName": "energyTransfer"
+      },
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/help-and-support",
+        "label": "Account management and bills",
+        "label_ar":"إدارة الحساب والفواتير",
+        "iconName": "billsFlat"
+      },
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/help-and-support",
+        "label": "Customer care",
+        "label_ar":"العناية بالمتعاملين",
+        "iconName": "customerCare"
+      },
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/help-and-support",
+        "label": "Connection of water services",
+        "label_ar":"تمديد وتوصيل خدمات المياه",
+        "iconName": "waterConnection"
+      },
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/help-and-support",
+        "label": "Certificates",
+        "label_ar":"شهادات",
+        "iconName": "certification"
+      },
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/help-and-support",
+        "label": "Shifting and removal of water services",
+        "label_ar":"نقل وإزالة خدمات المياه",
+        "iconName": "removeWater"
+      },
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/help-and-support",
+        "label": "Registration of water tankers",
+        "label_ar":"تسجيل صهاريج المياه",
+        "iconName": "tankerServices"
+      },
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/help-and-support",
+        "label": "EV charging tariff",
+        "label_ar":"تعرفة شحن المركبات الكهربائية",
+        "iconName": "eVCharger"
+      },
+      {
+        "link": {
+          "residential" : "https://www.addc.ae/en-us/residential/pages/ActivationResidential.aspx",
+          "business" : "https://www.addc.ae/en-us/business/pages/AccountActivation.aspx"
+        },
+        "label": "Activate my online account",
+        "label_ar":"تفعيل الحساب",
+        "iconName": "forwardArrow",
+        "type": "primary",
+        "description": "Tenancy contract is registered with Tawtheeq, please click here",
+        "description_ar":"عقد الإيجار  مسجل لدى توثيق"
+      },
+      {
+        "link": {
+          "residential":"https://www.addc.ae/en-us/residential/pages/residentialGetConnectedExt.aspx",
+          "business":"https://www.addc.ae/en-us/business/pages/businessGetConnectedExt.aspx"
+        },
+        "label": "Get connected",
+        "label_ar":"تشغيل الخدمة",
+        "iconName": "forwardArrow",
+        "type": "primary",
+        "description": "New connection if not registered with Tawtheeq, please click here",
+        "description_ar":"توصيل جديد في حالة عدم التسجيل في خدمة توثيق"
+      }
+    ]
+  },
+  "residential/locations": {
+    "links": [
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/locations",
+        "label": "Customer service centres",
+        "label_ar":"مراكز خدمة العملاء",
+        "iconName": "branches"
+      },
+      {
+        "link": "/{{region}}/{{language}}/{{section}}/locations",
+        "label": "Partners",
+        "label_ar":"الشركاء",
+        "iconName": "partners"
+      },
+      {
+        "link": {
+          "residential" : "https://www.addc.ae/en-us/residential/pages/ActivationResidential.aspx",
+          "business" : "https://www.addc.ae/en-us/business/pages/AccountActivation.aspx"
+        },
+        "label": "Activate my online account",
+        "label_ar":"تفعيل   الحساب",
+        "iconName": "forwardArrow",
+        "type": "primary",
+        "description": "Tenancy contract is registered with Tawtheeq, please click here"
+      },
+      {
+        "link": {
+          "residential":"https://www.addc.ae/en-us/residential/pages/residentialGetConnectedExt.aspx",
+          "business":"https://www.addc.ae/en-us/business/pages/businessGetConnectedExt.aspx"
+        },
+        "label": "Get connected",
+        "label_ar":"تشغيل الخدمة",
+        "iconName": "forwardArrow",
+        "type": "primary",
+        "description": "New connection if not registered with Tawtheeq, please click here"
+      }
+    ]
+  },
+  "residential/help-and-support": {
+    "title": "Hello Business"
+  }
+}

@@ -1,0 +1,101 @@
+.icon {
+  border-radius: 80px;
+  background-color: var(--icon-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*rtl:raw
+    transform: rotate(180deg);
+  */
+  & path{
+      fill: #fff;
+  }
+
+  &.icon-tertiary{
+      background-color: transparent;
+      border: none;
+      & path {
+          fill: var(--icon-color);
+      }
+  }
+
+  &.icon-bordered{
+      border: 1px solid var(--icon-color);
+  }
+
+}
+.icon-xl{
+  height: 70px;
+  width: 70px;
+  & svg{
+      height: 35px;
+      width: 35px;
+  }
+}
+
+.icon-lg{
+  height: 54px;
+  width: 54px;
+  & svg{
+      height: 27px;
+      width: 27px;
+  }
+}
+
+.icon-md{
+  height: 40px;
+  width: 40px;
+  & svg{
+      height: 20px;
+      width: 20px;
+  }
+}
+
+.icon-sm{
+  height: 26px;
+  width: 26px;
+  & svg{
+      height: 13px;
+      width: 13px;
+  }
+}
+
+@media screen and (max-width: 768px),
+screen and (max-width: 1024px) and (orientation: landscape) 
+{
+  .icon-xl{
+      height: 46px;
+      width: 46px;
+      & svg{
+          height: 23px;
+          width: 23px;
+      }
+  }
+  
+  .icon-lg{
+      height: 36px;
+      width: 36px;
+      & svg{
+          height: 18px;
+          width: 18px;
+      }
+  }
+  
+  .icon-md{
+      height: 26px;
+      width: 26px;
+      & svg{
+          height: 13px;
+          width: 13px;
+      }
+  }
+  
+  .icon-sm{
+      height: 20px;
+      width: 20px;
+      & svg{
+          height: 10px;
+          width: 10px;
+      }
+  }
+}

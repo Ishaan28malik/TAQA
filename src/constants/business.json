@@ -1,0 +1,16 @@
+{
+  "en-us": {
+    "powering": "POWERING",
+    "communities": "COMMUNITIES",
+    "enhancedApp": "AN ENHANCED APP WITH IMPROVED FEATURES",
+    "controlTaqa": "TAKE CONTROL OF YOUR TAQA DISTRIBUTION ACCOUNT",
+    "upgradeExperience": "Upgrade to a new experience"
+  },
+  "ar-ae": {
+    "powering": "توفير الطاقة",
+    "communities": "المجتمعات",
+    "enhancedApp": "تطبيق محسّن يساعدك في إدارة",
+    "controlTaqa": ["حساب شركة طاقة للتوزيع الخاص بك"],
+    "upgradeExperience": "تجربة جديدة ومميزة"
+  }
+}

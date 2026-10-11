@@ -1,0 +1,83 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px 0;
+  gap: 8px;
+
+  &.onlyLink {
+    padding: 30px 0;
+  }
+
+  & .detailsContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    & .linksContainer {
+      display: flex;
+      gap: 30px;
+      & .linkPlaceholder {
+        height: 20.15px;
+      }
+    }
+    @media screen and (max-width: 1090px){
+      & .description{
+        height: 57.6px;
+      }
+    }
+    & .linkBtn {
+      color: var(--theme-color);
+      align-self: flex-start;
+      & svg {
+        height: 20px;
+        width: 20px;
+        & path {
+          fill: var(--theme-color);
+        }
+      }
+      & > *:not(span) {
+        height: 20px;
+        width: 20px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .container {
+    padding: 30px 0;
+    gap: 12px;
+    & .detailsContainer {
+      & .linksContainer {
+        gap: 16px;
+        & .linkPlaceholder {
+          @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+            height: 19px;
+          }
+        }
+      }
+      & .description{
+        height: 33.6px;
+      }
+      & .primaryLinkBtn {
+        height: 38px;
+        padding: 12px 20px;
+        font-size: 9px;
+        letter-spacing: 0.54px;
+        line-height: 155%;
+      }
+      & .linkBtn {
+        font-size: 11px;
+        letter-spacing: 0.44px;
+        & svg {
+          height: 19px;
+          width: 19px;
+        }
+        & > *:not(span) {
+          height: 19px;
+          width: 19px;
+        }
+      }
+    }
+  }
+}

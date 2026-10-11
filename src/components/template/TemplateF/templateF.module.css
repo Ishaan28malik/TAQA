@@ -1,0 +1,85 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  color: var(--color-font-black);
+  & img {
+    transform: scaleX(1);
+    /*rtl:raw:
+            transform: scaleX(-1);
+        */
+  }
+  & .joinUsContainer {
+    padding: 80px 60px 160px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    & .partnersPart1Container,
+    & .partnersPart2Container {
+      display: flex;
+      gap: 60px;
+    }
+
+    & .part1LeftContainer,
+    & .part1RightContainer {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+
+      & .serviceCardContainer {
+        & > :nth-child(-n + 2) {
+          border-bottom: 1px solid #d3d3d3;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .container {
+    & .joinUsContainer {
+      padding: 40px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+      & .partnersPart1Container,
+      & .partnersPart2Container {
+        gap: 0px;
+        flex-direction: column;
+        @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+          gap: 40px;
+          flex-direction: row;
+        }
+      }
+
+      & .partnersPart2Container > div {
+        padding: 40px 0 0 0;
+        @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+          padding: 0;
+        }
+      }
+
+      & .part1LeftContainer,
+      & .part1RightContainer {
+        padding-top: 40px;
+        gap: 32px;
+        @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+          padding-top: 0;
+          gap: 0;
+        }
+        &.part1LeftContainer {
+          padding-top: 8px;
+          @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+            padding-top: 0;
+          }
+        }
+        & .serviceCardContainer {
+          & > :nth-child(-n + 2) {
+            border-bottom: 1px solid #d3d3d3;
+          }
+        }
+      }
+    }
+  }
+}

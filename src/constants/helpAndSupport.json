@@ -1,0 +1,3442 @@
+{
+  "addc": {
+    "en-us": {
+      "residential": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle": "EXTENSION AND CONNECTION OF ELECTRICITY SERVICES",
+          "description": "If you are building a property within the Emirate, we’ll provide you with a seamless experience to make sure it is connected to our electricity services ",
+          "itemsHeader": "We provide you with all the documentation and information you need to go through a pain-free and simple connection process for our electricity services. ",
+          "items": [
+            {
+              "service": "Application for electricity load approval",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/load-demand-notification.aspx"
+            },
+            {
+              "service": "Application for internal electricity drawings approval",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/approval-electric-drawings.aspx"
+            },
+            {
+              "service": "Application for permanent electricity cable execution",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/permanent-cable-termination.aspx"
+            },
+            {
+              "service": "Application for inspection of electrical wiring of new connection (internal)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/inspection-internal-electric-wiring.aspx"
+            },
+            {
+              "service": "Application for electrical supply activation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/activation-electric-services.aspx"
+            },
+            {
+              "service": "Application for inspection of additional electricity meter",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Additional-Electric-Meter.aspx"
+            },
+            {
+              "service": "Application for electricity load upgrade inspection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Electric-Load-Upgrade.aspx"
+            },
+            {
+              "service": "Application for temporary power connection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/connection-temporary-electric-line.aspx"
+            },
+            {
+              "service": "Application for temporary connection for condolence tent",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/temporary-connection-condolence-test.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an Emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "About moving in",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/pages/about-moving-in.aspx"
+            },
+            {
+              "link": "More about Tawtheeq",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/pages/understanding-tawtheeq.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "Understanding Mawaqif",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/pages/understanding-mawaqif.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/documents/customer%20charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/_layouts/15/addc/checkmybill.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle": "TRANSFER AND REMOVAL OF ELECTRICITY SERVICES",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide a seamless experience when you connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request is below, available at the click of a button. ",
+          "items": [
+            {
+              "service": "Application for electricity meter shifting inspection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/application-shifting-electricitymeter.aspx"
+            },
+            {
+              "service": "Application for shifting electricity services quotation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/quotation-relocation-external-lectricity-Services.aspx"
+            },
+            {
+              "service": "Application for shifting electricity services",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/relocation-of-electricity-connections.aspx"
+            },
+            {
+              "service": "Application for electricity connection removal",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-electricity-connections.aspx"
+            },
+            {
+              "service": "Application for removal of permanent electricity meter",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-permanent-electricity-meter.aspx"
+            },
+            {
+              "service": "Application for temporary electricity meter removal",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-temporary-electricity-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/ConsumptionFinder.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/GuaranteedStandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle": "ACCOUNT MANAGEMENT AND BILLS",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request is below, available at the click of a button. ",
+          "items": [
+            {
+              "service": "Application for new customer account registration",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/opening-account-new-customer.aspx"
+            },
+            {
+              "service": "Application for critical medical conditions registration",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/critical-medical-conditions-registration.aspx"
+            },
+            {
+              "service": "Application to change property ownership information",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/change-property-ownership_123.aspx"
+            },
+            {
+              "service": "Application for instalment payment arrangement for customers in financial distress",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/installment-postponemen-troubled-entitlements.aspx"
+            },
+            {
+              "service": "Application for change of customer category",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/change-of-customer-category.aspx"
+            },
+            {
+              "service": "Application for incident clearance",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/clearance-due-to-incident.aspx"
+            },
+            {
+              "service": "Application for to whom it may concern certificate",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/certificate-to-whom-it-may-concern.aspx"
+            },
+            {
+              "service": "Temporary disconnection of water service",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/water-services-temporary-disconnection.aspx"
+            },
+            {
+              "service": "Application for shutdown and restoration of electricity for maintenance",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/electricity-service-temporary-disconnection.aspx"
+            },
+            {
+              "service": "Application for registering in social affairs exemptions",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/registration-social-affair-exemption.aspx"
+            },
+            {
+              "service": "Application for adding a new account to a payee",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/adding-account-from-payee.aspx"
+            },
+            {
+              "service": "Application for cancelling an account from a payee",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/cancelling-account-from-payee.aspx"
+            },
+            {
+              "service": "Application for balance refund or transfer",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/application-balance-refund-transfer.aspx"
+            },
+            {
+              "service": "Application for closing an account",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/application-closing-account.aspx"
+            },
+            {
+              "service": "Water and electricity bill payment",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/bill-payement-service-application.aspx"
+            },
+            {
+              "service": "Service for direct debit de-registration",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Service_for_Direct_Debit_De-Registration.aspx"
+            },
+            {
+              "service": "Bill smoothing service",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Bill_Smoothening_Service.aspx"
+            },
+            {
+              "service": "Direct debit registration service",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Direct_Debit_Registration_Service.aspx"
+            },
+            {
+              "service": "Direct debit payment service",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Direct_Debit_Payment_Service.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Tariff calculator",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2023",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2023.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2020",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2020.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2019",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2019.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2018",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2018.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2017",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/RatesAndTariffs2017.aspx"
+            },
+            {
+              "link": "Rates and tariffs 2016",
+              "quickLinkUrl": "https://www.addc.ae/en-us/Residential/Pages/RatesAndTariffs2016.aspx"
+            },
+            {
+              "link": "Supply agreement",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Supply-agreement.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "Understand your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/UnderstandYourBill.aspx "
+            },
+            {
+              "link": "Payment options",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/PaymentOptions.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle": "CUSTOMER CARE",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request is below, available at the click of a button. ",
+          "items": [
+            {
+              "service": "Water emergency case submission",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/emergency-water-cases-submission.aspx"
+            },
+            {
+              "service": "Electricity emergency case submission",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/electricity-emergency-cases-submission.aspx"
+            },
+            {
+              "service": "Information enquiry",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/Information-Inquiry.aspx"
+            },
+            {
+              "service": "Application for water and electricity services consultation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/water-electricity-consultations-services.aspx"
+            },
+            {
+              "service": "Submit a complaint",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/complaints-submission.aspx"
+            },
+            {
+              "service": "Submit a suggestion",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/suggestions-submission.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Critical-care-customers.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/GuaranteedStandards.aspx"
+            },
+            {
+              "link": "Understanding Mawaqif",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Understanding-Mawaqif.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle": "CONNECTION OF WATER SERVICES",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request is below, available at the click of a button. ",
+          "items": [
+            {
+              "service": "Application for water demand approval",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-demand-notification.aspx"
+            },
+            {
+              "service": "Application for water supply drawings approval",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-supply-drawings-approval.aspx"
+            },
+            {
+              "service": "Application for permanent water connection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/Permanent-Water-Connection.aspx"
+            },
+            {
+              "service": "Application for water supply inspection (internal)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/internal-water-supply-inspection.aspx"
+            },
+            {
+              "service": "Application for water supply activation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-supply-activation.aspx"
+            },
+            {
+              "service": "Application for inspection of additional water meter",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/additional-water-meter.aspx"
+            },
+            {
+              "service": "Application for water load upgrade inspection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/upgrading-water-meter.aspx"
+            },
+            {
+              "service": "Application for temporary water connection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/temporary-water-connection.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "About moving in",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/About-Moving-in.aspx"
+            },
+            {
+              "link": "More about Tawtheeq",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Understanding-Tawtheeq.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/ConsumptionFinder.aspx"
+            },
+            {
+              "link": "Understanding Mawaqif",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Understanding-Mawaqif.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Critical-care-customers.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/_layouts/15/addc/Checkmybill.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle": "CERTIFICATES",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request is below, available at the click of a button. ",
+          "items": [
+            {
+              "service": "Application for Electricity Services Clearance Certificate",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/electric-services-clearance-certificate.aspx"
+            },
+            {
+              "service": "Application for Water Services Clearance Certificate",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/water-service-clearance-certificate.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-US/residential/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "quickLinkUrl": "https://www.addc.ae/en-US/residential/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-US/residential/Pages/Understanding-Mawaqif.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle": "SHIFTING AND REMOVAL OF WATER SERVICES",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request is below, available at the click of a button. ",
+          "items": [
+            {
+              "service": "Application for water meter shifting inspection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-water-meter.aspx"
+            },
+            {
+              "service": "Application for shifting water pipeline quotation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-quotation-water-pipeline.aspx"
+            },
+            {
+              "service": "Application for shifting water pipeline",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-of-external-water-pipeline.aspx"
+            },
+            {
+              "service": "Application for water connection removal",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/demolishing-of-water-connection.aspx"
+            },
+            {
+              "service": "Application for removal of permanent water meter",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-permanent-water-meter.aspx"
+            },
+            {
+              "service": "Application for temporary water meter removal",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-temporary-water-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "About moving out",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/About-Moving-out.aspx"
+            },
+            {
+              "link": "Consumption guide",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/ConsumptionFinder.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/GuaranteedStandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle": "REGISTRATION OF WATER TANKERS",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request is below, available at the click of a button. ",
+          "items": [
+            {
+              "service": "Application for registration of drinking water tanker (Ghadeer Card)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/registration-water-tanker.aspx"
+            },
+            {
+              "service": "Application for renewal of drinking water tanker (Ghadeer Card)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/renewal-water-tanker.aspx"
+            },
+            {
+              "service": "Application for cancellation of drinking water tanker (Ghadeer Card)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/cancellation-water-tanker.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Water tankering centre",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Water-Tankering-Center.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle": "EV charging tariff",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate, we’ll provide you with a seamless experience for you to connect and register your EV charger at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request is below, available at the click of a button. ",
+          "items": [
+            {
+              "service": "Register your electric vehicle charger",
+              "serviceUrl": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "EV charging tariff",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/EVChargingTariff.aspx"
+            }
+          ]
+        }
+      ],
+      "business": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle": "EXTENSION AND CONNECTION OF ELECTRICITY SERVICES",
+          "description": "We’ll provide you with a seamless experience to ensure that you have electricity connection services at your business premises.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Application for electricity load approval",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/load-demand-notification.aspx"
+            },
+            {
+              "service": "Application for internal electricity drawings approval",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/approval-electric-drawings.aspx"
+            },
+            {
+              "service": "Application for permanent electricity cable execution",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/permanent-cable-termination.aspx"
+            },
+            {
+              "service": "Application for inspection of electrical wiring of new connection (internal)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/inspection-internal-electric-wiring.aspx"
+            },
+            {
+              "service": "Application for electrical supply activation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/activation-electric-services.aspx"
+            },
+            {
+              "service": "Application for inspection of additional electricity meter",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Additional-Electric-Meter.aspx"
+            },
+            {
+              "service": "Application for electricity load upgrade inspection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/Electric-Load-Upgrade.aspx"
+            },
+            {
+              "service": "Application for temporary power connection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/connection-temporary-electric-line.aspx"
+            },
+            {
+              "service": "Application for temporary connection for condolence tent",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/extension-connection-electric-services/Pages/temporary-connection-condolence-test.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an Emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/documents/customer%20charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/_layouts/15/addc/checkmybill.aspx"
+            },
+            {
+              "link": "Understanding Tawtheeq",
+              "quickLinkUrl": "https://www.addc.ae/en-US/business/Pages/UnderstandingTawtheeq.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle": "TRANSFER AND REMOVAL OF ELECTRICITY SERVICES",
+          "description": "We’ll provide you with a seamless experience to ensure that all transfer and removal of electricity services at your business premises are conducted thoroughly.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Application for electricity meter shifting inspection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/application-shifting-electricitymeter.aspx"
+            },
+            {
+              "service": "Application for shifting electricity services quotation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/quotation-relocation-external-lectricity-Services.aspx"
+            },
+            {
+              "service": "Application for shifting electricity services",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/relocation-of-electricity-connections.aspx"
+            },
+            {
+              "service": "Application for electricity connection removal",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-electricity-connections.aspx"
+            },
+            {
+              "service": "Application for removal of permanent electricity meter",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-permanent-electricity-meter.aspx"
+            },
+            {
+              "service": "Application for temporary electricity meter removal",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/transfer-removal-electric-services/Pages/removal-temporary-electricity-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/GuaranteedStandards.aspx"
+            },
+            {
+              "link":"About moving out",
+              "quickLinkUrl":"https://www.addc.ae/en-US/business/Pages/About-Moving-out.aspx"
+            },
+            {
+              "link":"Consumption guide",
+              "quickLinkUrl":"https://www.addc.ae/en-US/business/Pages/ConsumptionFinder.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle": "ACCOUNT MANAGEMENT AND BILLS",
+          "description": "We provide a simple and effective experience to manage the energy and water bills for your business.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Application to register new customer account",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/opening-account-new-customer.aspx"
+            },
+            {
+              "service": "Application for critical medical conditions registration",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/critical-medical-conditions-registration.aspx"
+            },
+            {
+              "service": "Application to change property ownership information",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/change-property-ownership_123.aspx"
+            },
+            {
+              "service": "Application for instalment payment arrangement for customers in financial distress",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/installment-postponemen-troubled-entitlements.aspx"
+            },
+            {
+              "service": "Application for change of customer category",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/change-of-customer-category.aspx"
+            },
+            {
+              "service": "Application for incident clearance",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/clearance-due-to-incident.aspx"
+            },
+            {
+              "service": "Application for to whom it may concern certificate",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/certificate-to-whom-it-may-concern.aspx"
+            },
+            {
+              "service": "Temporary disconnection of water service",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/water-services-temporary-disconnection.aspx"
+            },
+            {
+              "service": "Application for shutdown and restoration of electricity for maintenance",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/electricity-service-temporary-disconnection.aspx"
+            },
+            {
+              "service": "Application for registering in social affairs exemptions",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/registration-social-affair-exemption.aspx"
+            },
+            {
+              "service": "Application for adding new account to payee",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/adding-account-from-payee.aspx"
+            },
+            {
+              "service": "Application for cancelling an account from payee",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/cancelling-account-from-payee.aspx"
+            },
+            {
+              "service": "Application for balance refund or transfer",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/application-balance-refund-transfer.aspx"
+            },
+            {
+              "service": "Application for closing an account",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/application-closing-account.aspx"
+            },
+            {
+              "service": "Water and electricity bill payment",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/bill-payement-service-application.aspx"
+            },
+            {
+              "service": "Service for direct debit de-registration",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Service_for_Direct_Debit_De-Registration.aspx"
+            },
+            {
+              "service": "Bill smoothing service",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Bill_Smoothening_Service.aspx"
+            },
+            {
+              "service": "Direct debit registration service",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Direct_Debit_Registration_Service.aspx"
+            },
+            {
+              "service": "Direct debit payment service",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/account-mgmt-bill/Pages/Direct_Debit_Payment_Service.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Tariff calculator",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "Rates and tariffs",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/RatesAndTariffs.aspx"
+            },
+            {
+              "link": "Supply agreement",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Supply-agreement.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "Understand your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/UnderstandYourBill.aspx "
+            },
+            {
+              "link": "Payment options",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/PaymentOptions.aspx"
+            },
+            {
+              "link": "How to connect",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/HowToConnect.aspx"
+            },
+            {
+              "link": "Guarantee Standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/GuaranteedStandards.aspx"
+            },
+            {
+              "link": "About moving in",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/pages/businessGetConnectedExt.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Supplydisconnectionrules.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle": "CUSTOMER CARE",
+          "description": "We provide a seamless experience for all your business requirements, ensuring that you have access to all relevant customer care documentation.",
+          "itemsHeader": "We empower you to take control of your business utilities, providing you with all the documentation you need for customer care services.",
+          "items": [
+            {
+              "service": "Water emergency case submission",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/emergency-water-cases-submission.aspx"
+            },
+            {
+              "service": "Electricity emergency case submission",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/electricity-emergency-cases-submission.aspx"
+            },
+            {
+              "service": "Information enquiry",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/Information-Inquiry.aspx"
+            },
+            {
+              "service": "Application for water and electricity services consultation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/water-electricity-consultations-services.aspx"
+            },
+            {
+              "service": "Submission of complaints",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/complaints-submission.aspx"
+            },
+            {
+              "service": "Submission of suggestions",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/customer-care/Pages/suggestions-submission.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Critical-care-customers.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/GuaranteedStandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle": "CONNECTION OF WATER SERVICES",
+          "description": "We provide a seamless experience for businesses in the Emirate to establish and maintain a water connection at the company premises.",
+          "itemsHeader": "We empower you to take control of your business utilities, providing you with all the documentation you need to maintain a stable water connection for your business premises.",
+          "items": [
+            {
+              "service": "Application for water demand approval",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-demand-notification.aspx"
+            },
+            {
+              "service": "Application for water supply drawings approval",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-supply-drawings-approval.aspx"
+            },
+            {
+              "service": "Application for permanent water connection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/Permanent-Water-Connection.aspx"
+            },
+            {
+              "service": "Application for water supply inspection (internal)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/internal-water-supply-inspection.aspx"
+            },
+            {
+              "service": "Application for water supply activation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/water-supply-activation.aspx"
+            },
+            {
+              "service": "Application for inspection of additional water meter",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/additional-water-meter.aspx"
+            },
+            {
+              "service": "Application for water load upgrade inspection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/upgrading-water-meter.aspx"
+            },
+            {
+              "service": "Application for temporary water connection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/connection-water-services/Pages/temporary-water-connection.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Understanding Tawtheeq",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/UnderstandingTawtheeq.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Critical-care-customers.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/_layouts/15/addc/Checkmybill.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle": "CERTIFICATES",
+          "description": "We make it as simple as possible for you to find the relevant certificates for applications for both electricity and water services clearance.",
+          "itemsHeader": "We empower you to take control of your business utilities and find the relevant certificates. All the documentation you need for a specific request can be found below.",
+          "items": [
+            {
+              "service": "Application for Electricity Services Clearance Certificate",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/electric-services-clearance-certificate.aspx"
+            },
+            {
+              "service": "Application for Water Services Clearance Certificate",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/certificates/Pages/water-service-clearance-certificate.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-US/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "quickLinkUrl": "https://www.addc.ae/en-US/business/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-US/business/Pages/Understanding-Mawaqif.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle": "SHIFTING AND REMOVAL OF WATER SERVICES",
+          "description": "We’ll provide you with a seamless experience to ensure that you have access to all shifting and removal of water services for your business.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Application for water meter shifting inspection",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-water-meter.aspx"
+            },
+            {
+              "service": "Application for shifting water pipeline quotation",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-quotation-water-pipeline.aspx"
+            },
+            {
+              "service": "Application for shifting water pipeline",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/shifting-of-external-water-pipeline.aspx"
+            },
+            {
+              "service": "Application for water connection removal",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/demolishing-of-water-connection.aspx"
+            },
+            {
+              "service": "Application for removal of permanent water meter",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-permanent-water-meter.aspx"
+            },
+            {
+              "service": "Application for temporary water meter removal",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/shifting-removal-water-services/Pages/removal-temporary-water-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-US/business/Pages/GuaranteedStandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle": "REGISTRATION OF WATER TANKERS",
+          "description": "If you are moving business premises within the Emirate, we’ll provide you with a seamless experience for you to connect at your new location.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Application for registration of drinking water tanker (Ghadeer Card)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/registration-water-tanker.aspx"
+            },
+            {
+              "service": "Application for renewal of drinking water tanker (Ghadeer Card)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/renewal-water-tanker.aspx"
+            },
+            {
+              "service": "Application for cancellation of drinking water tanker (Ghadeer Card)",
+              "serviceUrl": "https://www.addc.ae/en-us/home/service-categories/registration-water-tankers/Pages/cancellation-water-tanker.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Water tankering centre",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/Water-Tankering-Center.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle": "EV charging tariff",
+          "description": "If you are moving business premises within the Emirate, we’ll provide you with a seamless experience for you to connect and register your EV charger at your new property.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Register your electric vehicle charger",
+              "serviceUrl": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "EV charging tariff",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Pages/EVChargingTariff.aspx"
+            }
+          ]
+        }
+      ]
+    },
+    "ar-ae": {
+      "residential": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle": "خدمات تمديد وتوصيل الكهرباء",
+          "description": "سلسة للتأكد من توصيل الكهرباء إلى عقاركإذا كنت تقوم ببناء عقار داخل الإمارة، فسنعمل على توفير تجربة",
+          "itemsHeader": "بنقرة زر واحدة.يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينةنعمل على لتمكينك من التحكم في على مرافقك التجارية الكاملة.",
+          "items": [
+            {
+              "service": "طلب الموافقة على تحميل الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/load-demand-notification.aspx"
+            },
+            {
+              "service": "طلب الموافقة على الرسومات الكهربائية الداخلية",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/approval-electric-drawings.aspx"
+            },
+            {
+              "service": "طلب تنفيذ كابل كهربائي دائم",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/permanent-cable-termination.aspx"
+            },
+            {
+              "service": "طلب فحص الأسلاك الكهربائية للاتصال الجديد (داخلي)",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/inspection-internal-electric-wiring.aspx"
+            },
+            {
+              "service": "طلب تفعيل توريد الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/activation-electric-services.aspx"
+            },
+            {
+              "service": "طلب فحص عداد كهرباء إضافي",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/additional-electric-meter.aspx"
+            },
+            {
+              "service": "طلب فحص ترقية تحميل الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/electric-load-upgrade.aspx"
+            },
+            {
+              "service": "طلب اتصال كهربائي مؤقت",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/connection-temporary-electric-line.aspx"
+            },
+            {
+              "service": "طلب اتصال مؤقت لخيمة عزاء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/temporary-connection-condolence-test.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "تعرف على كيفية الانتقال لعقار جديد",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/about-moving-in.aspx"
+            },
+            {
+              "link": "المزيد عن توثيق",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/understanding-tawtheeq.aspx"
+            },
+            {
+              "link": "دليل الاستهلاك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "المزيد عن مواقف",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+            },
+            {
+              "link": "ميثاق العملاء",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/documents/customer%20charter.pdf"
+            },
+            {
+              "link": "هدفنا خدمة كل أفراد المجتمع",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "تحقق من فواتيرك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/checkmybill.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle": "خدمات نقل وإزالة الكهرباء",
+          "description": "الجديد.الإمارة، فسنوفر لك تجربة سلسة للتواصل في عقارك اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل",
+          "itemsHeader": "نعمل لتمكينك من التحكم في مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب تفتيش فحص لنقل عداد كهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/application-shifting-electricitymeter.aspx"
+            },
+            {
+              "service": "طلب عرض أسعار لنقل خدمات الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/quotation-relocation-external-lectricity-services.aspx"
+            },
+            {
+              "service": "طلب نقل خدمات الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/relocation-of-electricity-connections.aspx"
+            },
+            {
+              "service": "طلب إزالة خدمات الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-electricity-connections.aspx"
+            },
+            {
+              "service": "طلب إزالة عداد الكهرباء الدائم",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-permanent-electricity-meter.aspx"
+            },
+            {
+              "service": "طلب إزالة عداد كهرباء مؤقت",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-temporary-electricity-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن في لي فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "قواعد قطع إيقاف الخدمة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "دليل الاستهلاك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle": "إدارة الحسابات والفواتير",
+          "description": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "itemsHeader": "نعمل لتمكينك من التحكم في مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب فتح حساب لمتعامل جديد",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/opening-account-new-customer.aspx"
+            },
+            {
+              "service": "طلب تسجيل الحالات الطبية الحساسة",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/critical-medical-conditions-registration.aspx"
+            },
+            {
+              "service": "طلب تغيير بيانات ملكية العقار",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/change-property-ownership_123.aspx"
+            },
+            {
+              "service": "طلب تقسيط أو ترتيب الدفع للمتعامل المتعسر مالياً",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/installment-postponemen-troubled-entitlements.aspx"
+            },
+            {
+              "service": "طلب تعديل فئة المتعامل",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/change-of-customer-category.aspx"
+            },
+            {
+              "service": "طلب براءة ذمة بسبب الحوادث",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/clearance-due-to-incident.aspx"
+            },
+            {
+              "service": "طلب شهادة لمن يهمه الأمر",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/certificate-to-whom-it-may-concern.aspx"
+            },
+            {
+              "service": "طلب فصل مؤقت لخدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/water-services-temporary-disconnection.aspx"
+            },
+            {
+              "service": "طلب عزل وإعادة الكهرباء لأغراض الصيانة",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/electricity-service-temporary-disconnection.aspx"
+            },
+            {
+              "service": "طلب تسجيل ضمن إعفاءات الشؤون الاجتماعية",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/registration-social-affair-exemption.aspx"
+            },
+            {
+              "service": "طلب إضافة حساب إلى جهة الدفع",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/adding-account-from-payee.aspx"
+            },
+            {
+              "service": "طلب إلغاء حساب من جهة الدفع",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/cancelling-account-from-payee.aspx"
+            },
+            {
+              "service": "طلب استرداد أو تحويل رصيد",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/application-balance-refund-transfer.aspx"
+            },
+            {
+              "service": "طلب إغلاق حساب",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/application-closing-account.aspx"
+            },
+            {
+              "service": "دفع فواتير المياه والكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/bill-payement-service-application.aspx"
+            },
+            {
+              "service": "إلغاء خدمة الخصم المباشر",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/service_for_direct_debit_de-registration.aspx"
+            },
+            {
+              "service": "خدمة الفاتورة الثابتة",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/bill_smoothening_service.aspx"
+            },
+            {
+              "service": "خدمة تخويل الخصم المباشر",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/direct_debit_registration_service.aspx"
+            },
+            {
+              "service": "خدمة سداد الخصم المباشر",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/direct_debit_payment_service.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "حاسبة التعرفة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/checkmybill.aspx"
+            },
+            {
+              "link": "التعرفة والأسعار 2023",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2023.aspx"
+            },
+            {
+              "link": "التعرفة والأسعار 2020",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2020.aspx"
+            },
+            {
+              "link": "التعرفة والأسعار 2019",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2019.aspx"
+            },
+            {
+              "link": "التعرفة والأسعار 2018",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2018.aspx"
+            },
+            {
+              "link": "التعرفة والأسعار 2017",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2017.aspx"
+            },
+            {
+              "link": "التعرفة والأسعار 2016",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/ratesandtariffs2016.aspx"
+            },
+            {
+              "link": "اتفاقية التوريد",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/Pages/Supply-agreement.aspx"
+            },
+            {
+              "link": "تحقق من فواتيرك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "اتورة جديدة، مصممة خصيصاً لك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/understandyourbill.aspx "
+            },
+            {
+              "link": "خيارات الدفع",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/paymentoptions.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle": "خدمة العملاء",
+          "description": "داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسةعش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد ",
+          "itemsHeader": "نعمل لتمكينك من التحكم في مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "تقديم البلاغات الطارئة للمياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/emergency-water-cases-submission.aspx"
+            },
+            {
+              "service": "تقديم البلاغات الطارئة للكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/electricity-emergency-cases-submission.aspx"
+            },
+            {
+              "service": "الاستفسار عن معلومات",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/information-inquiry.aspx"
+            },
+            {
+              "service": "طلب الاستشارات حول خدمات المياه والكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/water-electricity-consultations-services.aspx"
+            },
+            {
+              "service": "تقديم الشكاوى",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/complaints-submission.aspx"
+            },
+            {
+              "service": "تقديم المقترحات",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/suggestions-submission.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "ميثاق العملاء",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "هدفنا خدمة كل أفراد المجتمع",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/guaranteedstandards.aspx"
+            },
+            {
+              "link": "حول خدمة مواقف",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle": "توصيل خدمات المياه",
+          "description": "داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسةعش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد ",
+          "itemsHeader": "نعمل لتمكينك من التحكم في مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب اعتماد الاستهلاك للمياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-demand-notification.aspx"
+            },
+            {
+              "service": "طلب اعتماد مخططات لتمديدات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-supply-drawings-approval.aspx"
+            },
+            {
+              "service": "طلب تمديد توصيل خط مياه دائم",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/permanent-water-connection.aspx"
+            },
+            {
+              "service": "طلب تفتيش فحص للتمديدات الداخلية للمياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/internal-water-supply-inspection.aspx"
+            },
+            {
+              "service": "طلب تفعيل خدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-supply-activation.aspx"
+            },
+            {
+              "service": "طلب تفتيش فحص لإضافة عداد المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/additional-water-meter.aspx"
+            },
+            {
+              "service": "طلب تفتيش فحص لزيادة حجم خط المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/upgrading-water-meter.aspx"
+            },
+            {
+              "service": "طلب توصيل خط مياه مؤقت",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/temporary-water-connection.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن في فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-AE/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "حول الانتقال إلى عقار جديد",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/about-moving-in.aspx"
+            },
+            {
+              "link": "حول خدمة توثيق",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/understanding-tawtheeq.aspx"
+            },
+            {
+              "link": "دليل الاستهلاك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "حول خدمة مواقف",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+            },
+            {
+              "link": "ميثاق خدمة المتعاملين",
+              "quickLinkUrl": "https://www.addc.ae/en-us/residential/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "العملاء ذوي احتياجات الرعاية الصحية الخاصة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "الإطلاع على الفاتورة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/_layouts/15/addc/checkmybill.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle": "الشهادات",
+          "description": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "itemsHeader": "نعمل لتمكينك من التحكم في مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب شهادة خلو موقع من خدمات الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/electric-services-clearance-certificate.aspx"
+            },
+            {
+              "service": "طلب شهادة خلو موقع من خدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/water-service-clearance-certificate.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن في فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "ميثاق العملاء",
+              "quickLinkUrl": "https://www.addc.ae/en-US/residential/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/understanding-mawaqif.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle": "خدمات نقل وإزالة المياه",
+          "description": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة للتواصل في عقارك الجديد.",
+          "itemsHeader": "نعمل لتمكينك من التحكم في مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب تفتيش لنقل عداد المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-water-meter.aspx"
+            },
+            {
+              "service": "طلب عرض سعر الإشراف الفني لنقل خدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-quotation-water-pipeline.aspx"
+            },
+            {
+              "service": "طلب نقل خدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-of-external-water-pipeline.aspx"
+            },
+            {
+              "service": "طلب إزالة خدمات للمياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/demolishing-of-water-connection.aspx"
+            },
+            {
+              "service": "طلب إزالة عداد مياه دائم",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-permanent-water-meter.aspx"
+            },
+            {
+              "service": "طلب إزالة عداد مياه مؤقت",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-temporary-water-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "قواعد قطع الخدمة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "كافة المعلومات حول الانتقال إلى عقار جديد",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/about-moving-out.aspx"
+            },
+            {
+              "link": "دليل الاستهلاك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/consumptionfinder.aspx"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle": "تسجيل صهاريج المياه",
+          "description": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة.",
+          "itemsHeader": "نعمل لتمكينك من التحكم في مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب تسجيل صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/registration-water-tanker.aspx"
+            },
+            {
+              "service": "طلب تجديد تصريح صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/renewal-water-tanker.aspx"
+            },
+            {
+              "service": "طلب إلغاء تسجيل صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/cancellation-water-tanker.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "مركز صهاريج المياه",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/Pages/Water-Tankering-Center.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle": "تعرفة شحن السيارات الكهربائية في الإمارة",
+          "description": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة لتوصيل شاحن السيارة الكهربائية الخاص بك وتسجيله في عقارك الجديد.",
+          "itemsHeader": "نعمل لتمكينك من التحكم في مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "تسجيل جهاز شحن المركبات الكهربائية",
+              "serviceUrl": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "الكهربائية في الإمارةتعرفة شحن المركبات",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/Pages/EVChargingTariff.aspx"
+            }
+          ]
+        }
+      ],
+      "business": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle": "خدمات تمديد وتوصيل الكهرباء",
+          "description": "سنوفر لك تجربة سلسة لضمان حصولك على خدمات الكهرباء في مقر عملك.",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك التجارية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب الموافقة على تحميل الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/load-demand-notification.aspx"
+            },
+            {
+              "service": "طلب الموافقة على الرسومات الكهربائية الداخلية",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/approval-electric-drawings.aspx"
+            },
+            {
+              "service": "طلب تنفيذ كابل كهربائي دائم",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/permanent-cable-termination.aspx"
+            },
+            {
+              "service": "طلب فحص الأسلاك الكهربائية للاتصال الجديد (داخلي)",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/inspection-internal-electric-wiring.aspx"
+            },
+            {
+              "service": "طلب تفعيل توريد الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/activation-electric-services.aspx"
+            },
+            {
+              "service": "طلب فحص عداد كهرباء إضافي",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/additional-electric-meter.aspx"
+            },
+            {
+              "service": "طلب فحص ترقية تحميل الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/electric-load-upgrade.aspx"
+            },
+            {
+              "service": "طلب اتصال كهربائي مؤقت",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/connection-temporary-electric-line.aspx"
+            },
+            {
+              "service": "طلب اتصال مؤقت لخيمة عزاء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/extension-connection-electric-services/pages/temporary-connection-condolence-test.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "ميثاق العملاء",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/documents/customer%20charter.pdf"
+            },
+            {
+              "link": "هدفنا خدمة كل أفراد المجتمع",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "تحقق من فواتيرك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/_layouts/15/addc/checkmybill.aspx"
+            },
+            {
+              "link": "حول خدمة توثيق",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/UnderstandingTawtheeq.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle": "خدمات نقل وإزالة الكهرباء",
+          "description": "سنوفر لك تجربة سلسة لضمان إجراء جميع عمليات نقل وإزالة خدمات الكهرباء في مقر عملك بشكل كامل",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك التجارية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب تفتيش فحص لنقل عداد كهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/application-shifting-electricitymeter.aspx"
+            },
+            {
+              "service": "طلب عرض أسعار لنقل خدمات الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/quotation-relocation-external-lectricity-services.aspx"
+            },
+            {
+              "service": "طلب نقل خدمات الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/relocation-of-electricity-connections.aspx"
+            },
+            {
+              "service": "طلب إزالة خدمات الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-electricity-connections.aspx"
+            },
+            {
+              "service": "طلب إزالة عداد الكهرباء الدائم",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-permanent-electricity-meter.aspx"
+            },
+            {
+              "service": "طلب إزالة عداد كهرباء مؤقت",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/transfer-removal-electric-services/pages/removal-temporary-electricity-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن في لي فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "قواعد قطع إيقاف الخدمة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/guaranteedstandards.aspx"
+            },
+            {
+              "link":"ة قطع حول",
+              "quickLinkUrl":"https://www.addc.ae/ar-ae/business/pages/about-moving-out.aspx"
+            },
+            {
+              "link":"ك دليل ",
+              "quickLinkUrl":"https://www.addc.ae/ar-ae/business/pages/consumptionfinder.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle": "إدارة الحسابات والفواتير",
+          "description": "والمياه الطاقة فواتير لإدارة وفعالة بسيطة تجربة نقدم بشركتك الخاصة.",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك التجارية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب فتح حساب لمتعامل جديد",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/opening-account-new-customer.aspx"
+            },
+            {
+              "service": "طلب تسجيل الحالات الطبية الحساسة",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/critical-medical-conditions-registration.aspx"
+            },
+            {
+              "service": "طلب تغيير بيانات ملكية العقار",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/change-property-ownership_123.aspx"
+            },
+            {
+              "service": "طلب تقسيط أو ترتيب الدفع للمتعامل المتعسر مالياً",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/installment-postponemen-troubled-entitlements.aspx"
+            },
+            {
+              "service": "طلب تعديل فئة المتعامل",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/change-of-customer-category.aspx"
+            },
+            {
+              "service": "طلب براءة ذمة بسبب الحوادث",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/clearance-due-to-incident.aspx"
+            },
+            {
+              "service": "طلب شهادة لمن يهمه الأمر",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/certificate-to-whom-it-may-concern.aspx"
+            },
+            {
+              "service": "طلب فصل مؤقت لخدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/water-services-temporary-disconnection.aspx"
+            },
+            {
+              "service": "طلب عزل وإعادة الكهرباء لأغراض الصيانة",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/electricity-service-temporary-disconnection.aspx"
+            },
+            {
+              "service": "طلب تسجيل ضمن إعفاءات الشؤون الاجتماعية",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/registration-social-affair-exemption.aspx"
+            },
+            {
+              "service": "طلب إضافة حساب إلى جهة الدفع",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/adding-account-from-payee.aspx"
+            },
+            {
+              "service": "طلب إلغاء حساب من جهة الدفع",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/cancelling-account-from-payee.aspx"
+            },
+            {
+              "service": "طلب استرداد أو تحويل رصيد",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/application-balance-refund-transfer.aspx"
+            },
+            {
+              "service": "طلب إغلاق حساب",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/application-closing-account.aspx"
+            },
+            {
+              "service": "دفع فواتير المياه والكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/bill-payement-service-application.aspx"
+            },
+            {
+              "service": "إلغاء خدمة الخصم المباشر",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/service_for_direct_debit_de-registration.aspx"
+            },
+            {
+              "service": "خدمة الفاتورة الثابتة",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/bill_smoothening_service.aspx"
+            },
+            {
+              "service": "خدمة تخويل الخصم المباشر",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/direct_debit_registration_service.aspx"
+            },
+            {
+              "service": "خدمة سداد الخصم المباشر",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/account-mgmt-bill/pages/direct_debit_payment_service.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "حاسبة التعرفة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/_layouts/15/addc/checkmybill.aspx"
+            },
+            {
+              "link": "التعرفة والأسعار ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/RatesAndTariffs.aspx"
+            },
+            {
+              "link": "اتفاقية التوريد",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/Supply-agreement.aspx"
+            },
+            {
+              "link": "تحقق من فواتيرك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "اتورة جديدة، مصممة خصيصاً لك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/understandyourbill.aspx "
+            },
+            {
+              "link": "خيارات الدفع",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/paymentoptions.aspx"
+            },
+            {
+              "link": "كيف تتصل",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/HowToConnect.aspx"
+            },
+            {
+              "link": "معايير الضمان",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/GuaranteedStandards.aspx"
+            },
+            {
+              "link": "حول الانتقال",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/businessGetConnectedExt.aspx"
+            },
+            {
+              "link": "قواعد فصل الإمدا",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/Supplydisconnectionrules.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle": "خدمة العملاء",
+          "description": "نقدم تجربة سلسة لتناسب جميع متطلبات أعمالك.",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك التجارية الكاملة، ونزودك بجميع الوثائق التي تحتاجها لخدمات رعاية العملاء.",
+          "items": [
+            {
+              "service": "تقديم البلاغات الطارئة للمياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/emergency-water-cases-submission.aspx"
+            },
+            {
+              "service": "تقديم البلاغات الطارئة للكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/electricity-emergency-cases-submission.aspx"
+            },
+            {
+              "service": "الاستفسار عن معلومات",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/information-inquiry.aspx"
+            },
+            {
+              "service": "طلب الاستشارات حول خدمات المياه والكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/water-electricity-consultations-services.aspx"
+            },
+            {
+              "service": "تقديم الشكاوى",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/complaints-submission.aspx"
+            },
+            {
+              "service": "تقديم المقترحات",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/customer-care/pages/suggestions-submission.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "ميثاق العملاء",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "هدفنا خدمة كل أفراد المجتمع",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle": "توصيل خدمات المياه",
+          "description": "نحن نقدم تجربة سلسة للشركات في الإمارة لإنشاء وصيانة وصلة المياه في مقر شركتك.",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك التجارية الكاملة ، ونزودك بجميع الوثائق التي تحتاجها للحفاظ على وصلة مياه مستقرة لمقر عملك.",
+          "items": [
+            {
+              "service": "طلب اعتماد الاستهلاك للمياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-demand-notification.aspx"
+            },
+            {
+              "service": "طلب اعتماد مخططات لتمديدات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-supply-drawings-approval.aspx"
+            },
+            {
+              "service": "طلب تمديد توصيل خط مياه دائم",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/permanent-water-connection.aspx"
+            },
+            {
+              "service": "طلب تفتيش فحص للتمديدات الداخلية للمياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/internal-water-supply-inspection.aspx"
+            },
+            {
+              "service": "طلب تفعيل خدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/water-supply-activation.aspx"
+            },
+            {
+              "service": "طلب تفتيش فحص لإضافة عداد المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/additional-water-meter.aspx"
+            },
+            {
+              "service": "طلب تفتيش فحص لزيادة حجم خط المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/upgrading-water-meter.aspx"
+            },
+            {
+              "service": "طلب توصيل خط مياه مؤقت",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/connection-water-services/pages/temporary-water-connection.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن في فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-AE/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "حول خدمة مواقف",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/understandingtawtheeq.aspx"
+            },
+            {
+              "link": "ميثاق خدمة المتعاملين",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "العملاء ذوي احتياجات الرعاية الصحية الخاصة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "الإطلاع على الفاتورة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/_layouts/15/addc/checkmybill.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle": "الشهادات",
+          "description": "نسهل عليك عملية العثور على الشهادات ذات صلة لطلبات خدمات الكهرباء والمياه.",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك والعثور على الشهادات ذات صلة. يمكنك العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة محددة",
+          "items": [
+            {
+              "service": "طلب شهادة خلو موقع من خدمات الكهرباء",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/electric-services-clearance-certificate.aspx"
+            },
+            {
+              "service": "طلب شهادة خلو موقع من خدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/certificates/pages/water-service-clearance-certificate.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن في فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "ميثاق العملاء",
+              "quickLinkUrl": "https://www.addc.ae/en-US/business/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/understanding-mawaqif.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle": "خدمات نقل وإزالة المياه",
+          "description": "سنوفر لك تجربة سلسة لضمان حصولك على جميع خدمات نقل المياه لعملك.",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك التجارية الكاملة. يمكنك العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب تفتيش لنقل عداد المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-water-meter.aspx"
+            },
+            {
+              "service": "طلب عرض سعر الإشراف الفني لنقل خدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-quotation-water-pipeline.aspx"
+            },
+            {
+              "service": "طلب نقل خدمات المياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/shifting-of-external-water-pipeline.aspx"
+            },
+            {
+              "service": "طلب إزالة خدمات للمياه",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/demolishing-of-water-connection.aspx"
+            },
+            {
+              "service": "طلب إزالة عداد مياه دائم",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-permanent-water-meter.aspx"
+            },
+            {
+              "service": "طلب إزالة عداد مياه مؤقت",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/shifting-removal-water-services/pages/removal-temporary-water-meter.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "قواعد قطع الخدمة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle": "تسجيل صهاريج المياه",
+          "description": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت ستنقل مقرًك التجاري داخل الإمارة داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك التجارية الكاملة. يمكنك العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "طلب تسجيل صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/registration-water-tanker.aspx"
+            },
+            {
+              "service": "طلب تجديد تصريح صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/renewal-water-tanker.aspx"
+            },
+            {
+              "service": "طلب إلغاء تسجيل صهريج مياه صالحة للشرب (بطاقة غدير)",
+              "serviceUrl": "https://www.addc.ae/ar-ae/home/service-categories/registration-water-tankers/pages/cancellation-water-tanker.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "مركز صهاريج المياه",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/Pages/Water-Tankering-Center.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle": "تعرفة شحن السيارات الكهربائية في الإمارة",
+          "description": "إذا كنت ستنقل مقرًك التجاري داخل الإمارة، فسنوفر لك تجربة سلسة لتوصيل شاحن السيارة الكهربائية الخاص بك وتسجيله في عقارك الجديد.",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك التجارية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "تسجيل جهاز شحن المركبات الكهربائية",
+              "serviceUrl": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "الكهربائية في الإمارةتعرفة شحن المركبات",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/residential/Pages/EVChargingTariff.aspx"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "aadc": {
+    "en-us": {
+      "residential": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle": "Extension and Connection of Electricity Services",
+          "description": "If you are building a property within the Emirate we’ll provide you with a seamless experience to make sure it is connected to our electricity services",
+          "itemsHeader": "We provide you with all the documentation and information you need to go through a pain-free and simple connection process for our electricity services.",
+          "items": [
+            {
+              "service": "Water and electricity service reconnection",
+              "serviceUrl": "https://www.aadc.ae//en/pages/ServiceForNewCustomerReconnctForMaintainence.aspx"
+            },
+            {
+              "service": "Temporary disconnection of electricity services"
+            },
+            {
+              "service": "Electricity load approval"
+            },
+            {
+              "service": "Internal electricity drawings approval",
+              "serviceUrl": "https://www.aadc.ae//en/pages/PowerDrawingApprovalRequest.aspx"
+            },
+            {
+              "service": "Permanent electricity cable execution",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PermanentNewPowerConnectionRequest.aspx"
+            },
+            {
+              "service": "Internal Electrical Wiring Inspection for New Connection",
+              "serviceUrl": "https://www.aadc.ae//en/pages/PowerInspectionRequest.aspx"
+            },
+            {
+              "service": "Electrical Supply Activation"
+            },
+            {
+              "service": "Add Electricity Meter",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PowerAdditionalMeterRequest.aspx"
+            },
+            {
+              "service": "Electricity Load Upgrade",
+              "serviceUrl": "https://www.aadc.ae//en/pages/Electricity_Reinforcement.aspx"
+            },
+            {
+              "service": "Temporary Electricity Line Connection",
+              "serviceUrl": "https://www.aadc.ae//en/pages/TemporaryPowerConnectionRequest.aspx"
+            },
+            {
+              "service": "Temporary Connection for Condolence Tent"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Health and safety ",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/Health_and_Safety.aspx"
+            },
+            {
+              "link": "AADC Code of Practice for efficient use of water and electricity",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/AADC%20CODE%20OF%20PRACTICE%20FOR%20EFFICIENT%20USE%20OF%20WATER%20%20ELECTRICITY-EN.pdf"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle": "Transfer and Removal of Electricity Services",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide a seamless experience when you connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request is below available at the click of a button.",
+          "items": [
+            {
+              "service": "Electricity Meter Shifting",
+              "serviceUrl": "https://www.aadc.ae//en/pages/Cable_or_Meter_Shifting.aspx"
+            },
+            {
+              "service": "Shifting Electricity Services Quotation"
+            },
+            {
+              "service": "Shift Electricity Services",
+              "serviceUrl": "https://www.aadc.ae/en/pages/ShiftingDiversionE-ServiceRequest.aspx"
+            },
+            {
+              "service": "Electricity Service Removal",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PowerPermanentServiceDemolishRequest.aspx"
+            },
+            {
+              "service": "Temporary Electricity Meter Removal",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PowerTemporaryServiceDemolishRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Guide to guaranteed service standards ",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToGuaranteedServiceStandards.pdf"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle": "Account Management and Bills",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Open new customer account",
+              "serviceUrl": "https://www.aadc.ae/en/pages/NewTenantRegistrationRequest.aspx"
+            },
+            {
+              "service": "Water and electricity bill payment",
+              "serviceUrl": "https://www.aadc.ae//en/pages/BillPaymentRequests.aspx"
+            },
+            {
+              "service": "Change property ownership data",
+              "serviceUrl": "https://www.aadc.ae//en/pages/PropertyOwnershipChangeRequest.aspx"
+            },
+            {
+              "service": "Instalment payment arrangement for customers in financial distress",
+              "serviceUrl": "https://www.aadc.ae//en/pages/PaymentInstallmentRequest.aspx"
+            },
+            {
+              "service": "Register in social affairs exemption",
+              "serviceUrl": "https://www.aadc.ae//en/pages/MoveAccountUnderSocialCareCaseRequest.aspx"
+            },
+            {
+              "service": "Add new account to payee"
+            },
+            {
+              "service": "Cancel account from payee"
+            },
+            {
+              "service": "Balance refund or transfer",
+              "serviceUrl": "https://www.aadc.ae//en/pages/CreditRefundRequest.aspx"
+            },
+            {
+              "service": "Close an account",
+              "serviceUrl": "https://www.aadc.ae//en/pages/CloseAccountRequest.aspx"
+            },
+            {
+              "service": "Last meter reading without disconnection"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Payment Channels",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/Payment_Methods.aspx"
+            },
+            {
+              "link": "Water and electricity tariff 2017",
+              "quickLinkUrl": "https://www.aadc.ae/pdfs/Tariff/Tariff2017Englishwebsite.pdf"
+            },
+            {
+              "link": "Water and electricity tariff 2023",
+              "quickLinkUrl": "https://www.aadc.ae/pdfs/Tariff/Tariff2023Englishwebsite.pdf"
+            },
+            {
+              "link": "Tariff calculator",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/Tariff7.aspx"
+            },
+            {
+              "link": "Electricity tariff incentive programme for industry",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/ETIP_Tariff.aspx"
+            },
+            {
+              "link": "Recycled water service tariff 2023",
+              "quickLinkUrl": "https://www.aadc.ae"
+            },
+            {
+              "link": "All about meters",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/AllAboutMeters.aspx"
+            },
+            {
+              "link": "Supply agreement",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/AADC-SupplyAgreement2022.pdf"
+            },
+            {
+              "link": "TAMM payment",
+              "quickLinkUrl": "https://www.tamm.abudhabi/"
+            },
+            {
+              "link": "Direct debit",
+              "quickLinkUrl": "https://eservices.aadc.ae/En/Pages/default.aspx"
+            },
+            {
+              "link": "IVR",
+              "quickLinkUrl": ""
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle": "Customer Care",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Critical medical conditions registration",
+              "serviceUrl": "https://www.aadc.ae/en/pages/RequestfForSpecialNeedsCase.aspx"
+            },
+            {
+              "service": "Change customer category"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Complaints",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/Complaints.aspx"
+            },
+            {
+              "link": "Contact",
+              "quickLinkUrl": "https://www.aadc.ae/en/contactus.aspx"
+            },
+            {
+              "link": "All about meters",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/AllAboutMeters.aspx"
+            },
+            {
+              "link": "AADC smart application",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/Apple-AndroidAADCapplication.aspx"
+            },
+            {
+              "link": "Working hours",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/W_H.aspx"
+            },
+            {
+              "link": "Guide to guaranteed service standards",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToGuaranteedServiceStandards.pdf"
+            },
+            {
+              "link": "LV Switchgear Approved vendor list",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/LV_Switchgear.aspx"
+            },
+            {
+              "link": "Supply agreement",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Supply-agreement.aspx"
+            },
+            {
+              "link": "Water supply and its regulation",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToWSR.pdf"
+            },
+            {
+              "link": "AADC Code of Practice for efficient use of water and electricity",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/AADC%20CODE%20OF%20PRACTICE%20FOR%20EFFICIENT%20USE%20OF%20WATER%20%20ELECTRICITY-EN.pdf"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle": "Extension and Connection of Water Services",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Water supply drawings approval",
+              "serviceUrl": "https://www.aadc.ae//en/pages/Approval_of_Water_Tank_Location.aspx"
+            },
+            {
+              "service": "Permanent water connection",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PermanentNewWaterConnectionRequest.aspx"
+            },
+            {
+              "service": "Internal water supply inspection",
+              "serviceUrl": "https://www.aadc.ae//en/pages/WaterInspectionRequest.aspx"
+            },
+            {
+              "service": "Water supply activation",
+              "serviceUrl": "https://www.aadc.ae/Uploads/GuideToWSR.pdf"
+            },
+            {
+              "service": "Add water meter",
+              "serviceUrl": "https://www.aadc.ae/en/pages/AdditionalMeterRequest.aspx"
+            },
+            {
+              "service": "Water load upgrade",
+              "serviceUrl": "https://www.aadc.ae/en/pages/WaterMeterReinforcementRequest.aspx"
+            },
+            {
+              "service": "Temporary water connection",
+              "serviceUrl": "https://www.aadc.ae/en/pages/TemporaryWaterConnectionRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Health and safety",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/Health_and_Safety.aspx"
+            },
+            {
+              "link": "Water supply and its regulation",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToWSR.pdf"
+            },
+            {
+              "link": "Water supply regulation 2009",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/WaterSupplyRegulations2009.pdf"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle": "Certificates",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Issue “To whom it may concern” certificate",
+              "serviceUrl": "https://www.aadc.ae/en/pages/ToWhomItMayConcern.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle": "Shifting and Removal of Water Services",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Water Meter Shifting",
+              "serviceUrl": "https://www.aadc.ae/en/pages/MeterShiftingRequest.aspx"
+            },
+            {
+              "service": "Technical Supervision of Water Services Shifting Quotation",
+              "serviceUrl": ""
+            },
+            {
+              "service": "Shift Water Services",
+              "serviceUrl": "https://www.aadc.ae/en/pages/ShiftingDiversionWaterServiceRequest.aspx"
+            },
+            {
+              "service": "Water Services Removal",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PermanentServiceDemolishRequest.aspx"
+            },
+            {
+              "service": "Temporary Water Meter Removal",
+              "serviceUrl": "https://www.aadc.ae/en/pages/TemporaryServiceDemolishRequest.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle": "Registration of Water Tankers",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Renewal of Drinking Water Tanker (Oyoon Card)",
+              "serviceUrl": "https://www.aadc.ae/en/pages/OyoonCardRequest.aspx"
+            },
+            {
+              "service": "Registration of Drinking Water Tanker (Oyoon Card)",
+              "serviceUrl": "https://www.aadc.ae/en/pages/OyoonCardRequest.aspx"
+            },
+            {
+              "service": "Cancellation of Drinking Water Tanker (Oyoon Card)",
+              "serviceUrl": "https://www.aadc.ae/en/pages/OyoonCardRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Working hours",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/W_H.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle": "EV charging tariff",
+          "description": "Make your house a home with our assistance. If you are moving within the Emirate we’ll provide you with a seamless experience for you to connect and register your EV charger at your new property.",
+          "itemsHeader": "We empower you to take control of your home utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Register your electric vehicle charger",
+              "serviceUrl": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": []
+        }
+      ],
+      "business": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle": "Extension and Connection of Electricity Services",
+          "description": "We’ll provide you with a seamless experience to ensure that you have electricity connection services at your business premises.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Water and electricity service reconnection",
+              "serviceUrl": "https://www.aadc.ae//en/pages/ServiceForNewCustomerReconnctForMaintainence.aspx"
+            },
+            {
+              "service": "Internal electricity drawings approval",
+              "serviceUrl": "https://www.aadc.ae//en/pages/PowerDrawingApprovalRequest.aspx"
+            },
+            {
+              "service": "Permanent electricity cable execution",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PermanentNewPowerConnectionRequest.aspx"
+            },
+            {
+              "service": "Internal Electrical Wiring Inspection for New Connection",
+              "serviceUrl": "https://www.aadc.ae//en/pages/PowerInspectionRequest.aspx"
+            },
+            {
+              "service": "Add Electricity Meter",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PowerAdditionalMeterRequest.aspx"
+            },
+            {
+              "service": "Electricity Load Upgrade",
+              "serviceUrl": "https://www.aadc.ae//en/pages/Electricity_Reinforcement.aspx"
+            },
+            {
+              "service": "Temporary Electricity Line Connection",
+              "serviceUrl": "https://www.aadc.ae//en/pages/TemporaryPowerConnectionRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Health and safety",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/Health_and_Safety.aspx"
+            },
+            {
+              "link": "AADC Code of Practice for efficient use of water and electricity",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/AADC%20CODE%20OF%20PRACTICE%20FOR%20EFFICIENT%20USE%20OF%20WATER%20%20ELECTRICITY-EN.pdf"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle": "Transfer and Removal of Electricity Services",
+          "description": "We’ll provide you with a seamless experience to ensure that all transfer and removal of electricity services at your business premises are conducted thoroughly.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Electricity Meter Shifting",
+              "serviceUrl": "https://www.aadc.ae//en/pages/Cable_or_Meter_Shifting.aspx"
+            },
+            {
+              "service": "Shifting Electricity Services Quotation"
+            },
+            {
+              "service": "Shift Electricity Services",
+              "serviceUrl": "https://www.aadc.ae/en/pages/ShiftingDiversionE-ServiceRequest.aspx"
+            },
+            {
+              "service": "Electricity Service Removal",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PowerPermanentServiceDemolishRequest.aspx"
+            },
+            {
+              "service": "Temporary Electricity Meter Removal",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PowerTemporaryServiceDemolishRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/GuaranteedStandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle": "Account Management and Bills",
+          "description": "We provide a simple and effective experience to manage the energy and water bills for your business.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Open new customer account",
+              "serviceUrl": "https://www.aadc.ae/en/pages/NewTenantRegistrationRequest.aspx"
+            },
+            {
+              "service": "Water and electricity bill payment",
+              "serviceUrl": "https://www.aadc.ae//en/pages/BillPaymentRequests.aspx"
+            },
+            {
+              "service": "Change property ownership data",
+              "serviceUrl": "https://www.aadc.ae//en/pages/PropertyOwnershipChangeRequest.aspx"
+            },
+            {
+              "service": "Instalment payment arrangement for customers in financial distress",
+              "serviceUrl": "https://www.aadc.ae//en/pages/PaymentInstallmentRequest.aspx"
+            },
+            {
+              "service": "Register in social affairs exemption",
+              "serviceUrl": "https://www.aadc.ae//en/pages/MoveAccountUnderSocialCareCaseRequest.aspx"
+            },
+            {
+              "service": "Balance refund or transfer",
+              "serviceUrl": "https://www.aadc.ae//en/pages/CreditRefundRequest.aspx"
+            },
+            {
+              "service": "Close an account",
+              "serviceUrl": "https://www.aadc.ae//en/pages/CloseAccountRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Rates and tariffs",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/RatesAndTariffs.aspx"
+            },
+            {
+              "link": "Supply agreement",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Supply-agreement.aspx"
+            },
+            {
+              "link": "Check your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "Understand your bill",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/UnderstandYourBill.aspx"
+            },
+            {
+              "link": "Payment options",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/PaymentOptions.aspx"
+            },
+            {
+              "link": "How to connect",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/HowToConnect.aspx"
+            },
+            {
+              "link": "Guarantee Standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/GuaranteedStandards.aspx"
+            },
+            {
+              "link": "About moving in",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/pages/businessGetConnectedExt.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Supplydisconnectionrules.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle": "Customer Care",
+          "description": "We provide a seamless experience for all your business requirements ensuring that you have access to all relevant customer care documentation.",
+          "itemsHeader": "We empower you to take control of your business utilities providing you with all the documentation you need for customer care services.",
+          "items": [
+            {
+              "service": "Critical medical conditions registration",
+              "serviceUrl": "https://www.aadc.ae/en/pages/RequestfForSpecialNeedsCase.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Complaints",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/Complaints.aspx"
+            },
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Customer charter",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Documents/Customer%20Charter.pdf"
+            },
+            {
+              "link": "Critical care customers",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Critical-care-customers.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/GuaranteedStandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle": "Connection of Water Services",
+          "description": "We provide a seamless experience for businesses in the Emirate to establish and maintain a water connection at the company premises.",
+          "itemsHeader": "We empower you to take control of your business utilities providing you with all the documentation you need to maintain a stable water connection for your business premises.",
+          "items": [
+            {
+              "service": "Water supply drawings approval",
+              "serviceUrl": "https://www.aadc.ae//en/pages/Approval_of_Water_Tank_Location.aspx"
+            },
+            {
+              "service": "Permanent water connection",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PermanentNewWaterConnectionRequest.aspx"
+            },
+            {
+              "service": "Internal water supply inspection",
+              "serviceUrl": "https://www.aadc.ae//en/pages/WaterInspectionRequest.aspx"
+            },
+            {
+              "service": "Add water meter",
+              "serviceUrl": "https://www.aadc.ae/en/pages/AdditionalMeterRequest.aspx"
+            },
+            {
+              "service": "Water load upgrade",
+              "serviceUrl": "https://www.aadc.ae/en/pages/WaterMeterReinforcementRequest.aspx"
+            },
+            {
+              "service": "Temporary water connection",
+              "serviceUrl": "https://www.aadc.ae/en/pages/TemporaryWaterConnectionRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "Health and safety",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/Health_and_Safety.aspx  "
+            },
+            {
+              "link": "Water supply and its regulation",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToWSR.pdf"
+            },
+            {
+              "link": "Water supply regulation 2009",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/WaterSupplyRegulations2009.pdf"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle": "Certificates",
+          "description": "We make it as simple as possible for you to find the relevant certificates for applications for both electricity and water services clearance.",
+          "itemsHeader": "We empower you to take control of your business utilities and find the relevant certificates. All the documentation you need for a specific request can be found below.",
+          "items": [
+            {
+              "service": "Issue clearance certificate"
+            },
+            {
+              "service": "Issue “To whom it may concern” certificate",
+              "serviceUrl": "https://www.aadc.ae/en/pages/ToWhomItMayConcern.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle": "Shifting and Removal of Water Services",
+          "description": "We’ll provide you with a seamless experience to ensure that you have access to all shifting and removal of water services for your business.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Water Meter Shifting",
+              "serviceUrl": "https://www.aadc.ae/en/pages/MeterShiftingRequest.aspx"
+            },
+            {
+              "service": "Technical Supervision of Water Services Shifting Quotation"
+            },
+            {
+              "service": "Shift Water Services",
+              "serviceUrl": "https://www.aadc.ae/en/pages/ShiftingDiversionWaterServiceRequest.aspx"
+            },
+            {
+              "service": "Water Services Removal",
+              "serviceUrl": "https://www.aadc.ae/en/pages/PermanentServiceDemolishRequest.aspx"
+            },
+            {
+              "service": "Temporary Water Meter Removal",
+              "serviceUrl": "https://www.aadc.ae/en/pages/TemporaryServiceDemolishRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "What to do in an emergency",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "Supply disconnection rules",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/Supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "Guaranteed standards",
+              "quickLinkUrl": "https://www.addc.ae/en-us/business/Pages/GuaranteedStandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle": "Registration of Water Tankers",
+          "description": "If you are moving business premises within the Emirate we’ll provide you with a seamless experience for you to connect at your new location.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Renewal of Drinking Water Tanker (Oyoon Card)",
+              "serviceUrl": "https://www.aadc.ae/en/pages/OyoonCardRequest.aspx"
+            },
+            {
+              "service": "Registration of Drinking Water Tanker (Oyoon Card)",
+              "serviceUrl": "https://www.aadc.ae/en/pages/OyoonCardRequest.aspx"
+            },
+            {
+              "service": "Cancellation of Drinking Water Tanker (Oyoon Card)",
+              "serviceUrl": "https://www.aadc.ae/en/pages/OyoonCardRequest.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle": "EV charging tariff",
+          "description": "If you are moving business premises within the Emirate we’ll provide you with a seamless experience for you to connect and register your EV charger at your new property.",
+          "itemsHeader": "We empower you to take control of your business utilities. All the documentation you need for a specific service request can be found below at the click of a button.",
+          "items": [
+            {
+              "service": "Register your electric vehicle charger",
+              "serviceUrl": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": []
+        }
+      ]
+    },
+    "ar-ae": {
+      "residential": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle": "أريد الانتقال إلى عقار جديد",
+          "description": "إذا كنت تقوم ببناء عقار داخل الإمارة، فسنعمل على توفير تجربة سلسة للتأكد من توصيل الكهرباء إلى عقارك",
+          "itemsHeader": "نقدم لك جميع الوثائق والمعلومات التي تحتاجها لإجراء عملية توصيل بسيطة وسريعة لخدمات الكهرباء.",
+          "items": [
+            {
+              "service": "عزل وإعادة الكهرباء لأغراض الصيانة",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/ServiceForNewCustomerReconnctForMaintainence.aspx"
+            },
+            {
+              "service": "فصل مؤقت للخدمات"
+            },
+            {
+              "service": "طلب اعتماد أحمال الكهرباء"
+            },
+            {
+              "service": "اعتماد مخططات التمديدات الداخلية للكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerDrawingApprovalRequest.aspx"
+            },
+            {
+              "service": "تمديد كابل كهرباء دائم",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PermanentNewPowerConnectionRequest.aspx"
+            },
+            {
+              "service": "تفتيش للتمديدات الكهربائية الداخلية لتوصيل جديد",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerInspectionRequest.aspx"
+            },
+            {
+              "service": "تفعيل خدمات الكهرباء"
+            },
+            {
+              "service": "تفعيل خدمات الكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerAdditionalMeterRequest.aspx"
+            },
+            {
+              "service": "زيادة أحمال الكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/Electricity_Reinforcement.aspx"
+            },
+            {
+              "service": "توصيل خط كهرباء مؤقت",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/TemporaryPowerConnectionRequest.aspx"
+            },
+            {
+              "service": "توصيل خط كهرباء مؤقت"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.aadc.ae//ar/pages/Health_and_Safety.aspx"
+            },
+            {
+              "link": "تعرف على كيفية الانتقال لعقار جديد",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%D8%A7%D9%84%D9%85%D9%85%D8%A7%D8%B1%D8%B3%D8%A9%20%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9%D8%A8%D9%83%D9%81%D8%A7%D8%A1%D8%A9%20%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87%20%D9%88%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1%D9%81%D9%8A%20%D8%B4%D8%B1%D9%83%D8%A9%D8%A7%D9%84%D8%B9%D9%8A%D9%86%20%D9%84%D9%84%D8%AA%D9%88%D8%B2%D9%8A%D8%B9.PDF"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle": "نقل وإيقاف خدمات الكهرباء",
+          "description": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة للتواصل في عقارك الجديد.",
+          "itemsHeader": "نعمل على لتمكينك من التحكم في على مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "نقل عداد كهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/Cable_or_Meter_Shifting.aspx"
+            },
+            {
+              "service": "عرض أسعار لنقل خدمات الكهرباء"
+            },
+            {
+              "service": "نقل خدمات الكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/ShiftingDiversionE-ServiceRequest.aspx"
+            },
+            {
+              "service": "إزالة خدمات الكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerPermanentServiceDemolishRequest.aspx"
+            },
+            {
+              "service": "إزالة عداد كهرباء مؤقت",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerTemporaryServiceDemolishRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "دليل معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToGuaranteedServiceStandards.pdf"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle": "إدارة الحسابات والفواتير",
+          "description": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك المنزلية كاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "فتح حساب لمتعامل جديد",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/NewTenantRegistrationRequest.aspx"
+            },
+            {
+              "service": "دفع فواتير المياه والكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/BillPaymentRequests.aspx"
+            },
+            {
+              "service": "تغير بيانات ملكية العقار",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PropertyOwnershipChangeRequest.aspx"
+            },
+            {
+              "service": "تقسيط أو ترتيب الدفع للمتعامل المتعسر مالياً",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PaymentInstallmentRequest.aspx"
+            },
+            {
+              "service": "تسجيل ضمن إعفاءات الشؤون الاجتماعية",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/MoveAccountUnderSocialCareCaseRequest.aspx"
+            },
+            {
+              "service": "إضافة حساب إلى جهة الدفع"
+            },
+            {
+              "service": "إلغاء حساب من جهة الدفع"
+            },
+            {
+              "service": "استرداد او تحويل رصيد",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/CreditRefundRequest.aspx"
+            },
+            {
+              "service": "إصدار شهادة إغلاق حساب",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/CloseAccountRequest.aspx"
+            },
+            {
+              "service": "طلب اخر قراءه بدون فصل"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "طرق الدفع",
+              "quickLinkUrl": "https://www.aadc.ae/ar/pages/Payment_Methods.aspx"
+            },
+            {
+              "link": "تعرفة المياه والكهرباء 2017",
+              "quickLinkUrl": "https://www.aadc.ae/01-Arabic"
+            },
+            {
+              "link": "تعرفة الخدمات 2023",
+              "quickLinkUrl": "https://www.aadc.ae/Tariff2023arabicwebsite.pdf"
+            },
+            {
+              "link": "حاسبة التعرفة",
+              "quickLinkUrl": "https://www.aadc.ae/ar/pages/Tariff7.aspx"
+            },
+            {
+              "link": "التعرفة التحفيزية للقطاع الصناعي",
+              "quickLinkUrl": "https://www.aadc.ae/التعرفة-التحفيزية-للقطاع-الصناعي"
+            },
+            {
+              "link": "تعرفة خدمة المياه المعاد تدويرها 2023",
+              "quickLinkUrl": "https://www.aadc.ae"
+            },
+            {
+              "link": "كل ما يتعلق بالعدادات",
+              "quickLinkUrl": "https://www.aadc.ae/كل-ما-يتعلق-بالعدادات"
+            },
+            {
+              "link": "اتفاقية تزويد خدمة المياه والكهرباء",
+              "quickLinkUrl": "https://www.aadc.ae/AADC-SupplyAgreement2022.pdf"
+            },
+            {
+              "link": "الدفع عن طريق تم",
+              "quickLinkUrl": "https://www.tamm.abudhabi/ar-AE/"
+            },
+            {
+              "link": "الدفع المباشر",
+              "quickLinkUrl": "https://eservices.aadc.ae/ar/Pages/default.aspx"
+            },
+            {
+              "link": "الدفع المباشر",
+              "quickLinkUrl": ""
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle": "أريد الانتقال إلى عقار جديد",
+          "description": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك المنزلية كاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "تسجيل الحالات الطبية الحساسة",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/RequestfForSpecialNeedsCase.aspx"
+            },
+            {
+              "service": "تعديل فئة المتعامل"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "الشكاوى",
+              "quickLinkUrl": "https://www.aadc.ae/ar/pages/Complaints.aspx"
+            },
+            {
+              "link": "اتصل بنا",
+              "quickLinkUrl": "https://www.aadc.ae/ar/contactus.aspx"
+            },
+            {
+              "link": "كل ما يتعلق بالعدادات",
+              "quickLinkUrl": "https://www.aadc.ae//ar/pages/AllAboutMeters.aspx"
+            },
+            {
+              "link": "تطبيق شركة العين للتوزيع لمنصة الأبل (ايفون ، ايباد) وآندرويد (سامسونج)",
+              "quickLinkUrl": "https://www.aadc.ae//ar/pages/Apple-AndroidAADCapplication.aspx"
+            },
+            {
+              "link": "كل ما يتعلق بالعدادات",
+              "quickLinkUrl": "https://www.aadc.ae//ar/pages/W_H.aspx"
+            },
+            {
+              "link": "دليل معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToGuaranteedServiceStandards.pdf"
+            },
+            {
+              "link": "قائمة الموردين المعتمدين للوحات التوزيع الكهربائية",
+              "quickLinkUrl": "https://www.aadc.ae//ar/pages/LV_Switchgear.aspx"
+            },
+            {
+              "link": "اتفاقية توريد",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/Supply-agreement.aspx"
+            },
+            {
+              "link": "إمدادات المياه ولوائحها",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToWSR.pdf"
+            },
+            {
+              "link": "قواعد الممارسة الخاصة بكفاءة استخدام المياه والكهرباء في شركة العين للتوزيع",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%D8%A7%D9%84%D9%85%D9%85%D8%A7%D8%B1%D8%B3%D8%A9%20%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9%D8%A8%D9%83%D9%81%D8%A7%D8%A1%D8%A9%20%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87%20%D9%88%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1%D9%81%D9%8A%20%D8%B4%D8%B1%D9%83%D8%A9%D8%A7%D9%84%D8%B9%D9%8A%D9%86%20%D9%84%D9%84%D8%AA%D9%88%D8%B2%D9%8A%D8%B9.PDF"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle": "تمديد وتوصيل خدمات المياه",
+          "description": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة",
+          "itemsHeader": "نعمل لتمكينك من التحكم على مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "اعتماد مخططات لتمديدات المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/Approval_of_Water_Tank_Location.aspx"
+            },
+            {
+              "service": "تمديد خط مياه دائم",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PermanentNewWaterConnectionRequest.aspx"
+            },
+            {
+              "service": "تفتيش للتمديدات الداخلية للمياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/WaterInspectionRequest.aspx"
+            },
+            {
+              "service": "تفعيل خدمات المياه",
+              "serviceUrl": "https://www.aadc.ae/Uploads/GuideToWSR.pdf"
+            },
+            {
+              "service": "إضافة عداد المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/AdditionalMeterRequest.aspx"
+            },
+            {
+              "service": "زيادة حجم خط المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/WaterMeterReinforcementRequest.aspx"
+            },
+            {
+              "service": "توصيل خط مياه مؤقت",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/TemporaryWaterConnectionRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "الصحة والسلامة",
+              "quickLinkUrl": "https://www.aadc.ae/ae/pages/Health_and_Safety.aspx"
+            },
+            {
+              "link": "إمدادات المياه ولوائحها",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToWSR.pdf"
+            },
+            {
+              "link": "لوائح إمدادات المياه 2009",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/WaterSupplyRegulations2009.pdf"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle": "الشهادات",
+          "description": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت تنتقل إلى عقار جديد داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك المنزلية كاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "إصدار شهادة لمن يهمه الأمر",
+              "serviceUrl": "https://www.aadc.ae/ae/pages/ToWhomItMayConcern.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle": "تحويل وإيقاف خدمات المياه",
+          "description": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة للتواصل في عقارك الجديد.",
+          "itemsHeader": "نعمل على لتمكينك من التحكم في على مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "نقل عداد المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/MeterShiftingRequest.aspx"
+            },
+            {
+              "service": "عرض سعر لنقل",
+              "serviceUrl": ""
+            },
+            {
+              "service": "نقل خدمات المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/ShiftingDiversionWaterServiceRequest.aspx"
+            },
+            {
+              "service": "إزالة عداد مياه دائم",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PermanentServiceDemolishRequest.aspx"
+            },
+            {
+              "service": "إزالة عداد مياه مؤقت",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/TemporaryServiceDemolishRequest.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle": "تسجيل صهاريج المياه",
+          "description": "اجعل من منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة للتواصل في عقارك الجديد.",
+          "itemsHeader": "نعمل على لتمكينك من التحكم في على مرافقك المنزلية الكاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "تجديد صهريج مياه صالحة للشرب (بطاقة عيون)",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/OyoonCardRequest.aspx"
+            },
+            {
+              "service": "تسجيل صهريج مياه صالحه للشرب (بطاقة عيون)",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/OyoonCardRequest.aspx"
+            },
+            {
+              "service": "الغاء تسجيل صهريج مياه صالحة للشرب (بطاقة عيون)",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/OyoonCardRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ساعات العمل",
+              "quickLinkUrl": "https://www.aadc.ae/en/pages/W_H.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle": "تعرفة شحن السيارات الكهربائية في الإمارة",
+          "description": "اجعل منزلك مميزًا بمساعدتنا. إذا كنت تنتقل داخل الإمارة، فسنوفر لك تجربة سلسة لتوصيل شاحن السيارة الكهربائية الخاص بك وتسجيله في عقارك الجديد.",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك المنزلية كاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "تسجيل جهاز شحن المركبات الكهربائية",
+              "serviceUrl": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": []
+        }
+      ],
+      "business": [
+        {
+          "topic": "Extension-and-connection-of-electricity-services",
+          "subtitle": "تمديد وتوصيل خدمات الكهرباء",
+          "description": "سنوفر لك تجربة سلسة لضمان حصولك على خدمات الكهرباء في مقر عملك.",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك التجارية كاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "عزل وإعادة الكهرباء لأغراض الصيانة",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/ServiceForNewCustomerReconnctForMaintainence.aspx"
+            },
+            {
+              "service": "اعتماد مخططات التمديدات الداخلية للكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerDrawingApprovalRequest.aspx"
+            },
+            {
+              "service": "تمديد كابل كهرباء دائم",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PermanentNewPowerConnectionRequest.aspx"
+            },
+            {
+              "service": "تفتيش للتمديدات الكهربائية الداخلية لتوصيل جديد",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerInspectionRequest.aspx"
+            },
+            {
+              "service": "تفعيل خدمات الكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerAdditionalMeterRequest.aspx"
+            },
+            {
+              "service": "زيادة أحمال الكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/Electricity_Reinforcement.aspx"
+            },
+            {
+              "service": "توصيل خط كهرباء مؤقت",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/TemporaryPowerConnectionRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "الصحة والسلامة",
+              "quickLinkUrl": "https://www.aadc.ae/ae/pages/Health_and_Safety.aspx"
+            },
+            {
+              "link": "مدونة ممارسات شركة العين للتوزيع للاستخدام الفعال للمياه والكهرباء",
+              "quickLinkUrl": "والكهرباءفي استخدامالمياه الخاصةبكفاءة قواعدالممارسة للتوزيع شركةالعين.PDF (aadc.ae)"
+            }
+          ]
+        },
+        {
+          "topic": "Transfer-and-removal-of-electricity-services",
+          "subtitle": "نقل وإيقاف خدمات الكهرباء",
+          "description": "سنوفر لك تجربة سلسة والحصول على جميع خدمات نقل وتجديد المياه الخاصة بك.",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك التجارية كاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "نقل عداد كهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/Cable_or_Meter_Shifting.aspx"
+            },
+            {
+              "service": "عرض أسعار لنقل خدمات الكهرباء"
+            },
+            {
+              "service": "نقل خدمات الكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/ShiftingDiversionE-ServiceRequest.aspx"
+            },
+            {
+              "service": "إزالة خدمات الكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerPermanentServiceDemolishRequest.aspx"
+            },
+            {
+              "service": "إزالة عداد كهرباء مؤقت",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PowerTemporaryServiceDemolishRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن في فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "قواعد قطع الخدمة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/Supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/GuaranteedStandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Account-management-and-bills",
+          "subtitle": "إدارة الحسابات والفواتير",
+          "description": "بالنسبة للشركات في الإمارة، نحن نقدم تجربة بسيطة وفعالة لإدارة فواتير الطاقة والمياه الخاصة بشركتك.",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك التجارية كاملة. يمكنك العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "فتح حساب لمتعامل جديد",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/NewTenantRegistrationRequest.aspx"
+            },
+            {
+              "service": "دفع فواتير المياه والكهرباء",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/BillPaymentRequests.aspx"
+            },
+            {
+              "service": "تغير بيانات ملكية العقار",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PropertyOwnershipChangeRequest.aspx"
+            },
+            {
+              "service": "تقسيط أو ترتيب الدفع للمتعامل المتعسر مالياً",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PaymentInstallmentRequest.aspx"
+            },
+            {
+              "service": "تسجيل ضمن إعفاءات الشؤون الاجتماعية",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/MoveAccountUnderSocialCareCaseRequest.aspx"
+            },
+            {
+              "service": "استرداد او تحويل رصيد",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/CreditRefundRequest.aspx"
+            },
+            {
+              "service": "إصدار شهادة إغلاق حساب",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/CloseAccountRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن في فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/Whattodoinanemergency.aspx"
+            },
+            {
+              "link": "التعرفة والأسعار",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/RatesAndTariffs.aspx"
+            },
+            {
+              "link": "اتفاقية توريد",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/Supply-agreement.aspx"
+            },
+            {
+              "link": "تحقق من فواتيرك",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/_layouts/15/addc/Checkmybill.aspx"
+            },
+            {
+              "link": "فاتورة جديدة، مصممة خصيصاً لك!",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/UnderstandYourBill.aspx"
+            },
+            {
+              "link": "",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/PaymentOptions.aspx"
+            },
+            {
+              "link": "",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/HowToConnect.aspx"
+            },
+            {
+              "link": "",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/GuaranteedStandards.aspx"
+            },
+            {
+              "link": "",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/businessGetConnectedExt.aspx"
+            },
+            {
+              "link": "",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Pages/Supplydisconnectionrules.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Customer-care",
+          "subtitle": "خدمة العملاء",
+          "description": "نقدم تجربة سلسة لتناسب جميع متطلبات أعمالك.",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك التجارية كاملة، ونزودك بجميع الوثائق التي تحتاجها لخدمات رعاية العملاء.",
+          "items": [
+            {
+              "service": "تسجيل الحالات الطبية الحساسة",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/RequestfForSpecialNeedsCase.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "الشكاوى",
+              "quickLinkUrl": "https://www.aadc.ae/ar/pages/Complaints.aspx"
+            },
+            {
+              "link": "ما الذي يمكن في فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "ميثاق العملاء",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/Documents/ميثاق%20خدمة%20المتعاملين.pdf"
+            },
+            {
+              "link": "هدفنا خدمة كل أفراد المجتمع",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/critical-care-customers.aspx"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Connection-of-water-services",
+          "subtitle": "توصيل خدمات المياه",
+          "description": "نحن نقدم تجربة سلسة للشركات في الإمارة لإنشاء وصيانة توصيل المياه في مقر شركتك.",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك التجارية كاملة، ونزودك بجميع الوثائق التي تحتاجها للحفاظ على اتصال مياه مستقر لمقر عملك.",
+          "items": [
+            {
+              "service": "اعتماد مخططات لتمديدات المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/Approval_of_Water_Tank_Location.aspx"
+            },
+            {
+              "service": "تمديد خط مياه دائم",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PermanentNewWaterConnectionRequest.aspx"
+            },
+            {
+              "service": "تفتيش للتمديدات الداخلية للمياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/WaterInspectionRequest.aspx"
+            },
+            {
+              "service": "إضافة عداد المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/AdditionalMeterRequest.aspx"
+            },
+            {
+              "service": "زيادة حجم خط المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/WaterMeterReinforcementRequest.aspx"
+            },
+            {
+              "service": "توصيل خط مياه مؤقت",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/TemporaryWaterConnectionRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "الصحة والسلامة",
+              "quickLinkUrl": "https://www.aadc.ae/ar-ae/pages/Health_and_Safety.aspx  "
+            },
+            {
+              "link": "إمدادات المياه ولوائحها",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/GuideToWSR.pdf"
+            },
+            {
+              "link": "لوائح إمدادات المياه 2009",
+              "quickLinkUrl": "https://www.aadc.ae/Uploads/WaterSupplyRegulations2009.pdf"
+            }
+          ]
+        },
+        {
+          "topic": "Certificates",
+          "subtitle": "الشهادات",
+          "description": "نسهل عليك قدر الإمكان العثور على الشهادات ذات الصلة لطلبات خدمات الكهرباء والمياه.",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك والعثور على الشهادات ذات الصلة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة محددة.",
+          "items": [
+            {
+              "service": "إصدار شهادة براءة ذمة بسبب الحوادث"
+            },
+            {
+              "service": "إصدار شهادة لمن يهمه الأمر",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/ToWhomItMayConcern.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "Shifting-and-removal-of-water-services",
+          "subtitle": "تحويل وإيقاف خدمات المياه",
+          "description": "سنوفر لك تجربة سلسة لضمان حصولك على جميع خدمات نقل المياه لعملك.",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك التجارية كاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "نقل عداد المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/MeterShiftingRequest.aspx"
+            },
+            {
+              "service": "عرض سعر لنقل خدمات المياه"
+            },
+            {
+              "service": "نقل خدمات المياه",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/ShiftingDiversionWaterServiceRequest.aspx"
+            },
+            {
+              "service": "إزالة عداد مياه دائم",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/PermanentServiceDemolishRequest.aspx"
+            },
+            {
+              "service": "إزالة عداد مياه مؤقت",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/TemporaryServiceDemolishRequest.aspx"
+            }
+          ],
+          "quickLinks": [
+            {
+              "link": "ما الذي يمكن في فعله في حالة الطوارئ",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/whattodoinanemergency.aspx"
+            },
+            {
+              "link": "قواعد قطع الخدمة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/supplydisconnectionrules.aspx"
+            },
+            {
+              "link": "معايير الخدمة المضمونة",
+              "quickLinkUrl": "https://www.addc.ae/ar-ae/business/pages/guaranteedstandards.aspx"
+            }
+          ]
+        },
+        {
+          "topic": "Registration-of-water-tankers",
+          "subtitle": "تسجيل صهاريج المياه",
+          "description": "عش تجربة انتقال مميزة بمساعدتنا. إذا كنت ستنقل مقرًك التجاري داخل الإمارة فسنعمل على توفير انتقال وتجربة سلسة",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك التجارية كاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "تجديد صهريج مياه صالحة للشرب (بطاقة عيون)",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/OyoonCardRequest.aspx"
+            },
+            {
+              "service": "تسجيل صهريج مياه صالحه للشرب (بطاقة عيون)",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/OyoonCardRequest.aspx"
+            },
+            {
+              "service": "الغاء تسجيل صهريج مياه صالحة للشرب (بطاقة عيون)",
+              "serviceUrl": "https://www.aadc.ae//ar/pages/OyoonCardRequest.aspx"
+            }
+          ],
+          "quickLinks": []
+        },
+        {
+          "topic": "EV-charging-tariff",
+          "subtitle": "تعرفة شحن السيارات الكهربائية في الإمارة",
+          "description": "إذا كنت ستنقل مقرًك التجاري داخل الإمارة، فسنوفر لك تجربة سلسة لتوصيل شاحن السيارة الكهربائية الخاص بك وتسجيله في عقارك الجديد.",
+          "itemsHeader": "نعمل على تمكينك من التحكم في مرافقك التجارية كاملة. يمكن العثور أدناه على جميع الوثائق التي تحتاجها لطلب خدمة معينة بنقرة زر واحدة.",
+          "items": [
+            {
+              "service": "تسجيل جهاز شحن المركبات الكهربائية",
+              "serviceUrl": "https://myapp.addc.ae/EVSERegistration/"
+            }
+          ],
+          "quickLinks": []
+        }
+      ]
+    }
+  }
+}

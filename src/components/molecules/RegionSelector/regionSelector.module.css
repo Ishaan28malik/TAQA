@@ -1,0 +1,275 @@
+.mainContainer {
+  width: 840px;
+  height: calc(550px - 60px);
+  max-height: calc(550px - 60px);
+  border-bottom: 20px solid #6b42d1;
+  scrollbar-width: none;
+}
+
+.cardsDiv {
+  display: flex;
+  height: 250px;
+  width: 100%;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  color: #ffff;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 61px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.header {
+  text-align: left;
+  color: var(--color-font-black);
+}
+
+.mobileViewSelector {
+  display: none !important;
+}
+
+.card {
+  background-color: #00093f;
+  width: 50%;
+  height: 100%;
+  display: flex;
+}
+
+.card1 {
+  margin-left: 50px;
+  /*rtl:raw:
+    margin-right: 50px;
+    margin-left: 0px
+        */
+}
+
+.card2 {
+  margin-right: 50px;
+  /*rtl:raw:
+          margin-left: 50px;
+          margin-right: 0px
+        */
+}
+
+.subHeader {
+  text-align: left;
+  margin-top: 3px;
+}
+
+.cardText {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+
+.arrowIcon {
+  margin-left: 30px;
+}
+
+.arrowIcon2 {
+  margin-left: 30px;
+}
+
+.notes {
+  text-align: left;
+  display: flex;
+  margin-left: 50px;
+  margin-right: 50px;
+  color: var(--color-font-black);
+}
+
+.frameImage1 {
+  width: 60%;
+  height: 160px;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  left: 35%;
+  bottom: 0px;
+  /*rtl:raw:
+   transform: scaleX(-1);
+   width: 55%;
+   right: 40%;
+   left: 0px
+        */
+}
+
+.frameImage2 {
+  width: 70%;
+  height: 140px;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  /*rtl:raw:
+   transform: scaleX(-1);
+        */
+}
+
+/* Media Query to hide the header on mobile devices */
+@media screen and (max-width: 768px) {
+  .mainContainer {
+    width: 300px;
+    height: 676px;
+    max-height: calc(100vh - 20px);
+  }
+  .card {
+    width: 85%;
+    height: 100%;
+    margin-left: 50px;
+    /*rtl:raw: 
+     margin-left: 0px !important;
+     margin-right: 0px !important
+    */
+  }
+  .cardsDiv {
+    display: flex;
+    flex-direction: column;
+    height: 382px;
+    margin-top: 0px;
+    margin-bottom: 16px;
+  }
+  .headerContainer {
+    margin-top: 5px !important;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 16px !important;
+  }
+  .header {
+    text-align: left;
+  }
+  .card1 {
+    margin-left: 0px;
+  }
+
+  .card2 {
+    /*rtl:raw:
+          margin-left: 0px
+        */
+  }
+  .notes {
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .cardText {
+    margin-top: 30px !important;
+    margin-left: 22px !important;
+    margin-bottom: 0px !important;
+  }
+  .arrowIcon {
+    margin-left: 22px;
+  }
+  .frameImage1 {
+    width: 65%;
+    height: 100px;
+    overflow: hidden;
+    position: absolute;
+    right: 0px;
+    left: 38%;
+    bottom: 0px;
+    /*rtl:raw:
+     transform: scaleX(-1);
+     width: 55%;
+     right: 42%;
+     left: 0px
+          */
+  }
+  .frameImage2 {
+    width: 65%;
+    height: 100px;
+    overflow: hidden;
+    position: absolute;
+    right: 8px;
+  }
+  .mobileViewSelector {
+    display: flex !important;
+  }
+}
+
+@media screen and (max-width: 1024px) and (orientation: landscape) {
+  .mainContainer {
+    width: 640px;
+    height: 550px;
+    max-height: 400px !important;
+  }
+
+  .card {
+    width: 85%;
+    height: 100%;
+  }
+  .cardsDiv {
+    display: flex;
+    flex-direction: row;
+    height: 182px;
+    margin-top: 0px;
+    margin-bottom: 16px;
+  }
+  .headerContainer {
+    margin-top: 5px !important;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 16px !important;
+  }
+  .header {
+    text-align: left;
+  }
+  .card1 {
+    margin-left: 24px !important;
+  }
+
+  .card2 {
+    margin-left: 0px;
+    margin-right: 24px !important;
+    /*rtl:raw:
+          margin-left: 0px
+        */
+  }
+  .notes {
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .cardText {
+    margin-top: 30px !important;
+    margin-left: 22px !important;
+    margin-bottom: 0px !important;
+  }
+  .arrowIcon {
+    margin-left: 22px;
+  }
+  .frameImage1 {
+    width: 65%;
+    height: 100px;
+    overflow: hidden;
+    position: absolute;
+    right: 0px;
+    left: 38%;
+    bottom: 0px;
+    /*rtl:raw:
+     transform: scaleX(-1);
+     width: 55%;
+     right: 42%;
+     left: 0px
+          */
+  }
+  .frameImage2 {
+    width: 65%;
+    height: 100px;
+    overflow: hidden;
+    position: absolute;
+    right: 8px;
+  }
+  .mobileViewSelector {
+    display: flex !important;
+  }
+}

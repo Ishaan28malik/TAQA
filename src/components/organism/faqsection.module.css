@@ -1,0 +1,338 @@
+.container {
+  overflow: hidden;
+  height: fit-content;
+  width: 67% !important;
+}
+
+.custom-cursor {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+  pointer-events: none;
+  z-index: 9999;
+  font-size: 14px;
+  padding: 2px 4px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #ffff;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.custom-cursor.visible {
+  top: 0;
+  left: 0;
+}
+
+.header {
+  margin-top: 40px;
+  text-align: left;
+  margin-bottom: 8px;
+  color: var(--theme-color);
+}
+
+.subHeader {
+  margin-top: 8px;
+  text-align: left;
+  display: flex;
+  width: 70%;
+  color: var(--color-font-black);
+}
+
+.faqContainer ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.faqContainer li {
+  margin-bottom: 5px;
+}
+
+.categoriesWrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.categoriesContainer {
+  display: flex;
+  overflow-x: scroll;
+  white-space: nowrap;
+  margin: 20px 0px;
+  padding: 40px 0px;
+  width: 100%;
+  gap: 6px;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.categoriesWrapper::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100px;
+  background: linear-gradient(
+    270deg,
+    #ffffff 4.17%,
+    rgba(255, 255, 255, 0) 81.94%
+  );
+  pointer-events: none;
+}
+
+.filterButton {
+  padding: 15px 30px 15px 30px;
+  gap: 10px;
+  border-radius: 50px;
+}
+
+.faqContainer {
+  max-height: 1012px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.question {
+  cursor: pointer;
+  padding: 50px 30px;
+  height: auto;
+  border-bottom: 1px solid #d3d3d3;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+
+.answer {
+  cursor: pointer;
+  padding: 50px 30px;
+  border-left: none;
+  border-right: none;
+  background-color: #f7f7f7;
+  border-top: 1px solid #d3d3d3;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.question:first-child {
+  border-top: 1px solid #d3d3d3;
+}
+
+.questionInnerText {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  width: 90%;
+  color: var(--color-font-black);
+}
+
+.questionInnerTextAnswer {
+  cursor: pointer;
+  width: 10%;
+  font-size: 32px;
+}
+
+.answerText {
+  text-align: left;
+  margin-top: 14px;
+  color: var(--color-font-black);
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .container {
+    width: auto;
+    height: auto;
+    margin: 0px;
+    padding: 0 20px !important;
+    width: 100% !important;
+  }
+  .header {
+    font-family: Grold;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 23.4px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    /* padding: 0px 20px; */
+  }
+  .categoriesWrapper {
+    margin-bottom: 20px;
+  }
+  .subHeader {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    width: auto;
+    /* padding: 0px 1.25rem; */
+    padding: 10px 0px 20px 0px;
+  }
+  .categoriesContainer {
+    padding: 0px 0px 0px 10px;
+    margin: 0px;
+    gap: 2px;
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 15.95px;
+    text-align: center;
+    overflow-x: scroll;
+  }
+  .faqContainer {
+    margin: 0px 0px 0px;
+  }
+  .question {
+    cursor: pointer;
+    height: auto;
+    width: auto;
+    padding: 20px;
+  }
+  .question span {
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 18.2px;
+    text-align: left;
+  }
+  .answer {
+    padding: 20px 20px;
+    /* height: 360px; */
+    width: auto;
+  }
+  .answerFont {
+    font-size: 13px !important;
+    line-height: 19.5px !important;
+  }
+  .questionInnerText {
+    text-align: left;
+    width: 90%;
+  }
+  .answerText {
+    text-align: left;
+    margin-top: 20px;
+    width: auto;
+  }
+  .loadMoreButtonMobile {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+/* Standard iPads */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+  .container {
+    width: auto;
+    height: auto;
+    margin: 0px;
+    padding: 0 20px;
+    width: 100% !important;
+  }
+  .header {
+    font-family: Grold;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 23.4px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    /* padding: 0px 20px; */
+  }
+  .categoriesWrapper {
+    margin-bottom: 20px;
+  }
+  .subHeader {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    width: auto;
+    /* padding: 0px 1.25rem; */
+    padding: 10px 0px 20px 0px;
+  }
+}
+
+/* iPad Pro 10.5" and 11" */
+@media only screen and (min-device-width: 820px) and (max-device-width: 820px) and (-webkit-min-device-pixel-ratio: 2) {
+  .container {
+    width: 100% !important;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+  }
+  .header {
+    font-family: Grold;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 23.4px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    /* padding: 0px 20px; */
+  }
+  .categoriesWrapper {
+    margin-bottom: 20px;
+  }
+  .subHeader {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    width: auto;
+    /* padding: 0px 1.25rem; */
+    padding: 10px 0px 20px 0px;
+  }
+}
+
+@media only screen and (min-width: 820px) and (max-width: 820px) and (min-resolution: 2dppx) {
+  .container {
+    width: 100% !important;
+    height: auto;
+    margin: 0px;
+    padding: 0 70px;
+  }
+}
+
+/* iPad Pro 12.9" */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
+  .container {
+    width: auto;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+  }
+  .header {
+    font-family: Grold;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 23.4px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    /* padding: 0px 20px; */
+  }
+  .categoriesWrapper {
+    margin-bottom: 20px;
+  }
+  .subHeader {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    width: auto;
+    /* padding: 0px 1.25rem; */
+    padding: 10px 0px 20px 0px;
+  }
+}

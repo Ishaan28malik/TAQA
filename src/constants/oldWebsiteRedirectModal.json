@@ -1,0 +1,14 @@
+{
+  "en-us": {
+    "title": "We are updating the website to the new TAQA Distribution brand",
+    "description": "In the meantime, please continue here to the old website for reference",
+    "checkboxLabel": "Do not show me again",
+    "btnLabel": "Continue"
+  },
+  "ar-ae": {
+    "title": "نقوم حاليا بتحديث الموقع الإكتروني لشركة طاقة للتوزيع.",
+    "description": "في هذه الأثناء يمكنك تصفح الموقع الإلكتروني القديم",
+    "checkboxLabel": "لا تظهر هذه الرسالة مرة أخرى",
+    "btnLabel": "المزيد"
+  }
+}

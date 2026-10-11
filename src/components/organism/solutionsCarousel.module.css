@@ -1,0 +1,23 @@
+.appsectioncontainer {
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    padding: 0px 70px 0px 70px;
+    gap: 20px;
+    /* justify-content: center; */
+    margin-top: 70px;
+  }
+
+  @media screen and (max-width: 768px),
+screen and (max-width: 1024px) and (orientation: landscape) 
+{
+  .appsectioncontainer {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 820px) {
+  .tips {
+    display: none;
+  }
+}

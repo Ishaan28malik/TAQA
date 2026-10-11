@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 50px 40px;
+  border-bottom: 1px solid var(--color-grey-25);
+  background-color: var(--color-grey-10);
+  & .iconContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+    width: auto;
+    & svg {
+      height: 25px;
+      width: auto;
+      & path {
+        fill: var(--color-font-black);
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .container {
+    padding: 30px 20px;
+    gap: 10px;
+    & .iconContainer {
+      height: 17px;
+      width: auto;
+      & svg {
+        height: 17px;
+      }
+    }
+  }
+}

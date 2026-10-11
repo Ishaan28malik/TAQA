@@ -1,0 +1,145 @@
+.container {
+  color: #fff;
+  border-radius: 80px;
+  display: inline-flex;
+  align-items: center;
+  position: absolute;
+  text-transform: uppercase;
+  background-color: var(--theme-color);
+  position: absolute;
+  inset: 0px;
+  &.bordered {
+    inset: -1px;
+  }
+
+  &.xl {
+    height: 100px;
+    gap: 40px;
+    padding: 15px 40px;
+    clip-path: inset(15px 15px 15px calc(100% - 85px) round 80px);
+    -webkit-clip-path: inset(15px 15px 15px calc(100% - 85px) round 80px);
+    /*rtl:raw:
+      clip-path: inset(15px calc(100% - 85px) 15px 15px round 80px);
+    */
+    &.icon {
+      padding: 15px 15px 15px 40px;
+    }
+  }
+
+  &.lg {
+    height: 74px;
+    gap: 20px;
+    padding: 10px 30px;
+    clip-path: inset(10px 10px 10px calc(100% - 64px) round 80px);
+    -webkit-clip-path: inset(10px 10px 10px calc(100% - 64px) round 80px);
+    /*rtl:raw:
+      clip-path: inset(10px calc(100% - 64px) 10px 10px round 80px);
+    */
+    &.icon {
+      padding: 10px 10px 10px 30px;
+    }
+  }
+  &.md {
+    height: 60px;
+    gap: 20px;
+    padding: 10px 40px;
+    clip-path: inset(10px 10px 10px calc(100% - 50px) round 80px);
+    -webkit-clip-path: inset(10px 10px 10px calc(100% - 50px) round 80px);
+    /*rtl:raw:
+      clip-path: inset(10px calc(100% - 50px) 10px 10px round 80px);
+    */
+    &.icon {
+      padding: 10px 10px 10px 40px;
+    }
+  }
+
+  &.sm {
+    height: 43px;
+    gap: 10px;
+    padding: 15px 25px;
+    clip-path: inset(15px 15px 15px calc(100% - 41px) round 70px);
+    -webkit-clip-path: inset(15px 15px 15px calc(100% - 41px) round 70px);
+    /*rtl:raw:
+      clip-path: inset(15px calc(100% - 41px) 15px 15px round 70px);
+    */
+    &.icon {
+      padding: 15px 15px 15px 25px;
+    }
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .container {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+    transition: clip-path 0.65s cubic-bezier(0.785, 0.135, 0.15, 0.86),
+      transform 0.65s cubic-bezier(0.785, 0.135, 0.15, 0.86),
+      -webkit-transform 0.65s cubic-bezier(0.785, 0.135, 0.15, 0.86),
+      -webkit-clip-path 0.65s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+  }
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .container {
+    &.xl {
+      height: 62px;
+      gap: 20px;
+      padding: 8px 25px;
+      clip-path: inset(8px 8px 8px calc(100% - 54px) round 80px);
+      -webkit-clip-path: inset(8px 8px 8px calc(100% - 54px) round 80px);
+      /*rtl:raw:
+        clip-path: inset(8px calc(100% - 54px) 8px 8px round 80px);
+      */
+      &.icon {
+        padding: 8px 8px 8px 25px;
+      }
+    }
+
+    &.lg {
+      height: 52px;
+      gap: 14px;
+      padding: 8px 25px;
+      clip-path: inset(8px 8px 8px calc(100% - 44px) round 80px);
+      -webkit-clip-path: inset(8px 8px 8px calc(100% - 44px) round 80px);
+      /*rtl:raw:
+        clip-path: inset(8px calc(100% - 44px) 8px 8px round 80px);
+      */
+      &.icon {
+        padding: 8px 8px 8px 25px;
+      }
+    }
+
+    &.md {
+      height: 47px;
+      gap: 20px;
+      padding: 15px 30px;
+      clip-path: inset(15px 15px 15px calc(100% - 41px) round 80px);
+      -webkit-clip-path: inset(15px 15px 15px calc(100% - 41px) round 80px);
+      /*rtl:raw:
+        clip-path: inset(15px calc(100% - 41px) 15px 15px round 80px);
+      */
+      &.icon {
+        padding: 15px 15px 15px 30px;
+      }
+    }
+
+    &.sm {
+      height: 38px;
+      gap: 10px;
+      padding: 12px 20px;
+      line-height: 155%;
+      border-radius: 70px;
+      clip-path: inset(12px 12px 12px calc(100% - 32px) round 70px);
+      -webkit-clip-path: inset(12px 12px 12px calc(100% - 32px) round 70px);
+      /*rtl:raw:
+        clip-path: inset(12px calc(100% - 32px) 12px 12px round 70px);
+      */
+      &.icon {
+        padding: 12px 12px 12px 20px;
+      }
+    }
+  }
+}

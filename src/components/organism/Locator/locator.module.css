@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    overflow: visible;
+    & .mapboxBody{
+        display:flex;
+        overflow: scroll;
+        height: 980px;
+        background-color: var(--theme-secondary-color);
+        color: var(--color-font-black);
+        &::-webkit-scrollbar {
+            display: none;
+          }
+          scrollbar-width: none;
+        & .mapContainer{
+            position: relative;
+            display: flex;
+            flex: 1;
+            background-color: #dedede;
+        }
+    }
+    & .errorMessage{
+        padding: 30px;
+    }
+}
+
+
+@media screen and (max-width: 768px),
+screen and (max-width: 1024px) and (orientation: landscape) 
+{
+    .container{
+        gap: 0px;
+        & .mapboxBody{
+            position: relative;
+            height: 800px;
+            flex-direction: column;
+            & .mapContainer{
+                order: 1;
+                height: 520px;
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+.container {
+  display: flex;
+  gap: 100px;
+  & .linksContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    flex: 1;
+    --color: var(--color-font-black);
+    & .linksGroupContainer {
+      display: flex;
+      flex-direction: column;
+      border-bottom-width: 1px;
+      border-color: #d3d3d3;
+      padding: 0 0 40px 0;
+      gap: 20px;
+      & > *:not(.sublinksGroupContainer) {
+        width: 200px;
+        flex-shrink: 0;
+      }
+      & .sublinksGroupContainer {
+        display: flex;
+        gap: 20px 94px;
+        flex-wrap: wrap;
+        & > * {
+          flex-shrink: 0;
+          width: 200px;
+        }
+      }
+    }
+  }
+  & .miscLinksGroupContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    --color: var(--theme-color);
+    & > * {
+      flex-shrink: 0;
+      width: 200px;
+    }
+    &:not(:has(:nth-child(1))) {
+      flex-shrink: 0;
+      flex-basis: 200px;
+    }
+  }
+
+  & .captionContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    --color: var(--theme-color);
+    & > *:not(a) {
+      flex-shrink: 0;
+      width: 165px;
+    }
+    &:not(:has(:nth-child(1))) {
+      flex-basis: 165px;
+      flex-shrink: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 768px),
+  screen and (max-width: 1024px) and (orientation: landscape) {
+  .container {
+    flex-direction: column;
+    gap: 16px;
+    & .captionContainer {
+      order: 1;
+      display: flex;
+      height: 47px;
+      flex: 0 0 auto;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      &:not(:has(:nth-child(1))) {
+        display: none;
+      }
+      & > *:not(a){
+        width: auto;
+      }
+    }
+    & .linksContainer {
+      order: 3;
+      gap: 16px;
+      & .linksGroupContainer {
+        border-bottom-width: 1px;
+        border-color: #d3d3d3;
+        padding: 0 0 25px 0;
+        margin-left: 20px;
+        gap: 15px;
+        &:has(> *:only-child) {
+          padding: 0 0 15px 0;
+        }
+        & > *:not(.sublinksGroupContainer) {
+          width: auto;
+        }
+        & > :first-child:not(:last-child) {
+          border-bottom-width: 1px;
+          border-color: #d3d3d3;
+          padding-bottom: 15px;
+        }
+        & .sublinksGroupContainer {
+          gap: 20px;
+          flex-direction: column;
+          & > * {
+            width: auto;
+          }
+        }
+      }
+    }
+    & .miscLinksGroupContainer {
+      order: 2;
+      padding: 0 0 30px 20px;
+      gap: 20px;
+      &:not(:has(:nth-child(1))) {
+        display: none;
+      }
+      & > * {
+        width: auto;
+      }
+    }
+  }
+}

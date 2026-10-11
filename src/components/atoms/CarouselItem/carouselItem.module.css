@@ -1,0 +1,138 @@
+.carouselitem {
+  height: 367px;
+  width: 530px;
+  border-radius: 8px;
+  background-color: var(--color-grey-10);
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  border: 1px solid #D3D3D3;
+}
+
+.carouselitemHeader {
+  color: #0AB3A1;
+  padding: 50px 40px 30px 40px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23.4px;
+  letter-spacing: 6%;
+  height: 23px;
+  margin-bottom: 20px;
+}
+
+.carouselitemHeader.large {
+  font-weight: 600;
+  padding: 50px 40px 30px 40px;
+  font-size: 18px;
+  line-height: 23.4px;
+  letter-spacing: 6%;
+  height: 23px;
+}
+
+.carouselitemHeader.small {
+  padding: 32px 20px 20px 20px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 20.15px;
+  letter-spacing: 0.06em;
+  text-align: left;
+  width: 100%;
+}
+
+.carouselitem .subHeader {
+  color: #40476f;
+  padding: 0px 40px 0px 40px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28.8px;
+  letter-spacing: 1%;
+  height: 194px;
+}
+
+.subHeader.small {
+  color: #40476f;
+  padding: 0px 40px 0px 40px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16.8px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  padding: 20px;
+}
+
+.subHeader.large {
+  color: #40476f;
+  /* padding: 20px 20px 30px 20px; */
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28.8px;
+  letter-spacing: 1%;
+  height: 194px;
+}
+
+.carouselitem.small {
+  width: 240px;
+  height: 298px;
+}
+
+.carouselitem.large {
+  width: 530px;
+  height: 367px;
+}
+
+.announcementdate {
+  height: 50px;
+  color: var(--color-grey-75);
+  padding: 0px 40px 50px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 410px;
+}
+
+.announcementdate img {
+  margin-left: auto;
+  margin-bottom: 10px;
+}
+
+.dot {
+  background: var(--color-grey-75);
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.dot.large {
+  width: 12px;
+  height: 12px;
+}
+
+.dot.small {
+  width: 7px;
+  height: 7px;
+}
+
+.date {
+  font-size: 14px;
+}
+
+.date.large {
+  font-size: 14px;
+}
+
+.date.small {
+  font-size: 10px;
+}
+
+@media screen and (max-width: 768px),
+screen and (max-width: 1024px) and (orientation: landscape) 
+{
+  .announcementdate {
+    width: 200px;
+    margin: 32px 20px 24px 20px;
+    padding: 0px;
+  }
+}
